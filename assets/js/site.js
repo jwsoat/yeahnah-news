@@ -1,8 +1,19 @@
 // yeah nah news — edition renderer
-// Loads editions from /editions/*.json, renders latest on the home page,
+// Loads editions from the editions/ dir, renders latest on the home page,
 // lists all on the archive page. Pipeline just drops a JSON file per edition.
 
-const EDITIONS_DIR = '/editions/';
+// Resolve the app's base path at runtime so it works served from a repo root
+// (gitpages `/yeahnah-news/`) AND from a plain root (local dev). We take the
+// directory of the current page and strip the leading segment that is not the
+// edition data path.
+function basePath() {
+  const path = window.location.pathname || '/';
+  // e.g. /yeahnah-news/ or /yeahnah-news/archive.html -> /yeahnah-news/
+  let dir = path.substring(0, path.lastIndexOf('/') + 1); // strip trailing filename
+  if (!dir.endsWith('/')) dir += '/';
+  return dir;
+}
+const EDITIONS_DIR = basePath() + 'editions/';
 
 // Escape HTML in user/JSON-derived strings to avoid injection
 function esc(s) {

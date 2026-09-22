@@ -5,6 +5,22 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>yeah nah news — your 3-minute break</title>
   <meta name="description" content="Daily news brief, heavy on banter and inside jokes, still factually accurate. Your proper break from a hard day.">
+  <script>
+    // Compute the app base path so assets + nav work served from a repo subpath
+    // (gitpages /yeahnah-news/) and from a plain root (local dev). Replaces the
+    // leading '/' on href/src with the current directory prefix.
+    (function () {
+      var dir = (window.location.pathname.split('/').slice(0, -1).join('/') + '/');
+      if (dir === '//') dir = '/';
+      document.querySelectorAll('[href^="/"], [src^="/"]').forEach(function (el) {
+        var a = el.getAttribute(el.tagName === 'SCRIPT' ? 'src' : 'href');
+        if (a.indexOf('//') === 0) return; // leave protocol-relative alone
+        var target = dir + a.slice(1);
+        if (el.tagName === 'SCRIPT') el.setAttribute('src', target);
+        else el.setAttribute('href', target);
+      });
+    })();
+  </script>
   <link rel="stylesheet" href="/assets/css/site.css">
 </head>
 <body>

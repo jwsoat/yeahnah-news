@@ -4,6 +4,20 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Archive — yeah nah news</title>
+  <script>
+    // Same base-path fix as index.html: works under a repo subpath or root.
+    (function () {
+      var dir = (window.location.pathname.split('/').slice(0, -1).join('/') + '/');
+      if (dir === '//') dir = '/';
+      document.querySelectorAll('[href^="/"], [src^="/"]').forEach(function (el) {
+        var a = el.getAttribute(el.tagName === 'SCRIPT' ? 'src' : 'href');
+        if (a.indexOf('//') === 0) return;
+        var target = dir + a.slice(1);
+        if (el.tagName === 'SCRIPT') el.setAttribute('src', target);
+        else el.setAttribute('href', target);
+      });
+    })();
+  </script>
   <link rel="stylesheet" href="/assets/css/site.css">
 </head>
 <body>
