@@ -1,0 +1,83 @@
+{
+  "slug": "2026-09-23",
+  "date": "2026-09-23",
+  "edition": "Issue #004 — a six-year-old who out-solves your commute, an $85 parking bill for buying groceries twice, and delivery drones that sound like angry bees",
+  "tagline": "Your 3-minute break. Zero fluff, maximum banter.",
+  "reading_minutes": 3,
+  "stories": [
+    {
+      "id": "s1",
+      "category": "entertainment",
+      "headline": "Six-year-old sets a Rubik's Cube world record, then beats it — twice in three days",
+      "summary": "Lian Yunzhi, 6, of Chengdu broke the women's 3x3x3 Rubik's Cube average record twice in three days, down to 4.27 seconds.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "Lian Yunzhi, a six-year-old from Chengdu in China, broke the women's world record for the average 3x3x3 Rubik's Cube solve twice within three days, at competitions in Wuhan and Guangzhou. Solving five times at each event, she first averaged 4.52 seconds per cube, then 4.27 seconds — making her the only female cuber in the world with an average under 4.5 seconds. She has learned more than 1,300 cube algorithms and practises two to three hours a day, having taken up the hobby alongside dance and music classes."
+        },
+        {
+          "kind": "banter",
+          "text": "A six-year-old has memorised 1,300-plus algorithms and practises like it's a second job, and her mother says she gradually realised cubing was the ideal activity for building a well-rounded kid. Meanwhile the rest of us take four seconds — longer than her entire record solve — to remember why we walked into the kitchen. World record: blown past. My five-a-day: strangled by an average Tuesday."
+        },
+        {
+          "kind": "fact",
+          "text": "Per the NZ Herald's world report (22 Sep 2026) citing the World Cube Association and Chinese media: Yunzhi's single-best official 3x3x3 time is 3.54 seconds and her 2x2x2 best is 2.15 seconds, with 569 official solves across 33 competitions. The prior women's mark holder, Qixian Cao (now 9), set a 4.98-second average at Start of Summer Beijing 2026 in May, ranked seventh in the world overall by Speedcuber's Digest."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "category": "finance",
+      "headline": "'Secretly filming our cars and billing us $85' loyal Pak'nSave shopper fined for shopping twice in one day",
+      "summary": "A 61-year-old Auckland woman who has shopped at Pak'nSave for 30 years was hit with an $85 parking fine claiming she'd parked for seven hours — because she'd actually popped in twice.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "A 61-year-old Auckland woman, a Pak'nSave loyalist of 30 years who asked not to be named, received an $85 parking breach notice claiming her car sat in the Pak'nSave Papakura carpark in Takanini for seven hours on 21 August. In fact she and her husband visited the supermarket twice that day — the notice's own images showed her car entering at 9.12am and leaving at 4.46pm. She only got the fine cancelled after telling staff she'd spoken to the NZ Herald. Foodstuffs, which owns Pak'nSave, apologised for any stress once the matter was reviewed."
+        },
+        {
+          "kind": "banter",
+          "text": "So a third-party number-plate gaze decided that two quick trips for the weekly shop equals one deeply suspicious seven-hour camping session, and billed a woman who's been pushing trolleys round that store since before her own daughter could walk. The fine vanished the moment the Herald showed up — proof that the camera's real target was never loitering, it was locating anyone too polite or too tired to argue. Load up the trolley, quit, repeat."
+        },
+        {
+          "kind": "fact",
+          "text": "NZ Herald (22 Sep 2026): the breach notice images showed the car entering at 9.12am and leaving at 4.46pm (Papakura, Takanini, Auckland). Foodstuffs confirmed each Pak'nSave is independently owned and operated, that Papakura uses a third-party provider to monitor carpark time limits, and that the notice was cancelled after staff confirmed the customer visited twice the same day. The woman said the manager still warned her not to park there again for that length of time."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "category": "tech",
+      "headline": "Amazon's delivery drones are drowning out a Texas suburb, and locals say we can't live like this",
+      "summary": "Amazon picked Richardson, Texas, as one of the first US cities for drone delivery — and the constant noise has residents and officials saying enough is enough.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "Amazon chose Richardson, Texas, as one of the first cities in the US to receive its drone delivery service. A fleet of delivery drones now completes drop-offs quickly, but the noise has overwhelmed daily life for residents, who told the New York Times they can't live like this — a sentiment that has spread to other early drone cities dealing with the whirring above their backyards. The story was flagged as trending on NZ Herald's world section this week."
+        },
+        {
+          "kind": "banter",
+          "text": "The future of parcel delivery has finally arrived, and it sounds like an angry swarm of bees doing your online order run at 7am before you've even had coffee. Amazon engineered a drone that can land a box in minutes flat, but apparently nobody on the design team budgeted for suburb — the bit where people actually live — so the official reaction from the very first city to get the service is we can't live like this. Package: delivered. Consideration: delayed for a future firmware update."
+        },
+        {
+          "kind": "fact",
+          "text": "The New York Times (21 Sep 2026) reported Amazon selected Richardson, Texas, as one of the first US cities for drone deliveries; residents described the noise and intrusion as intolerable, with the reaction we can't live like this. NZ Herald republished the story as a trending world item (21 Sep), attributing it to the NYT. Other early US drone-delivery rollouts drew similar noise complaints in 2026."
+        }
+      ]
+    }
+  ],
+  "affiliate_cta": {
+    "enabled": true,
+    "headline": "Making a move? Here's what we'd look at.",
+    "body": "If this edition's got you thinking about a change — gadget, side hustle, or where your money's sitting — here's a couple of sensible starting points.",
+    "disclosure": "We may earn a commission if you buy through these links. It won't cost you more, and it keeps yeah nah news free.",
+    "items": []
+  },
+  "meta": {
+    "sources": [
+      "nzherald.co.nz",
+      "nytimes.com"
+    ],
+    "qa_verified": true
+  }
+}
