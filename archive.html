@@ -4,28 +4,14 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Archive — yeah nah news</title>
-  <script>
-    // Same base-path fix as index.html: works under a repo subpath or root.
-    (function () {
-      var dir = (window.location.pathname.split('/').slice(0, -1).join('/') + '/');
-      if (dir === '//') dir = '/';
-      document.querySelectorAll('[href^="/"], [src^="/"]').forEach(function (el) {
-        var a = el.getAttribute(el.tagName === 'SCRIPT' ? 'src' : 'href');
-        if (a.indexOf('//') === 0) return;
-        var target = dir + a.slice(1);
-        if (el.tagName === 'SCRIPT') el.setAttribute('src', target);
-        else el.setAttribute('href', target);
-      });
-    })();
-  </script>
-  <link rel="stylesheet" href="/assets/css/site.css">
+  <link rel="stylesheet" href="assets/css/site.css">
 </head>
 <body>
   <header class="site-header">
-    <a href="/" class="brand">yeah <span class="brand-accent">nah</span> news</a>
+    <a href="index.html" class="brand">yeah <span class="brand-accent">nah</span> news</a>
     <nav class="nav">
-      <a href="/">Today</a>
-      <a href="/archive" class="active">Archive</a>
+      <a href="index.html">Today</a>
+      <a href="archive.html" class="active">Archive</a>
     </nav>
   </header>
 
@@ -43,6 +29,6 @@
     <p>© <span id="year"></span> yeah nah news · part of the Jwsoat Group</p>
   </footer>
 
-  <script src="/assets/js/site.js"></script>
+  <script src="assets/js/site.js"></script>
 </body>
 </html>
