@@ -1,0 +1,84 @@
+{
+  "slug": "2026-09-22",
+  "date": "2026-09-22",
+  "edition": "Issue #003 — a road-mile record, three cents of a grocery dollar, and an AI Force that's nobody's Space Force",
+  "tagline": "Your 3-minute break. Zero fluff, maximum banter.",
+  "reading_minutes": 4,
+  "stories": [
+    {
+      "id": "s1",
+      "category": "sport",
+      "headline": "Sam Tanner smashes the NZ road mile record in Copenhagen",
+      "summary": "The 26-year-old from Papamoa ran 3min 56.01sec through the streets of Copenhagen to break the national road mile record, finishing 12th of 58 in a stacked field.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "Sam Tanner has broken the New Zealand road mile record, running 3 minutes 56.01 seconds at the World Athletics Road Running Championships in Copenhagen on Saturday. The 26-year-old from Papamoa finished 12th in a 58-runner race through the Danish capital, well under the previous mark of 3min 58.45sec set by Geordie Beamish in Hawaii. Tanner also clipped almost seven seconds off his own road-mile best of 4min 02.91sec. German Robert Farken won in 3:51.80, while Australia's Oliver Hoare took sixth in 3:53.65 — an Oceania record."
+        },
+        {
+          "kind": "banter",
+          "text": "No pacing lights, no lane markings, 58 people elbowing onto a city street — basically everyone's least favourite 7.45am commute, except they did it in the time most of us take to find our keys. And the bloke still ran a national record. Meanwhile I strain something looking at a flight of stairs."
+        },
+        {
+          "kind": "fact",
+          "text": "Tanner's 3:56.01 over the road mile broke the NZ record (previous best 3:58.45, Geordie Beamish) and cut ~7sec off his own 4:02.91 road best, per RNZ's race report and World Athletics results for the Copenhagen championships (19–20 Sep 2026)."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "category": "finance",
+      "headline": "'Just over 3c of every dollar' comes back to a Kawerau New World owner — and she's one of the lucky ones",
+      "summary": "Supermarket owners say the margins behind NZ's checkout drama are thinner than a sliver of ham, as election parties fight over splitting the duopoly.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "While election parties outdo each other on supermarket competition, the person actually running a store says the money left over is barely visible. Clare Gallagher, owner of the New World in Kawerau, told the NZ Herald that 'just over 3c from every dollar a customer spends' comes back to her after paying staff, suppliers, debt and keeping the lights on. Her comments land in a campaign where cost-of-living is the big issue and National, NZ First and Labour are all pitching to split or break up Foodstuffs and Woolworths, which together control an estimated 80–90% of grocery sales."
+        },
+        {
+          "kind": "banter",
+          "text": "So the checkout rounds up, the power bill rounds down, and at the end of the week you, the business owner, get to keep the value of a loose olive for every hundred bucks of groceries that walked out. If margins this thin are the story, the duopoly's either more hangry than greedy, or the three cents is doing a lot of heavy lifting."
+        },
+        {
+          "kind": "fact",
+          "text": "Gallagher's 'just over 3c per dollar' quote is from NZ Herald's The Front Page podcast (Katie Bradford, Sep 2026). Separately, a major grocery boss told Newstalk ZB his business makes 3.6c of after-tax profit per dollar spent, in response to the Finance Minister's 'structural separation' threat. Commerce Commission previously found the two groups owned ~90% of the grocery market (2022)."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "category": "tech",
+      "headline": "Trump unveils an 'AI Force' and an AI 'czar' — no details, but plenty of 'looking for BAD'",
+      "summary": "The US president announced a new oversight body for AI via Truth Social, days after a Nobel laureate told Congress it has 'maybe a year' to regulate the tech.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "US President Donald Trump said on Saturday he is creating an 'AI Force' and will name an AI 'czar' to oversee the technology, announcing it in a Truth Social post with almost no detail on how either would work. 'We will not in any way hinder or stifle the Growth of this incredible Industry… we will also be looking for BAD, and we can do that, very easily, with our already existing Criminal and Civil Justice System,' he wrote. He compared it to Space Force. The move follows industry figures and researchers sounding the alarm, with Nobel laureate Geoffrey Hinton telling lawmakers in a closed-door briefing that Congress has 'maybe a year' to get regulation done."
+        },
+        {
+          "kind": "banter",
+          "text": "Finally, an AI oversight strategy built on the two most reassuring words in modern governance: 'we'll figure it out' combined with 'very easily.' I'm sure the czar — appointed by a leader who believes AI fears are a hoax and that the existing court system can handle bots doing crimes at lightspeed — will be just the High-IQ individual this needs. Very presidential, very Space Force, very much a plan."
+        },
+        {
+          "kind": "fact",
+          "text": "Reuters and CNN (19 Sep 2026) reported Trump's Truth Social post confirming the 'AI Force' and czar search. Geoffrey Hinton, who left Google to warn on AI risk, told a congressional briefing Congress has 'maybe a year' to regulate. California Gov. Gavin Newsom signed a related oversight order the same week."
+        }
+      ]
+    }
+  ],
+  "affiliate_cta": {
+    "enabled": true,
+    "headline": "Making a move? Here's what we'd look at.",
+    "body": "If this edition's got you thinking about a change — gadget, side hustle, or where your money's sitting — here's a couple of sensible starting points.",
+    "disclosure": "We may earn a commission if you buy through these links. It won't cost you more, and it keeps yeah nah news free.",
+    "items": []
+  },
+  "meta": {
+    "sources": [
+      "rnz.co.nz",
+      "nzherald.co.nz",
+      "stuff.co.nz"
+    ],
+    "qa_verified": true
+  }
+}

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>yeah nah news — your 3-minute break</title>
+  <meta name="description" content="Daily news brief, heavy on banter and inside jokes, still factually accurate. Your proper break from a hard day.">
+  <link rel="stylesheet" href="/assets/css/site.css">
+</head>
+<body>
+  <header class="site-header">
+    <a href="/" class="brand">yeah <span class="brand-accent">nah</span> news</a>
+    <nav class="nav">
+      <a href="/" id="nav-home">Today</a>
+      <a href="/archive" id="nav-archive">Archive</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="edition-hero" id="edition-hero" hidden>
+      <div class="edition-kicker" id="edition-kicker"></div>
+      <h1 class="edition-title" id="edition-title"></h1>
+      <p class="edition-tagline" id="edition-tagline"></p>
+      <p class="edition-meta" id="edition-meta"></p>
+    </section>
+
+    <section class="capture" id="capture-top">
+      <h2>Get today's brief in your inbox, 9am sharp.</h2>
+      <p>3 minutes, zero fluff, maximum banter. Free — forever, and this time we mean it.</p>
+      <form class="capture-form" id="capture-form" data-esp="kit">
+        <input type="email" id="email" name="email" placeholder="you@example.com" required>
+        <input type="hidden" name="kind" value="newsletter">
+        <button type="submit">Count me in</button>
+      </form>
+      <p class="capture-note" id="capture-note">Powered by <strong>Kit</strong> · no spam, unsub anytime.</p>
+    </section>
+
+    <section class="stories" id="stories">
+      <!-- stories render here from editions JSON -->
+    </section>
+
+    <section class="capture capture-bottom" id="capture-bottom">
+      <!-- affiliate CTA rendered into this slot per-story via JS -->
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>© <span id="year"></span> yeah nah news · part of the Jwsoat Group</p>
+    <p class="footer-disclosure">yeah nah news may earn a commission from some links. It never affects our editorial take, and we'll always tell you about it.</p>
+  </footer>
+
+  <script src="/assets/js/site.js"></script>
+</body>
+</html>
