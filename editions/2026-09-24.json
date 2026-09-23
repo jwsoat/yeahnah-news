@@ -1,0 +1,83 @@
+{
+  "slug": "2026-09-24",
+  "date": "2026-09-24",
+  "edition": "Issue #005 \u2014 world leaders invited to brunch at a golf club, the coworker who's secretly an entire other country, and the Black Ferns packing Twickenham",
+  "tagline": "Your 3-minute break. Zero fluff, maximum banter.",
+  "reading_minutes": 3,
+  "stories": [
+    {
+      "id": "s1",
+      "category": "world",
+      "headline": "Trump invites Putin to the G20 \u2014 at his own golf club",
+      "summary": "US Secretary of State Marco Rubio confirmed Trump has invited Vladimir Putin to the G20 summit in Miami in December, hosted at Trump National Doral Golf Club.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "US Secretary of State Marco Rubio has publicly confirmed that President Donald Trump invited Russian President Vladimir Putin to the G20 summit in Miami in December \u2014 a summit that will be hosted at Trump's own golf club, Trump National Doral. Rubio confirmed the invitation while speaking to reporters at the United Nations General Assembly in New York. It was rumoured in April that Trump planned to invite Putin. Putin has been treated as a pariah by much of the West since invading Ukraine, but Trump greeted him at a summit in Alaska last year. Rubio told reporters the pair have spoken on the phone 'at least a dozen times'."
+        },
+        {
+          "kind": "banter",
+          "text": "World peace, if you please, is now being negotiated on the same fairway where the green fees go to a private business with one very famous owner. You picture the groundskeeper at Doral getting a memo: the 20 biggest economies in the world are coming to your backyard, and also, someone should probably tell the pro shop to stock up on souvenir tees. It's reportedly the same venue Trump wanted for the G7 in 2020 and had to abandon over ethics questions about profiting from a global gathering. Round two, now with cocktails, and \u2014 bonus \u2014 the war in Ukraine just might top up the drinks menu."
+        },
+        {
+          "kind": "fact",
+          "text": "NZ Herald (23 Sep 2026), republishing Reuters: Rubio confirmed the Putin invitation at UNGA, calling it 'an opportunity for him to engage not just with the President, but with other world leaders,' and said the summit is 'an opportunity in December.' The summit will be held at Trump's Trump National Doral Golf Club; Trump planned to host the 2020 G7 there but dropped the plan amid ethics questions about profiting from the event \u2014 that summit ultimately went online due to the pandemic. Rubio said Trump and Putin have spoken on the phone 'at least a dozen times,' and Trump said in September 2025 he might also invite China's Xi Jinping, who is in Washington this week for his first state visit in over a decade."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "category": "tech",
+      "headline": "Your remote coworker might be an entire other country",
+      "summary": "North Korea used a fake-persona IT worker to clandestinely land remote work with a New Zealand business, revealed in the NCSC's annual report out Thursday.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "The National Cyber Security Centre's annual report, released on Thursday, reveals North Korea used an IT worker with a false persona \u2014 including fake identity documents, a New Zealand address as a contact point, and a New Zealand citizen paid to receive and operate the company's laptop \u2014 to clandestinely obtain remote work with a reputable New Zealand business and earn foreign currency. The firm, which the NCSC said had good hiring practices, was nonetheless duped for a while, before getting suspicious and calling in police. The worker then claimed to have obtained commercially sensitive information and allegedly threatened to release it unless paid. NCSC head Catriona Robinson described it as one of North Korea's known methods of accumulating foreign cash."
+        },
+        {
+          "kind": "banter",
+          "text": "The great work-from-home experiment has a brand new entry on the CV of 'things that can happen when you hire someone you've only ever met over a camera': that whisper-quiet contractor who never once un-mutes on the all-hands call and clocks odd hours might be a citizen of an entirely different time zone \u2014 and an entirely different sanctions regime. Second interview tip that costs nothing: have them pick up their own laptop. If that's a dealbreaker, pop the kettle on and ask a few follow-ups. The annual report helpfully points out the red flags \u2014 pays you in crypto, refuses FaceTime, works while you sleep \u2014 which is basically the cyber version of being told your date's photos might be a few years old."
+        },
+        {
+          "kind": "fact",
+          "text": "RNZ (24 Sep 2026), quoting the NCSC annual report and head Catriona Robinson: the North Korean worker used a false persona and a NZ citizen contact to obtain remote work with a large, reputable NZ business; police were called once the firm grew suspicious, and the worker allegedly threatened to release commercially sensitive information unless paid \u2014 a matter Robinson said was 'an issue for the business and police.' The report warned this put the company at risk of breaching UN sanctions. Known warning signs cited: requests to be paid in cryptocurrency, refusal to participate in video-conference meetings, and unusual working hours. The NCSC also said nearly a quarter of incidents of potentially national significance this year had suspected state-sponsored links, primarily China, Russia, Iran and North Korea."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "category": "sport",
+      "headline": "Black Ferns bring back the big three for their Twickenham test",
+      "summary": "Kaipo Olsen-Baker, Ayesha Leti-I'iga and Laura Bayfield return to the starting side for New Zealand's final test of the WXV series against world champions England, with 50,000+ expected at Twickenham.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "The Black Ferns head into the biggest women's rugby test of the year bolstered by the return of three first-choice players: loose forward Kaipo Olsen-Baker, winger Ayesha Leti-I'iga and lock Laura Bayfield are all back in the starting side for New Zealand's final test of the Northern WXV Global Series, against world champions England at Twickenham early Sunday morning (NZT). A crowd of more than 50,000 is expected. The Black Ferns have won two from two in the series, beating France and Scotland, while England's 39-test winning streak was ended last week by a 26-26 draw with Canada."
+        },
+        {
+          "kind": "banter",
+          "text": "England rolls into Twickenham boasting the better part of four dozen straight wins, and the Black Ferns show up having had a grand total of two games of warm-up \u2014 and both went their way. Coach Whitney Hansen has the vibe dial set to 'we're built different', which in a country the size of a middling English county is less bravado and more a literal description. 50,000 people crammed into the home of English rugby to watch a team from a nation of five million try to topple the world champions on what is basically their gaff. Frankly the least scary thing on the field will be the fullback; the scariest will be 50,000 Kiwis in the stands at 6am Sunday with nowhere else to be."
+        },
+        {
+          "kind": "fact",
+          "text": "RNZ (24 Sep 2026): Kaipo Olsen-Baker (loose forward), Ayesha Leti-I'iga (winger) and Laura Bayfield (lock) are back in the Black Ferns starting XV for the test against England at Twickenham, the final match of the Northern WXV Global Series, with over 50,000 fans expected early Sunday morning NZT. Captain Georgia Ponsonby starts at hooker. The Black Ferns beat France and Scotland to go two-from-two in the series; England's 39-test winning streak ended with a 26-26 draw against Canada last week. Head coach Whitney Hansen: 'Our players are built different, we're made for these moments. We've continued to grow each week and we're excited to put our rugby identity to the test against England, who are currently number one in the world.' Mia Anderson is unavailable through injury (calf)."
+        }
+      ]
+    }
+  ],
+  "affiliate_cta": {
+    "enabled": true,
+    "headline": "Making a move? Here's what we'd look at.",
+    "body": "If this edition's got you thinking about a change \u2014 gadget, side hustle, or where your money's sitting \u2014 here's a couple of sensible starting points.",
+    "disclosure": "We may earn a commission if you buy through these links. It won't cost you more, and it keeps yeah nah news free.",
+    "items": []
+  },
+  "meta": {
+    "sources": [
+      "nzherald.co.nz",
+      "rnz.co.nz"
+    ],
+    "qa_verified": true
+  }
+}
