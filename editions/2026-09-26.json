@@ -1,0 +1,80 @@
+{
+  "slug": "2026-09-26",
+  "date": "2026-09-26",
+  "edition": "Issue #007 — Man City guilty on 114 of 115 charges, ANZ trims 100+ IT roles, and a swarm of bees annexes Queen Street",
+  "tagline": "Your 3-minute break. Zero fluff, maximum banter.",
+  "reading_minutes": 3,
+  "stories": [
+    {
+      "id": "s1",
+      "category": "sport",
+      "headline": "Manchester City guilty on 114 of 115 financial charges — and already plotting an appeal",
+      "summary": "The heavily lawyered superclub has been found guilty of almost all the Premier League financial charges against it, with sanctions not yet decided and an appeal expected, all while City sit top of the table.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "Manchester City have been found guilty of all but one of the 115 charges of breaching the Premier League financial rules, the Athletic and the Times report. The club is expected to appeal, and sanctions have not yet been decided. The allegations, first referred to an independent commission in February 2023, span more than a decade, the most serious being that City failed to give a true and fair view of its revenue, including sponsorship income, in every season from 2009-10 to 2017-18. If the verdict stands, it would be one of the most significant rulings in English football history. City said the Premier League process remains ongoing with significant elements to be completed."
+        },
+        {
+          "kind": "banter",
+          "text": "A club with the most expensive lawyers that money can hire has spent three years insisting a panel of three judges must be impartial and fair-minded, and the panel reply has been: guilty, and also guilty of essentially everything else listed. Punishments to be worked out later, while City get on with their business from the very top of the table as though the verdict were a typo. This week we learned that even a billionaire cheque cannot buy a referee you can challenge to a duel."
+        },
+        {
+          "kind": "fact",
+          "text": "RNZ (26 Sep 2026, citing Reuters, The Athletic and The Times): Manchester City were found guilty of all but one of 115 alleged breaches of Premier League financial rules; the club is expected to appeal and sanctions have not been decided. Charges were referred to an independent commission in Feb 2023 and cover alleged breaches spanning the 2009-10 to 2022-23 seasons. Since the Abu Dhabi United Group bought the club in 2008, City have won eight Premier League titles, the Champions League, four FA Cups and seven League Cups; they topped the table after winning each of their opening five matches in 2026. A City statement said the Premier League process remains ongoing with significant elements to be completed."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "category": "business",
+      "headline": "ANZ NZ eyes offshoring as more than 100 IT roles face the chop",
+      "summary": "ANZ New Zealand has proposed cutting more than 100 permanent IT roles as it consolidates software testing and considers moving it offshore, with a two-week consultation due to wrap up by early October.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "ANZ New Zealand has proposed cutting more than 100 permanent IT roles as part of a wider transtasman overhaul. More than 400 roles will be affected, with the bank consolidating software testing and considering shifting it offshore. The Australian Financial Review reports ANZ has been in discussions with Indian IT giants Infosys and HCLTech. Roles under threat include quality-assurance engineers, lead engineers, product owners and project managers. It follows ANZ confirming it will close its Dunedin call centre, understood to employ about 40 staff. The bank said the changes would affect non-customer-facing roles and that its immediate priority is supporting its people through the process."
+        },
+        {
+          "kind": "banter",
+          "text": "There is a word for a business that announces a plan to make fewer of its own employees redundant while simultaneously working out which foreign contractors to hand the work to: efficiency. The ANZ restructuring has been affectionately dubbed Nunogeddon after its cost-cutting chief executive, which is the rare corporate plan that shares a name with both a blockbuster film and a threat to humanity. Somewhere a PowerPoint slide titled synergy opportunities is quietly building a statue of itself. The software testing is heading offshore, everyone; the consultancy fees are staying firmly local."
+        },
+        {
+          "kind": "fact",
+          "text": "NZ Herald (26 Sep 2026): More than 100 permanent IT roles are proposed to be cut at ANZ New Zealand as part of a wider overhaul. More than 400 roles are affected; ANZ is consolidating software testing and considering moving it offshore, with the AFR reporting discussions with Infosys and HCLTech. The two-week consultation is to be finalised by early October. Roles under threat include QA engineers, lead engineers, product owners and project managers. ANZ confirmed plans to close its Dunedin call centre (about 40 staff) and employs about 7000 people in New Zealand. Group chief executive Nuno Matos, in the role since May 2025, is pursuing a target of 3500 group job cuts announced last September, about 3000 completed as of 30 June. Workers First Union organiser Callum Francis criticised the offshoring and the headcount reduction."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "category": "lifestyle",
+      "headline": "Bee swarm annexes Queen Street, installs new monarch opposite The Civic",
+      "summary": "A swarm of bees took over part of central Auckland around Queen Street, covering a direction signboard with thousands of insects and forcing pedestrians off the city busiest stretch.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "Queen Street has a new monarch, and it is not the mayor. A large swarm of bees gathered on the corner of Queen St and Wellesley St West in central Auckland, right opposite The Civic, covering a direction signboard with thousands of insects and forcing pedestrians to steer clear of part of the city most famous stretch. Eyewitnesses described bees everywhere, with the insects appearing to be attempting to establish a hive. Pedestrians were redirected around the swarm while the street went about its usual chaos elsewhere."
+        },
+        {
+          "kind": "banter",
+          "text": "In a refreshing burst of decisive civic leadership, the bees have moved straight to the top of Queen Street and implemented their housing-first policy within the hour: form a giant ball, squat on the signboard, refuse to move until conditions improve. That is better urban planning than half the classic Auckland Council agenda. Also worth noting: the swarm chose the spot opposite a theatre, so the insects clearly have taste. We can only hope the unhoused hive gets better luck finding a permanent flat than the rest of us."
+        },
+        {
+          "kind": "fact",
+          "text": "NZ Herald (25 Sep 2026): A swarm of bees gathered on the corner of Queen St and Wellesley St West in central Auckland, opposite The Civic, forcing pedestrians to steer clear of part of Queen Street. The swarm covered a direction signboard with thousands of bees, and eyewitnesses described the scene as looking as though the insects were attempting to establish a hive. Pedestrians were redirected from the affected stretch while authorities responded."
+        }
+      ]
+    }
+  ],
+  "affiliate_cta": {
+    "enabled": true,
+    "headline": "Making a move? Here is what we would look at.",
+    "body": "Whether it is a way to keep your workforce skills sharp, a spot of beekeeper armour for a Saturday constitutional, or somewhere sensible for the money a certain football club might soon lose, here is a couple of starting points if this edition has got you thinking.",
+    "disclosure": "We may earn a commission if you buy through these links. It will not cost you more, and it keeps yeah nah news free.",
+    "items": []
+  },
+  "meta": {
+    "sources": ["rnz.co.nz", "nzherald.co.nz"],
+    "qa_verified": true
+  }
+}
