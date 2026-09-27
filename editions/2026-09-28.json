@@ -1,0 +1,80 @@
+{
+  "slug": "2026-09-28",
+  "date": "2026-09-28",
+  "edition": "Issue #009 - Two very fed-up Chrises launch campaigns, a Kiwi bandsman's AI doppelganger keeps making excuses, and the All Whites finally remember how to keep a clean sheet",
+  "tagline": "Your 3-minute break. Zero fluff, maximum banter.",
+  "reading_minutes": 3,
+  "stories": [
+    {
+      "id": "s1",
+      "category": "politics",
+      "headline": "Luxon and Hipkins launch campaigns - fed up for very different reasons",
+      "summary": "Both leaders kicked off the 2026 election campaign in Auckland on Sunday: Hipkins went sweary-bear on National and the media while promising student-loan write-offs, and Luxon rolled out a pledge card, politely annoyed at being compared to Sir John.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "National and Labour both launched their 2026 election campaigns in Auckland on Sunday, and the two leaders came out firing - and, per RNZ political editor Jo Moir, both fed up, but for different reasons. Labour's Chris Hipkins, who started the 2023 campaign as prime minister and finished it with one of his party's worst results in years, was in combative mood: he told reporters not to listen to National's 'spin bullshit', called National's 'outright lies' on tax bullshit, and told one journalist that if people aren't hearing Labour's policies it's 'an indictment on all of you people'. He announced a student-loan write-off of 10 percent for some borrowers and the whole lot for those owing 2000 or less, with former leader Helen Clark in the front row. National's Christopher Luxon announced no new policy, instead re-running the pledge card of promises (no new taxes, better school results, surplus books) and looked irritated when compared to Sir John Key's 2011 launch; his International Convention Centre venue was set up for 1500 but only around two-thirds showed."
+        },
+        {
+          "kind": "banter",
+          "text": "There are 40 days to go and we have already diagnosed the mood: one Chris is angry at everyone and everything, and the other is angry that a room full of his own party faithful isn't clapping loud enough. Labour's big play is 'we'll fix your student loan'; National's is 'remember when we said this last time and you voted for it anyway'. Hipkins telling the media people don't listen to them anymore is genuinely brave from a bloke whose entire job for the next month is persuading people to listen to him. Somewhere Helen Clark is nodding, you just can't tell if it's at the policy or at the encore."
+        },
+        {
+          "kind": "fact",
+          "text": "RNZ (28 Sep 2026, political editor Jo Moir): Both leaders launched in Auckland on 27 September 2026. Hipkins, at the Due Drop Centre in Manukau, called National's tax claims 'outright lies' and told reporters not to listen to National's 'spin bullshit', and announced a student-loan policy to write off 10 percent of balances for some borrowers and all balances for those owing 2000 or less; Helen Clark attended. Luxon, at the International Convention Centre, launched a pledge card (no new taxes, better school results, books in surplus, better infrastructure), announced no new policy, and the venue seating 1500 was about a third empty; he reacted poorly to comparisons with Sir John Key. Election day is roughly 40 days away."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "category": "music",
+      "headline": "Kiwi musician convinced an American ripped off his song using AI - then hit a wall of ever-mounting excuses",
+      "summary": "Crooked Royals guitarist Jake Andrews says his instrumental 'Brainlock' was copied by a Kansas musician into 'Brain Locked', whose excuses for not sending proof of his own singing included exhaustion, his wife being in bed, and a tree falling on his house.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "Auckland metalcore guitarist Jake Andrews believes an American musician used AI to rip off his track 'Brainlock'. After Andrews released the instrumental in April, he received an email from Devin Cloutier of Kansas, who claimed to be lead vocalist of a band called Our Sin and said the band's previous guitarist was also named Jake Andrews but had recently died. Cloutier sent Andrews a song he believed was an AI copy of Brainlock, asked him to collaborate, and said AI was only used for drum tracks. When Andrews demanded proof that real people were singing, Cloutier's excuses included exhaustion, his wife being in bed, and finally a tree falling on his house. A song called 'Brain Locked' later appeared on Our Sin's YouTube, TikTok and Spotify despite Andrews' objections. Entertainment lawyer Joel Tashkoff of Dominion Law said musicians own copyright in original work without registration, and that takedown requests can go to the distributor. Cloutier told RNZ the riff was 'modified to be completely new' and the band was 'inspired' rather than ripping off."
+        },
+        {
+          "kind": "banter",
+          "text": "The excuse escalator here is genuinely impressive: tired, then the wife's in bed, and finally a tree landed on the house. Sir, that tree is doing more shin-kicking for authenticity than the song. We are not convinced a band that needs AI for its drums, a deceased ghost guitarist with the same name as its target, and three increasingly creative reasons not to sing into a phone is going to win a plagiarism fight - but it has already won the award for the most cursed creative process we have heard this month. Every musician who spent years learning to play is now realising their competition is somebody in a different timezone clicking 'generate' and reaching for the treble knob. A song titled with your title, built on your riff, from a bloke who can't prove he's a real singer? That's not inspiration, that's a strongly worded loop."
+        },
+        {
+          "kind": "fact",
+          "text": "RNZ (27-28 Sep 2026, life/music, Ross McNaughton): Crooked Royals' guitarist Jake Andrews released the instrumental 'Brainlock' in early April 2026 and claims it was copied into 'Brain Locked' by Kansas musician Devin Cloutier of the band Our Sin. Cloutier's emails to Andrews, provided to RNZ, gave excuses for not sending singing videos including exhaustion, his wife being in bed, and a tree falling on his house. 'Brain Locked' was uploaded to Our Sin's YouTube page, taken down, then reposted on YouTube, TikTok and Spotify. Cloutier told RNZ 'the original riff was modified to be completely new'. Entertainment lawyer Joel Tashkoff (Dominion Law) confirmed original written/published work is protected by copyright without registration, and takedown requests go via the distributor listed on uploads. Crooked Royals play the Powerstation venue in Auckland next month."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "category": "sport",
+      "headline": "All Whites outclass China 3-0 to end their winless drought - and finally keep a clean sheet",
+      "summary": "Goals to Tyler Bindon, Ben Waine and Owen Parker-Price delivered New Zealand's first win since March and first clean sheet in 15 months, in Chongqing.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "The All Whites beat hosts China 3-0 in Chongqing to break a winless drought and notch their first clean sheet in 15 months. Tyler Bindon scored his fourth international goal in the 5th minute after being found unmarked by Callum McCowatt, Ben Waine doubled the lead in the 29th minute, and substitute Owen Parker-Price scored his maiden international goal after coming on. The win is New Zealand's first since beating Chile 4-1 at Eden Park in March, and their first clean sheet since a 1-0 win over Ivory Coast in Canada in June last year. Coach Darren Bazeley, who asked for an improvement on the 2-2 draw with Palestine, made eight second-half changes. The All Whites play Panama in Tokyo on Thursday before a second Kirin Cup match against Japan or Ecuador."
+        },
+        {
+          "kind": "banter",
+          "text": "Three goals, none conceded, and a centre-back got on the scoresheet - the boys have been saving that performance up since roughly March, and frankly the back line deserves a drink for keeping the door shut for 15 months. There is something very New Zealand about celebrating a 3-0 win over a friendly like it's a World Cup final, and we are here for it. Defence keeping a clean sheet for the first time since last winter: some things take time, and apparently a sheet of paper with a zero on it is top of the list. Next stop Tokyo, where the plan is more of the same and ideally a centre-back who remembers he is meant to be defending."
+        },
+        {
+          "kind": "fact",
+          "text": "RNZ (28 Sep 2026, sport) and NZ Herald (28 Sep 2026): All Whites beat China 3-0 in Chongqing, scorers Tyler Bindon (5th), Ben Waine (29th), Owen Parker-Price (82nd). The result is the All Whites' first win since beating Chile 4-1 at Eden Park on 26 March 2026, and their first clean sheet since a 1-0 win over Ivory Coast in Canada in June 2025. Coach Darren Bazeley made eight second-half changes; Parker-Price scored his maiden international goal three minutes after coming on. The All Whites play Panama in Tokyo on Thursday, then Japan or Ecuador in the Kirin Cup. Squad includes captain Chris Wood (Nottingham Forest)."
+        }
+      ]
+    }
+  ],
+  "affiliate_cta": {
+    "enabled": true,
+    "headline": "Campaigning, gigging, or just getting off the couch?",
+    "body": "Whether you're fighting an election, hunting a tree-free excuse, or watching football from a very nice chair, here are a couple of starting points. No pressure, no commitment, and definitely no AI-generated instruments required.",
+    "disclosure": "We may earn a commission if you buy through these links. It will not cost you more, and it keeps yeah nah news free.",
+    "items": []
+  },
+  "meta": {
+    "sources": ["rnz.co.nz", "nzherald.co.nz"],
+    "qa_verified": true
+  }
+}
