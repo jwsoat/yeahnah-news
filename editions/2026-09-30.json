@@ -1,0 +1,80 @@
+{
+  "slug": "2026-09-30",
+  "date": "2026-09-30",
+  "edition": "Issue #011 - Our national game is down millions, the immigration computer waved people through, and Fiji's evidence went to flour",
+  "tagline": "Your 3-minute break. Zero fluff, maximum banter.",
+  "reading_minutes": 3,
+  "stories": [
+    {
+      "id": "s1",
+      "category": "sport",
+      "headline": "Our national game is losing about $20m a year - and rugby's fix list is three flavours of hard choice",
+      "summary": "NZ Rugby is running a structural deficit near $20m a year - even after a record $300m revenue year - and projects $66m of combined losses across 2027-31, so the bosses are weighing three big restructure options.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "New Zealand Rugby is facing a financial reckoning, and the numbers are sobering for a sport that bills itself as our national game. According to RNZ's The Detail, NZR is carrying a structural deficit of around $20 million a year, and on current five-year projections expects to keep losing a combined $66m across 2027-31. The kicker is that revenue is not the problem - it hit a record $300 million last year. The cost model is. Rugby bosses are weighing three options: expanding Super Rugby from 10 to 12 teams, amalgamating Super Rugby clubs with their provincial unions in major cities, or scrapping Super Rugby and the NPC for a brand-new 8-10 team national competition."
+        },
+        {
+          "kind": "banter",
+          "text": "Let me get this straight - our national game pulled in a record $300 million last year and still found a way to be roughly $20 million a year upside down? That is a masterclass in spending. And the option list is basically Would You Rather with three chairs and no good answers: more teams, merge the clubs, or burn it down and start again. We all know what a small country with a big rugby appetite does next: blames the coach. But the real trouble is 30-odd years of nobody ever crossing anything off the to-do list. Every idea since the game went professional got layered on like a lasagne and nothing has ever been taken back off the plate. Give us the halves, give us a bit of tribalism - just please, somebody, take a thing off the menu."
+        },
+        {
+          "kind": "fact",
+          "text": "RNZ / The Detail (Amanda Gillies, 30 Sep 2026): New Zealand Rugby is carrying a structural deficit of roughly $20m a year and projects a combined $66m of losses across 2027-31 on current five-year projections. Revenue reached a record $300m last year, so the problem is the cost model; commentators note layers of competitions, teams and administration have accreted since rugby went professional. Three options are under consideration: (1) expanding Super Rugby from 10 to 12 teams, (2) amalgamating Super Rugby clubs with provincial unions in major cities to reduce costs, and (3) replacing Super Rugby and the NPC with a new 8-10 team national competition. Current NZR leadership is chairman David Kirk and CEO Steve Lancaster."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "category": "tech",
+      "headline": "Immigration's new visa computer approved 55+ applications all by itself - and nobody noticed",
+      "summary": "Bugs in INZ's ADEPT platform auto-approved more than 55 job checks and visitor visas with no human in the loop, part of the $336m Our Future Services IT project now under review.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "Immigration New Zealand's new visa computer had a very generous stretch - because it started approving applications all by itself. RNZ reports bugs in the ADEPT platform auto-approved more than 55 job checks and visitor visas with no human in the loop before the fault was discovered last year. The system is part of the $336 million Our Future Services IT project, now under review after its promised benefits were overstated to the tune of $134m. INZ found 32 visitor visas had been waved through without manual assessment in the previous three years, plus 23 Job Check applications approved without manual assessment between February and November 2022. Twenty of those visitor visas were actually used to travel to New Zealand, with no adverse outcome noted."
+        },
+        {
+          "kind": "banter",
+          "text": "The immigration system has decided it is done with the human bottleneck and has quietly started letting itself into the country. Which is either brilliant news for everyone who has ever waited nine months for a visitor visa, or the opening scene of a tech drama where the computer decided the borderline cases were fine, actually. Twenty of those auto-approved traveller visas were used to visit New Zealand and absolutely nothing bad happened - which must be deeply annoying for every officer who ever told you to allow six weeks plus processing time. And the fix to the bug took two months because, we are told, of 'wider Microsoft issues,' which is exactly the sentence you say in a meeting when you don't want to admit you turned the robot off and it wouldn't switch back on. The machines are being generous. Hide the Border Control memes."
+        },
+        {
+          "kind": "fact",
+          "text": "RNZ (Gill Bonnett, 30 Sep 2026): Bugs in INZ's ADEPT platform allowed visas to be auto-approved without human intervention - more than 55 job checks and visitor visas in total before the fault was discovered last year. ADEPT is part of the $336m Our Future Services IT project now under review, after its predicted benefits were overstated by $134m. INZ found 32 visitor visas approved without manual assessment over the previous three years, plus 23 Job Check applications approved without manual assessment between February and November 2022. Of the 32 visitor visas, 20 had been used for travel to New Zealand with no adverse outcome; six applications were reopened for full assessment due to high risk factors, one recommended for decline. The fix took two months, complicated by 'wider Microsoft issues.' Other glitches included 364 parent/grandparent multiple-entry visitor visas not being asked a TB question (295 granted) and roughly 2,300 employers affected by an accreditation data issue."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "category": "pacific",
+      "headline": "Fiji's court evidence got swapped for flour - and forensic tests say every remaining bar is suspect",
+      "summary": "Nearly 40kg of cocaine stored in the Suva High Court exhibit room was replaced with flour; forensic tests on all remaining bars came back negative for drugs.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "Fiji police have confirmed something that sounds like the plot of a workplace comedy set in the most dangerous bakery in the Pacific: nearly 40 kilograms of cocaine stored in the Suva High Court exhibit room had been replaced with flour. Seven of the 39 cocaine bars had already been reported missing earlier this month, and now forensic tests on the remaining exhibits have come back negative - every one of them tampered with. The street value of the missing haul is put at about FJ$30 million (US$14m). Police say the investigation is focused on the people directly charged with managing the exhibits at the High Court Registry, and one person of interest is currently out of the country."
+        },
+        {
+          "kind": "banter",
+          "text": "If you are going to stroll off with $30 million worth of cocaine from a courthouse, the villain move is to swap it for something that looks the part at a glance - and somebody has decided that means baking ingredients. 'A sad indictment,' said the opposition MP, which is parliament-speak for 'I cannot believe the evidence cupboard has been making roux while nobody was watching.' The PM did admit less than a week ago that the exhibits were not as secure as everyone thought, which is the kind of understatement that should come with its own hazard-tape roll. The bright side is that whoever did this has now handed the court an exhibit that is excellent for pancakes. Forensic science is closing in, and somewhere in Suva a very guilty-looking person is explaining to his mum why he needed forty kilos of flour."
+        },
+        {
+          "kind": "fact",
+          "text": "RNZ Pacific (30 Sep 2026): Fiji Police confirmed that nearly 40 kilos of cocaine stored in the Suva High Court exhibit room had been replaced with flour. The 39 cocaine bars were held there; local media valued the missing cocaine at about FJ$30 million (US$14m). Seven of the 39 bars had gone missing earlier in September, prompting an investigation; on Tuesday (29 Sep) police confirmed forensic tests on the remaining exhibits all returned negative, saying all exhibits had been tampered with and that the investigation is focused on those directly charged with managing the exhibits at the High Court Registry. One person of interest is out of the country and will be questioned. Justice Minister Siromi Turaga called it 'shocking'; PM Sitiveni Rabuka had said less than a week earlier that the exhibits were 'not secure in the first place or as secure as we thought it was.'"
+        }
+      ]
+    }
+  ],
+  "affiliate_cta": {
+    "enabled": true,
+    "headline": "Budgeting, baking, or booking a border crossing?",
+    "body": "Whether you are managing a national deficit of your own, dusting flour off the evidence, or wishing a robot would just approve your visa already, here are a couple of harmless starting points. No pressure, no commitment, and sadly no automatic approvals here either.",
+    "disclosure": "We may earn a commission if you buy through these links. It will not cost you more, and it keeps yeah nah news free.",
+    "items": []
+  },
+  "meta": {
+    "sources": ["rnz.co.nz"],
+    "qa_verified": true
+  }
+}
