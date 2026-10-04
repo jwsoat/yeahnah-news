@@ -1,0 +1,84 @@
+{
+  "slug": "2026-10-05",
+  "date": "2026-10-05",
+  "edition": "Issue #015 - A one-point grand final, a fickle economy, and Hollywood on an icy mountain",
+  "tagline": "Your 3-minute break. Zero fluff, maximum banter.",
+  "reading_minutes": 3,
+  "stories": [
+    {
+      "id": "s1",
+      "category": "sport",
+      "headline": "A one-point grand final decided by a field goal, a lucky bounce and a 95-metre solo: the NRL goes down to the wire",
+      "summary": "Daly Cherry-Evans late field goal settled a 19-18 NRL grand final as the Sydney Roosters came from 12-0 down to beat Newcastle, then the Roosters women made it a double with a 30-6 NRLW win over Brisbane.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "The Sydney Roosters beat Newcastle 19-18 in the NRL grand final at Accor Stadium, with Daly Cherry-Evans slotting a late field goal that proved the difference. The Knights led 12-0 after two first-half tries against the run of play, including a spectacular 95-metre solo try by Kalyn Ponga. Mark Nawaqanitawase got the Roosters on the board just before halftime, Billy Smith barged over after the break, and Nawaqanitawase added a second after a ricochet off the upright. Cherry-Evans then nailed a one-pointer with 10 minutes to go, and though Knights winger Greg Marzhew scored in the 77th minute, Newcastle could not get back into range. Earlier the Roosters women won their third NRLW premiership, thrashing Brisbane 30-6."
+        },
+        {
+          "kind": "banter",
+          "text": "This is sport doing what sport does best, being deeply, gloriously silly in a stadium full of people who take it completely seriously. The Roosters came from 12-0 down, one of their tries bounced in off the post, their game-winner was a single point kicked through the air, and somehow the scoreboard still said chaos right up to the final whistle. Meanwhile the Knights put in the try of the night from 95 metres out and still went home one point short, the kind of loss that ends up on the highlight reel forever and the trophy shelf never. A one-point grand final decided by a field goal is the universe way of reminding us the ball is round-ish, the bounce is never yours, and nobody actually knows anything. Perfect."
+        },
+        {
+          "kind": "fact",
+          "text": "RNZ (5 Oct 2026, via ABC): Sydney Roosters 19-18 Newcastle Knights in the NRL grand final at Accor Stadium, Sydney, on 4 Oct 2026. Newcastle led 12-0 through two first-half tries, including a 95-metre solo try by Kalyn Ponga. Nawaqanitawase scored before halftime, Billy Smith after the break, and Nawaqanitawase added a try after a ricochet off the upright. Daly Cherry-Evans slotted the winning field goal with 10 minutes remaining. Knights winger Greg Marzhew scored in the 77th minute but the Knights could not get into range to level. In the earlier NRLW decider, the Roosters beat Brisbane 30-6 with seven tries to claim their third NRLW premiership."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "category": "finance",
+      "headline": "ASB on the economy: hold on until next year, it is a year with a fickle personality",
+      "summary": "ASB latest quarterly forecast predicts two more official cash rate hikes before Christmas to curb fuel-driven inflation, with households not expected to feel much better off until next year and unemployment stuck near an 11-year high.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "If you have been waiting for the economy to turn the corner, ASB latest quarterly forecast has bad news and slightly-less-bad news. Chief economist Kim Mundy expects two more official cash rate hikes before Christmas in response to inflation driven by fuel prices, and says households probably will not feel much better off until next year. Consumer spending dropped in the second quarter after six straight quarterly rises, unemployment sits at an 11-year high of 5.6 percent, and house sales have fallen back to mid-2024 levels. ASB sees house prices flatlining this year before rising 3.5 percent next year, but says it could be 2029 before they return near their 2021 peaks. Mundy calls this year fickle and urges people to plan for the worst while hoping for the best."
+        },
+        {
+          "kind": "banter",
+          "text": "As economic verdicts go, this one is a mood more than a forecast, the phrase you use when the banking side wants to be honest with you and the marketing side gently suggests you not say that part out loud. A year with a fickle personality that keeps offering something better and then snatching it away, two more rate hikes on the way, and house prices returning to normal somewhere around the time the kids leave school. The most aggressively New Zealand part of the whole thing is the silver lining being announced with a straight face: house prices that have finally stopped exploding count as good news for affordability, which is technically true and also the most reluctant cheer you will ever hear. The economy is not bad for everyone, apparently, just everyone in the urban areas with a mortgage and a shopping list."
+        },
+        {
+          "kind": "fact",
+          "text": "RNZ Money (5 Oct 2026, Susan Edmunds): ASB quarterly economic forecast predicts two more OCR hikes before Christmas to tackle fuel-price-driven inflation, and sees household recovery becoming more apparent next year, not this year. Consumer spending fell in Q2 2026 after six consecutive quarterly increases. Unemployment hit an 11-year high of 5.6 percent in Q2, and ASB expects it to stay around the mid-5 percent range until late next year. ASB sees house prices flatlining this year before rising 3.5 percent next year, returning near 2021 peaks probably around 2029. ASB noted the outlook could shift if a US-Iran deal brought oil prices back down, and cited possible super El Nino and slowing departures to Australia as variables."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "category": "entertainment",
+      "headline": "Hollywood on Aoraki: a Kiwi guide keeps Tom Hiddleston safe while they film Everest on the Tasman Glacier",
+      "summary": "Inside the mid-winter Aotearoa shoot of Tenzing, the Apple film about Tenzing Norgay Everest summit with Ed Hillary: 150 people on a mountain, minus 23 degrees, 3D-printed ice axes, and a safety boss who says he was scared the whole time.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "The Apple film Tenzing, about the Sherpa mountaineer Tenzing Norgay who reached the Everest summit with Sir Edmund Hillary, was filmed last winter on Aoraki Mt Cook, with Tom Hiddleston as Hillary and Genden Phuntsok as Tenzing. Director Jennifer Peedom crew flew in from Nepal 40C heat to Aoraki bone-chilling minus 23C, and for six intense weeks about 20 guides from the NZ firm Adventure Consultants were responsible for keeping up to 150 actors, stunt doubles and crew safe across the Tasman Glacier, The Remarkables, Hochstetter Dome, Twizel and Mt Earnslaw. Their boss, alpine safety co-ordinator Guy Cotter, whose own father accompanied Hillary in the Himalayas, says he was scared shitless the whole time. Forty to 50 ice axes were 3D-printed for the period look. Tenzing streams on Apple from 16 October."
+        },
+        {
+          "kind": "banter",
+          "text": "Picture this: Hollywood biggest names, rugged up like a Michelin man, standing on a New Zealand glacier at minus 23 pretending very seriously to be mid-20th-century mountaineers, while the one bloke who actually knows what he is doing quietly ferries everyone to safety in helicopters and describes himself as scared shitless. Somehow the most on-brand detail of the whole production is Tom Hiddleston apparently relishing the thought of getting stuck in a mountain hut overnight, and the most telling is everyone else sprinting for the chopper. The whole thing is the eternal Hollywood-versus-reality comedy: flying 150 people to Everest on the steep rockface of The Remarkables and printing the ice axes on a 3D printer. Give the safety team whatever they want. They earned it a hundred times over."
+        },
+        {
+          "kind": "fact",
+          "text": "RNZ Life / Movies (4 Oct 2026, Israa Emhail): Tenzing, directed by Jennifer Peedom, tells the story of Tenzing Norgay world-first Everest summit with Sir Edmund Hillary. Tom Hiddleston plays Sir Edmund; Genden Phuntsok plays Tenzing. Filmed mid-winter 2025 across the Tasman Glacier at Aoraki Mt Cook, The Remarkables, Hochstetter Dome, Twizel and from the air at Mt Earnslaw, with DOC support. Alpine supervisor Guy Cotter (Adventure Consultants) said he was scared shitless while keeping about 150 people safe over six weeks with about 20 guides. Cast arrived from Nepal 40C heat to minus 23C temperatures; 40-50 ice axes were 3D-printed. Cotter father was on the New Zealand first Himalayan expedition in 1951. The film streams on Apple in New Zealand from 16 October."
+        }
+      ]
+    }
+  ],
+  "affiliate_cta": {
+    "enabled": true,
+    "headline": "Streaming a big-screen epic, or planning something for yourself?",
+    "body": "Roughly now is a fine moment to treat yourself: a cold evening streaming night for when Tenzing lands on Apple, or the early stages of planning something that feels like you got one over on the to-do list. A couple of harmless starting points, no pressure and no commitment.",
+    "disclosure": "We may earn a commission if you buy through these links. It will not cost you more, and it keeps yeah nah news free.",
+    "items": []
+  },
+  "meta": {
+    "sources": [
+      "rnz.co.nz (sport: NRL + NRLW grand finals)",
+      "rnz.co.nz (personal finance: ASB quarterly economic forecast)",
+      "rnz.co.nz (life/movies: Tenzing Aoraki Mt Cook shoot)"
+    ],
+    "qa_verified": true
+  }
+}
