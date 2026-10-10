@@ -1,0 +1,56 @@
+{
+  "slug": "2026-10-09",
+  "date": "2026-10-09",
+  "edition": "Issue #018 - Dumped twice, a ring that wouldn't leave, and a spaceport on a gravel spit",
+  "tagline": "Your 3-minute break. Zero fluff, maximum banter.",
+  "reading_minutes": 3,
+  "stories": [
+    {
+      "id": "s1",
+      "category": "business",
+      "headline": "The ultimate downsizing flex: Auckland bin drivers are being 'dumped' and offered the chance to buy their own rubbish truck",
+      "summary": "Waste Management is restructuring kerbside collections in east and south Auckland, making 23 drivers redundant in favour of independent contractors - some offered the option to buy their own trucks, a move Workers First Union calls a 'predatory scam' that could leave drivers 'hundreds of thousands of dollars' in debt.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "Almost two dozen rubbish truck drivers in east and south Auckland have been made redundant, and in the next breath offered what the company frames as a fresh start: buy your own truck and come back as an independent contractor doing the same rounds. Waste Management - the private firm contracted by Auckland Council for kerbside collection in east and south Auckland - is restructuring so 23 drivers leave in favour of independent contractors. Workers First Union organiser Justin Wallace called it a 'predatory scam', warning the cost of buying the trucks could tip the drivers 'hundreds of thousands of dollars' into debt. As contractors, he said, they would lose sick leave, guaranteed hours and collective bargaining - while still doing the same shifts, in a truck wearing the same brand. Waste Management's spokesperson said the contractor option was not required or expected, that drivers arrange their own finance, and that Auckland Council was consulted and approved the change."
+        },
+        {
+          "kind": "banter",
+          "text": "There is something almost poetic about a rubbish company handing you redundancy papers and then offering to sell you the truck that made you redundant, as if the whole restructure is just a really aggressive sales tariff on your own job. I cannot decide which bit is funnier: the word dumped doing double duty - because yes, they are quite literally being dumped from their job of dumping - or the idea that buying your own truck somehow counts as positive development when it means you also buy your own sick leave, your own guaranteed hours, and your own ability to say no. It's the workforce version of being asked to bring your own laptop, except the laptop in this case weighs 12 tonnes and comes with a price tag that follows you around like a smell. Genuinely, I hope the union's 'scam' label follows this one around until the grown-ups in the room have a proper reason for it."
+        },
+        {
+          "kind": "fact",
+          "text": "RNZ (7 Oct 2026, regions/business): Waste Management, the private company contracted by Auckland Council for kerbside rubbish collection in east and south Auckland, is restructuring to make 23 drivers redundant in favour of independent contractors, with some drivers offered the option to buy their own trucks. Workers First Union organiser Justin Wallace called the restructure a 'predatory scam' and said truck-finance costs could put workers 'hundreds of thousands of dollars' in debt, while contractors would forgo sick leave, guaranteed hours and collective bargaining; Manurewa local board member Joseph Allan (Workers First Union) warned services could suffer. Waste Management's spokesperson said the contractor option was voluntary and not expected, that any finance is arranged independently with the driver's bank or provider, and that Auckland Council was consulted on and approved the change."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "category": "sport",
+      "headline": "You won the ring, then a jeweller had to saw it off your finger - and the NRL had a spare",
+      "summary": "Departing Sydney Roosters star Connor Watson had to have his NRL premiership ring cut off his finger days after the Roosters beat Newcastle in the grand final, leaving bruising - before coach Trent Robinson handed him a replacement ring from the NRL a couple of hours later.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "Sydney Roosters' departing star Connor Watson has had his NRL premiership ring cut off his finger just days after the Roosters' grand final triumph over the Newcastle Knights, after the ring became stuck. A video posted to the social media pages of Affinity Diamonds - the jeweller that makes the rings - shows the procedure, which left Watson with a nasty bruise and some discolouring where the ring had been. It is unclear exactly when it happened, but the clip was posted on Thursday afternoon. By way of a cheerier ending, Roosters coach Trent Robinson told 9News that once Peter V'landys and the NRL heard what Watson had gone through, they gave him a ring to pass on - so a replacement premiership ring reached Watson a couple of hours later."
+        },
+        {
+          "kind": "banter",
+          "text": "This is the most gloriously First World sporting problem of the season: you play a grand final, you win the big shiny ring, and then the ring itself decides it isn't going anywhere and has to be cut off your finger like a really expensive wedding band gone rogue. I love the whole arc - the physical pain, the bruise, the slightly undignified trip to the jeweller - immediately resolved by the NRL operating their own little spare-ring helpline, because apparently premiership bling warehouses were ready for exactly this. There's a beautiful symmetry in the fact that the Roosters won the biggest prize in the game and the first thing that happened after the trophy was a man being freed from the trophy. Congratulations, Connor - you now own two premiership rings worth of story, which is statistically more than the bloke who only wore one."
+        },
+        {
+          "kind": "fact",
+          "text": "NZ Herald (8 Oct 2026, sport/rugby-league): Sydney Roosters player Connor Watson had his NRL premiership ring cut off his finger days after the Roosters' grand final win over the Newcastle Knights, after it became stuck. A video posted to the social media pages of Affinity Diamonds, the jewellery shop that makes NRL premiership rings, showed the procedure; Watson was left with bruising and skin discolouration. The clip was posted Thursday afternoon. Roosters coach Trent Robinson told 9News that Peter V'landys and the NRL gave him a replacement ring for Watson a couple of hours after he learned what had happened."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "category": "technology",
+      "headline": "Canterbury is about to get a spaceport, and the expert in charge says it'll have a 'tiny' effect on our skies",
+      "summary": "Tāwhaki national aerospace centre is planning up to 12 annual rocket launches of up to 100 tonnes each from Kaitorete Spit, south of Christchurch - a plan a rocket-emissions expert says would have a 'tiny' impact on the skies.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "New Zealand's first proper spaceport is coming into focus, and it's not where you might expect: the Tāwhaki national aerospace centre is working on plans to launch up to a dozen rockets a year - each up to 100 tonnes - from Kaitorete Spit, a sandspit about an hour south of Christchurch. A rocket emissions expert consulted on the plans says Canterbury is well suited to launches that, as proposed, would have only a 'tiny

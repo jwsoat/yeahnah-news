@@ -1,0 +1,88 @@
+{
+  "slug": "2026-10-11",
+  "date": "2026-10-11",
+  "edition": "Issue #019 - A Bledisloe won on fear, a fishing promise made off a boat, and a Nobel quest that is the actual joke",
+  "tagline": "Your 3-minute break. Zero fluff, maximum banter.",
+  "reading_minutes": 3,
+  "stories": [
+    {
+      "id": "s1",
+      "category": "sport",
+      "headline": "The All Blacks kept the Bledisloe with a 50-19 demolition - driven, the captain says, by fear",
+      "summary": "The All Blacks thrashed the Wallabies 50-19 at Eden Park to keep the Bledisloe Cup for a 23rd straight year, captain Codie Taylor admitting a bit of fear - fed by a Tana Umaga history lesson - drove the side to an emphatic win that stretched Eden Park unbeaten run to 54 tests.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "The All Blacks kept the Bledisloe Cup for another year with a 50-19 demolition of the Wallabies at Eden Park on Saturday night. It stretches their unbeaten run at Eden Park to 54 tests, extends Australia winless streak in Auckland to 1986, and locks the Bledisloe in New Zealand for a 23rd straight season. Captain Codie Taylor said the win was driven by a bit of fear - after defence coach Tana Umaga, who knows what it is like to lose the cup, delivered a spray and a history lesson through the week. The result follows a rough 3-1 series loss in South Africa, which Taylor said forced honest conversations about what went wrong before the side ran riot in the second half."
+        },
+        {
+          "kind": "banter",
+          "text": "There is something gloriously absurd about winning a rugby match on fear, which is not normally listed in the professional sportsman toolkit next to the protein shake and the ice bath. New Zealand relationship with the Bledisloe has become less a rivalry and more a decades-long hostage situation where our side is a little bit scared it might lose the thing, and that fear, per the captain, is precisely what keeps winning it. No current All Black has ever known life without this cup, which makes hosting a Wallabies side that has not won in Auckland since 1986 feel a bit like a very handsome man worrying about his hair. The only true tragedy here is Australia ambition, which was not in attendance at Eden Park."
+        }
+        ,
+        {
+          "kind": "fact",
+          "text": "RNZ (11 Oct 2026, sport): The All Blacks beat the Wallabies 50-19 at Eden Park on Saturday 10 October 2026 to retain the Bledisloe Cup for a 23rd consecutive year. It extended the All Blacks unbeaten run at Eden Park to 54 tests; the Wallabies have not won in Auckland since 1986. Captain Codie Taylor said fear drove the side, particularly after defence coach Tana Umaga - who experienced losing the Bledisloe - gave the squad a spray during the week. The win followed a 3-1 series loss in South Africa, which Taylor said prompted honest team conversations about bringing the appropriate edge."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "category": "politics",
+      "headline": "Luxon announces a fishing policy straight off a spearfishing trip - and everyone agrees it is political",
+      "summary": "National leader Christopher Luxon, fresh from a spearfishing trip off Takapuna Beach, launched an oceans policy to ban ring-net fishing in the Hauraki Gulf, create a Waiheke marine reserve and end commercial marlin sales - drawing desperate and flip-flop labels from NZ First, Labour, the Greens and Forest and Bird.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "National leader Christopher Luxon chose a spearfishing trip from Takapuna Beach on Saturday to announce a new oceans policy: banning ring-net fishing in the Hauraki Gulf, establishing a new Waiheke Island marine reserve, banning commercial sales of marlin, and reviewing bottom trawling on sea mounts with a view to reducing it over time. Opponents were unimpressed. NZ First Winston Peters called it desperate and unresearched and flagged big impacts on fisheries jobs and the cost of fish, though he would not commit to opposing it in coalition negotiations. Forest and Bird said the plan was really disappointing given the Waiheke reserve has sat on the government desk for nearly two years. Labour Chris Hipkins said National cannot be trusted on the ocean, and the Greens Chloe Swarbrick accused National of campaigning on undoing a carve-out its own ministers made at the 11th hour."
+        }
+        ,
+        {
+          "kind": "banter",
+          "text": "There is no policy announcement quite like one delivered straight off a boat, glistening, if we are being honest with ourselves, entirely on vibes. Luxon announced a save-the-ocean policy the morning after going spearfishing, which is the political equivalent of a chef promoting a salad while visibly holding a hamburger. But the true comedy is the universality of why now: NZ First says it is desperate and unresearched, Labour says you cannot be trusted, the Greens say you are campaigning on undoing your own backroom carve-out, and Forest and Bird quietly notes the Waiheke reserve has been on your desk for nearly two years. That is not a policy launch, that is an election poll wearing a wetsuit. The real catch of the day is not any fish from the gulf - it is the word flip-flop, passed around both sides of the House like a very soggy plate of satay."
+        },
+        {
+          "kind": "fact",
+          "text": "RNZ (11 Oct 2026, politics/Election 2026): After a spearfishing trip departing Takapuna Beach, National leader Christopher Luxon announced policies to ban ring-net fishing in the Hauraki Gulf, establish a new Waiheke Island marine reserve, ban commercial sales of marlin, and review bottom trawling on sea mounts. NZ First leader Winston Peters called it desperate and unresearched, citing impacts on fishery workers and the cost of fish, but declined to commit to opposing it in coalition negotiations. Forest and Bird Bianca Ranson said the Waiheke reserve had sat on their desk for nearly two years. Labour Chris Hipkins and Greens Chloe Swarbrick both said National could not be trusted on oceans policy; Swarbrick said the government had created carve-outs in Hauraki high-protection areas at the 11th hour, which National now campaigns on undoing. The Opportunity Party also welcomed the shift."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "category": "world",
+      "headline": "Trump loses the Nobel again - and the winner jokes she might share it with him",
+      "summary": "Donald Trump took a second straight Nobel Peace Prize defeat, complaining the US (represented by him) should have received it, while this year winner Navi Pillay joked to a crowd that if they clapped harder she might share the prize with Trump.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "Donald Trump has lost the Nobel Peace Prize for the second straight year. Reacting to the award going to South African human rights pioneer Navi Pillay, Trump said at a Syracuse rally that the United States of America, represented by me as your president, should have received it, and called the outcome an indelible stain on the country of Norway (the prize is not awarded by the Norwegian government). The quixotic quest has unravelled: his claim he settled more than half a dozen wars is false, Washington Post polling found just 22 percent of Americans thought he deserved it, and a February war against Iran - now over seven months long - has almost certainly killed his chances. Pillay got the biggest laugh, joking that if the crowd clapped a little more she might share the prize with Trump."
+        }
+        ,
+        {
+          "kind": "banter",
+          "text": "There is a magnificent, deeply misplaced confidence in a man who insists he should have won the Nobel Peace Prize while several of his passing decisions have been wars, invasions and accusations of killing people at sea without a trial. The award went to a human rights pioneer; the United States response was the phrase to the victor belong the spoils, which is some distance from the actual Nobel acceptance speech archives. But the cleanest comedy of the whole saga belongs to the winner herself, who looked at a president who had effectively badgered last year winner into handing over her medal, and simply offered to share her prize if the crowd clapped hard enough - the polite, Nobel-winning version of calling somebody embarrassing to their face. And somewhere in Washington, a man is drafting a statement about an indelible stain on a country that did not even choose the winner."
+        },
+        {
+          "kind": "fact",
+          "text": "RNZ (11 Oct 2026, world, repost of CNN/Aaron Blake): The 2026 Nobel Peace Prize was awarded to South African human rights pioneer Navi Pillay, announced Friday 9 October 2026. Donald Trump, speaking at a rally in Syracuse, New York, said the US, represented by him as president, should have received the prize and called the outcome an indelible stain on the country of Norway; the Nobel Prize is not awarded by the Norwegian government. This was Trump second consecutive Nobel loss. CNN notes Trump claim he settled more than half a dozen wars is false; a Washington Post poll last year found just 22 percent of Americans (and 49 percent of Republicans) said he deserved the prize; and he launched a war against Iran in February 2026 now over seven months long. Pillay joked she might share the prize with Trump if the crowd clapped more."
+        }
+      ]
+    }
+  ]
+  ,
+  "affiliate_cta": {
+    "enabled": true,
+    "headline": "Making a move? Here is what we would look at.",
+    "body": "Between a Bledisloe decided on cold fear and an election where the fish suddenly became the biggest issue, this week is a decent moment to make one small part of the routine easier on yourself. No pressure - a quiet web search and a cup of tea before you decide anything.",
+    "disclosure": "We may earn a commission if you buy through these links. It won't cost you more, and it keeps yeah nah news free.",
+    "items": []
+  },
+  "meta": {
+    "sources": [
+      "rnz.co.nz (sport): Fear factor drives emphatic All Blacks win, 11 Oct 2026",
+      "rnz.co.nz (politics/Election 2026): Opponents label National fishing policy desperate and a flip-flop, 11 Oct 2026",
+      "rnz.co.nz (world): Trump thinks he should have won the Nobel Peace Prize, 11 Oct 2026 (repost of CNN/Aaron Blake)"
+    ],
+    "qa_verified": true
+  }
+}
