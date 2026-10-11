@@ -1,0 +1,85 @@
+{
+  "slug": "2026-10-12",
+  "date": "2026-10-12",
+  "edition": "Issue #020 - A man who wants an ocean named after him, a race won by a fuel gauge, and a $33k hatchback nobody saw coming",
+  "tagline": "Your 3-minute break. Zero fluff, maximum banter.",
+  "reading_minutes": 3,
+  "stories": [
+    {
+      "id": "s1",
+      "category": "world",
+      "headline": "Trump wants to rename the Pacific the Trump Ocean - and the Pacific has elected not to comment",
+      "summary": "President Trump floated renaming the Atlantic or Pacific the Trump Ocean or Ocean of the Americas at a Tennessee rally, adding an ocean to his growing collection of renamed geography that already includes the Gulf of America and Lake America.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "President Donald Trump has floated renaming either the Atlantic or the Pacific Ocean, suggesting they could be called the Trump Ocean or the Ocean of the Americas. Making the case at a rally in Clarksville, Tennessee on Saturday 10 October, he said, with reference to his earlier renames, We need a river, we need an ocean. So I was thinking of either the Atlantic or the Pacific. It is not the first time he has dabbled in geography: he renamed the Gulf of Mexico the Gulf of America by executive order in January 2025 and Lake Ontario Lake America by the same route in August. For now it is a spoken idea, not a formal plan, and no name change has been announced."
+        },
+        {
+          "kind": "banter",
+          "text": "The Pacific laps the beaches of Aotearoa, so the idea of a bloke in Tennessee waking up one morning and deciding it should be named after himself is the closest geography has come to a vanity plate. There is a special kind of chutzpah in looking at the biggest ocean on the planet, about a third of the Earth surface, and thinking yes, that will do, that is mine now. One silver lining: if the name did stick on our side of the shore, the official weather report would have to announce seas are Trump today, and honestly the alliterative potential is the only part of this that does not make us seasick."
+        },
+        {
+          "kind": "fact",
+          "text": "Washington Post (10 Oct 2026, politics): At a campaign rally in Clarksville, Tennessee, President Donald Trump suggested renaming either the Atlantic or the Pacific Ocean the Trump Ocean or the Ocean of the Americas, saying we need a river, we need an ocean. This follows his executive-order renames of the Gulf of Mexico to the Gulf of America (January 2025) and Lake Ontario to Lake America (August 2026). The Associated Press notes that while the United States can rename its domestic geographic features via executive authority, Trump cannot compel other nations or international organisations to adopt the new names; the Pacific borders dozens of countries."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "category": "sport",
+      "headline": "The Bathurst 1000 was decided on the last lap - by a fuel gauge, not a race car",
+      "summary": "Brodie Kostecki and Todd Hazelwood won the Bathurst 1000 after race leader Anton De Pasquale ran out of fuel on the final lap, the race changing hands high on Mount Panorama with about 5km to the flag.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "Brodie Kostecki and Todd Hazelwood have won the Bathurst 1000 after race leader Anton De Pasquale ran out of fuel on the final lap at Mount Panorama on Sunday. De Pasquale, with co-driver Lee Holdsworth, was leading heading up the final climb when his car ran out of fuel on Mountain Straight, and Kostecki swept past to take the win for Dick Johnson Racing. Kostecki crew had earlier dropped from the lead to fifth after a slow brake change at their penultimate pit stop, but a late safety car, the only one in the race, set up a three-lap sprint to the finish that the fuel chemistry ultimately decided."
+        },
+        {
+          "kind": "banter",
+          "text": "There is something quietly beautiful about a sport where grown adults spend hundreds of millions of dollars and hundreds of laps going around a mountain, only for the whole thing to be settled by whichever spreadsheet of fuel maths was slightly less wrong. Formula One gets the glamour, but only Bathurst gives you the spectacle of a leader watching his win circle the drain because the car politely declined to go one more kilometre. And to the losers credit, running out of petrol on the last lap of the biggest race of the year is a very democratic way to lose - it is exactly the same mechanical betrayal that ruins a Friday run to the supermarket, just with significantly more expensive consequences and fewer groceries."
+        },
+        {
+          "kind": "fact",
+          "text": "RNZ (11 Oct 2026, sport, repost of ABC and Michael Doyle): Brodie Kostecki and Todd Hazelwood won the Bathurst 1000 after race leader Anton De Pasquale, with co-driver Lee Holdsworth, ran out of fuel on the final lap. The Dick Johnson Racing car had dropped from first to fifth after a slow pit stop, but a late safety car, the race only one, set up a three-lap sprint. Kostecki said the mountain chooses the winner and that the Ford Mustang was on rails. Sporting News Australia noted the lead changed hands with roughly 5km to go and called it Kostecki second Bathurst 1000 win in three years."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "category": "tech",
+      "headline": "The $33,000 Chinese hatchback that quietly became the world best-selling small EV",
+      "summary": "The Geely EX2, a tiny electric hatch from $32,990, has become the world best-selling small electric car on the back of huge Chinese demand, and it is now hitting New Zealand streets.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "New Zealand latest budget electric car is a small Chinese hatchback called the Geely EX2, and it is not the flashy one. Priced from $32,990 for the entry Complete grade and $37,990 for the Inspire, it is a rear-wheel-drive city car with a lithium iron phosphate battery, a claimed 252km Complete or 345km Inspire of driving range, and a 70-litre frunk under the bonnet. The NZ Herald framed its success in round numbers, asking readers to consider the sales behind it: the EX2 has been among the world best-selling small EVs on the strength of enormous demand in China, where Geely says it sold more than 450,000 units in 2025 alone."
+        },
+        {
+          "kind": "banter",
+          "text": "Every so often the car market delivers a plot twist, and the twist here is that the planet favourite small electric car is a thirty-three-grand hatchback most of us had never heard of until it was already the best-seller. It is not particularly fast, the entry model takes a leisurely 14.2 seconds to reach 100km/h, which is roughly how long the average city driver spends deciding which lane they need, and it is not glamorous, but it is cheap, cheerful and rear-wheel drive, which is a sentence you do not normally get to say about an economy car. In a country where the average new car is now eye-wateringly expensive, a world best-selling small EV that costs less than a year of inner-city rent is either the best news of the decade or the most damning commentary on house prices, and it is probably both."
+        },
+        {
+          "kind": "fact",
+          "text": "NZ Herald (11 Oct 2026, motoring) framed the EX2 success with cumulative sales of 731,941 units; Geely says it sold more than 450,000 EX2s in China in 2025, making it the world best-selling small EV (Driven Car Guide NZ). New Zealand pricing is confirmed at $32,990 Complete and $37,990 Inspire plus on-road costs (CarExpert NZ, EVs and Beyond, 2026). Key specs: rear-wheel drive, 35.4 to 47.1 kWh lithium iron phosphate battery, 252 to 345km WLTP range, 60 to 85kW motor, 14.2 to 11.5 second 0 to 100km/h, 70-litre frunk. The EX2 was not yet independently crash-rated at review time."
+        }
+      ]
+    }
+  ],
+  "affiliate_cta": {
+    "enabled": true,
+    "headline": "Making a move? Here is what we would look at.",
+    "body": "Between a man who wants an ocean named after him, a car race decided by fuel maths, and a tiny EV that outsold everything in its class, this week is a decent reminder that the sensible everyday decisions, like which small, well-priced car to do the weekend chores in, are the ones worth getting right. No pressure, no sales pitch: a quiet search over a cup of tea before you commit to anything.",
+    "disclosure": "We may earn a commission if you buy through these links. It will not cost you more, and it keeps yeah nah news free.",
+    "items": []
+  },
+  "meta": {
+    "sources": [
+      "washingtonpost.com (world): Trump suggests Ocean of Americas as new name for Atlantic or Pacific, 10 Oct 2026, trended on stuff.co.nz",
+      "rnz.co.nz (sport): Kostecki-Hazelwood win Bathurst 1000 after lead runs out of fuel on last lap, 11 Oct 2026 (repost of ABC), plus sportingnews.com AU",
+      "nzherald.co.nz (motoring): There are already 731,941 reasons why the Geely EX2 EV is a success, 11 Oct 2026, plus drivencarguide.co.nz and carexpert.co.nz",
+      "Associated Press via Yahoo News: detail on executive order renames and international naming limits"
+    ],
+    "qa_verified": true
+  }
+}

@@ -17,7 +17,7 @@
         },
         {
           "kind": "banter",
-          "text": "There is something almost poetic about a rubbish company handing you redundancy papers and then offering to sell you the truck that made you redundant, as if the whole restructure is just a really aggressive sales tariff on your own job. I cannot decide which bit is funnier: the word dumped doing double duty - because yes, they are quite literally being dumped from their job of dumping - or the idea that buying your own truck somehow counts as positive development when it means you also buy your own sick leave, your own guaranteed hours, and your own ability to say no. It's the workforce version of being asked to bring your own laptop, except the laptop in this case weighs 12 tonnes and comes with a price tag that follows you around like a smell. Genuinely, I hope the union's 'scam' label follows this one around until the grown-ups in the room have a proper reason for it."
+          "text": "There is something almost poetic about a rubbish company handing you redundancy papers and then offering to sell you the truck that made you redundant, as if the whole restructure is just a really aggressive sales pitch on your own job. I cannot decide which bit is funnier: the word dumped doing double duty - because yes, they are quite literally being dumped from their job of dumping - or the idea that buying your own truck somehow counts as positive development when it means you also buy your own sick leave, your own guaranteed hours, and your own ability to say no. It's the workforce version of being asked to bring your own laptop, except the laptop in this case weighs 12 tonnes and comes with a price tag that follows you around like a smell. Genuinely, I hope the union's 'scam' label follows this one around until the grown-ups in the room have a proper reason for it."
         },
         {
           "kind": "fact",
@@ -49,8 +49,36 @@
       "id": "s3",
       "category": "technology",
       "headline": "Canterbury is about to get a spaceport, and the expert in charge says it'll have a 'tiny' effect on our skies",
-      "summary": "Tāwhaki national aerospace centre is planning up to 12 annual rocket launches of up to 100 tonnes each from Kaitorete Spit, south of Christchurch - a plan a rocket-emissions expert says would have a 'tiny' impact on the skies.",
+      "summary": "Tawhaki national aerospace centre is planning up to 12 annual rocket launches of up to 100 tonnes each from Kaitorete Spit, south of Christchurch - a plan a rocket-emissions expert says would have a 'tiny' impact on the skies.",
       "body": [
         {
           "kind": "lead",
-          "text": "New Zealand's first proper spaceport is coming into focus, and it's not where you might expect: the Tāwhaki national aerospace centre is working on plans to launch up to a dozen rockets a year - each up to 100 tonnes - from Kaitorete Spit, a sandspit about an hour south of Christchurch. A rocket emissions expert consulted on the plans says Canterbury is well suited to launches that, as proposed, would have only a 'tiny
+          "text": "New Zealand's first proper spaceport is coming into focus, and it's not where you might expect: the Tawhaki national aerospace centre is working on plans to launch up to a dozen rockets a year - each up to 100 tonnes - from Kaitorete Spit, a sandspit about an hour south of Christchurch. A rocket emissions expert consulted on the plans says Canterbury is well suited to launches that, as proposed, would have only a 'tiny' impact on the skies. Rocket Lab's Mahia site is currently the only southern hemisphere launch pad; Tawhaki, a Crown-iwi joint venture, is marketing itself to Europe as a unique location that gives launch companies there more choice."
+        },
+        {
+          "kind": "banter",
+          "text": "There is a very Kiwi contradiction at the heart of building a spaceport on a gravel spit: we have barely warmed up our hovercraft and now somebody wants to fire very big rockets off a sandbank an hour south of Christchurch, next to a lake full of birds. The expert reassuring us that a Starship-sized future would still be a 'tiny' impact is doing some serious carrying of the hope while the rest of us just picture a dozen rockets doing a very polite bow towards Lake Ellesmere and then disappearing over the sea. And honestly, good on them - if Europe wants a quiet corner of the planet where the spin of the Earth, bare-clear oceans and no neighbours all line up, they have found it, which is basically how every great Kiwi export story begins."
+        },
+        {
+          "kind": "fact",
+          "text": "RNZ (9 Oct 2026, science and technology): Tawhaki national aerospace centre is working on plans for a spaceport to launch up to a dozen rockets of up to 100 tonnes each a year from Kaitorete Spit. Rocket emissions expert Dr Cathy Bannister said Canterbury is well suited to the proposed launches, which would have a 'tiny' impact compared with a single Starship launch in North America; Kaitorete can launch over clear oceans and makes use of the Earth's spin from the east coast. Rocket Lab's Mahia site is currently the only southern hemisphere launch site, and Tawhaki - a Crown-iwi joint venture with a runway and hangar at Kaitorete - is marketing itself to Europe for launch choices. Acting chief executive John Holt described a rapidly growing, trillion-dollar launch market to tap."
+        }
+      ]
+    }
+  ],
+  "affiliate_cta": {
+    "enabled": false,
+    "headline": "",
+    "body": "",
+    "disclosure": "",
+    "items": []
+  },
+  "meta": {
+    "sources": [
+      "rnz.co.nz (business): Waste Management truck drivers made redundant, 7 Oct 2026",
+      "nzherald.co.nz (sport): Connor Watson's NRL ring cut off his finger, 8 Oct 2026",
+      "rnz.co.nz (science and technology): Tawhaki rockets would have 'tiny impact' on skies, 9 Oct 2026"
+    ],
+    "qa_verified": true
+  }
+}
