@@ -1,0 +1,84 @@
+{
+  "slug": "2026-10-16",
+  "date": "2026-10-16",
+  "edition": "Issue 023 - a Kiwi AI firm cashes out, a star author who refuses the money, and a slow-burn Black Ferns comeback",
+  "tagline": "Your 3-minute break. Zero fluff, maximum banter.",
+  "reading_minutes": 3,
+  "stories": [
+    {
+      "id": "s1",
+      "category": "business",
+      "headline": "Takapuna AI firm sold to US buyer in deal worth up to 72 million",
+      "summary": "Fuel50, a Takapuna-based AI workforce-skills platform, has been sold to Phoenix Education Partners in an all-cash deal valued at up to 72 million dollars, one of the years bigger Kiwi tech exits.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "Fuel50, the Takapuna-based workforce tech firm that helps people retool their careers for the age of artificial intelligence, has been sold to US buyer Phoenix Education Partners in an all-cash deal valuing it at up to 72 million dollars. The deal closed on 1 October: a 31.5 million USD upfront payment, plus a further 8.5 million USD in earnouts payable over calendar 2027 if targets are hit. Co-founder Anne Fulton confirmed the sale to the NZ Herald, and the firm will keep operating as a standalone brand under its own name."
+        },
+        {
+          "kind": "banter",
+          "text": "Nothing says the AI gold rush is real quite like a Takapuna AI firm cashing out to the US parent of the University of Phoenix. The company that exists to teach people how to reskill for the AI age has itself been reskilled straight onto an American balance sheet. And the earn-out structure means a chunk of the deal is literally a bet that the founders keep growing the business, which is just corporate Americas version of please dont leave, we believe in you."
+        },
+        {
+          "kind": "fact",
+          "text": "NZ Herald (business, 14 Oct 2026) and fuel50.com press release (Sep-Oct 2026): Fuel50 was acquired by Phoenix Education Partners, parent of the University of Phoenix. The transaction closed 1 October 2026: 31.5 million USD (~55 million NZD) upfront plus an 8.5 million USD (~17 million NZD) earnout due over 2027. Co-founder Jo Mills takes over as chief executive; the firm continues as a standalone brand. Co-founder Anne Fulton confirmed the figures to the Herald."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "category": "entertainment",
+      "headline": "Sally Rooneys books can no longer be sold in the UK -- she has declined the money",
+      "summary": "Bestselling novelist Sally Rooneys publisher Faber says her works can no longer be supplied in the UK, because UK law prevents it passing her earnings on after her support for the proscribed group Palestine Action.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "Sally Rooneys books, including Normal People and Conversations with Friends, will no longer be sold in Britain. Her publisher Faber announced this week that both sides agreed we can no longer supply her works in the UK in any format, though the books remain for sale elsewhere. Faber said current UK legislation means it cannot pass UK earnings on to Rooney, after her support for Palestine Action, a group proscribed as a terrorist organisation under British law, and her stated plan to use royalties to back it. Rooney said she was wholly prepared to accept the consequences."
+        },
+        {
+          "kind": "banter",
+          "text": "Only Rooney would write novels about the quiet devastations of modern love and then refuse all money from the UK market on principle, in what might be the most dramatic plot twist she has ever produced. Whether you find this principled or absurd, it is an extraordinary thing to watch a bestselling author voluntarily vanish from a countrys bookshops over a belief. Fairly noted: the news people are reporting this straight -- the strangeness is all in the situation, not in the telling."
+        },
+        {
+          "kind": "fact",
+          "text": "RNZ via CNN (15 Oct 2026): Faber announced Rooneys works will no longer be supplied in the UK in any format, though still sold elsewhere. The move follows her support for Palestine Action, proscribed by the British government under terrorism laws after a June 2025 break-in at the Royal Air Forces Brize Norton base. Rooney gave a witness statement in a High Court challenge over the ban. CNN reports more than 3000 people have been arrested in connection with supporting the group."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "category": "sport",
+      "headline": "A bit of an unknown: Grace Brookers three-year road back to the Black Ferns",
+      "summary": "Canterbury midfielder Grace Brooker is back in the Black Ferns squad for the three-test home series against France, her first call-up since 2023, after a patella-tendon rupture, a lost contract and a season of Aussie rules in between.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "Grace Brooker is back in the Black Ferns squad for the three-test home series against France, which starts in Hamilton this Saturday. First selected in 2019, Brooker has five test caps, the most recent being the Black Ferns 39-17 win over the USA in July 2023. In between she ruptured a patella tendon in late 2021, lost her Black Ferns contract in 2024, spent the 2025 AFLW season with the Essendon Bombers, then returned to captain Matatu to the 2026 Super Rugby Aupiki final before her recall."
+        },
+        {
+          "kind": "banter",
+          "text": "Brookers comeback route reads like a choose-your-own-adventure book: rupture a kneecap, lose your national contract, try Aussie rules on a whim, come home, captain a Super Rugby final, then surprise -- youre a Black Fern again. At every step it is basically the sporting equivalent of turning up to the interview for the job you lost and calmly asking if the position is still open. Three years away, and the kiwi way is just quietly running it back."
+        },
+        {
+          "kind": "fact",
+          "text": "RNZ (sport, 7 Oct 2026) and NZ Herald (Oct 2026): Brooker, 27, returns to the Black Ferns squad for a three-test home series against France (Hamilton 17 Oct, Whangarei 24 Oct, Christchurch 31 Oct). Her last test was the 39-17 win over the USA in 2023. She ruptured a patella tendon in late 2021, lost her Black Ferns contract in 2024, played the 2025 AFLW season with Essendon, and captained Matatu to the 2026 Super Rugby Aupiki final. She was recalled after Saili and Davis moved to the sevens programme."
+        }
+      ]
+    }
+  ],
+  "affiliate_cta": {
+    "enabled": true,
+    "headline": "Career moves, a flat white, or your next big read? Here is what we would be looking at.",
+    "body": "From an AI careers firm cashing out to a book you can no longer buy in the UK, this edition is a reminder that the things we buy, learn and read are all quietly moving. No pitch, no pressure: just a calm look before you commit.",
+    "disclosure": "We may earn a commission if you buy through these links. It will not cost you more, and it keeps yeah nah news free.",
+    "items": []
+  },
+  "meta": {
+    "sources": [
+      "nzherald.co.nz (business, 14 Oct 2026): Fuel50 acquired by Phoenix Education Partners up to 72m, closed 1 Oct 2026; fuel50.com press release corroborates",
+      "rnz.co.nz via CNN (15 Oct 2026): Sally Rooney books no longer supplied in the UK; Faber statement; Palestine Action proscription context",
+      "rnz.co.nz (sport, 7 Oct 2026) and nzherald.co.nz (Oct 2026): Grace Brooker recalled to Black Ferns squad for France series; knee injury, Essendon stint, Matatu captaincy"
+    ],
+    "qa_verified": true
+  }
+}
