@@ -1,0 +1,57 @@
+{
+  "slug": "2026-10-18",
+  "date": "2026-10-18",
+  "edition": "Issue 024: data centres vs stargazers, a shorthanded Bledisloe sweep, and a PM who picked the tricky date",
+  "tagline": "Your 4-minute break. Zero fluff, maximum banter.",
+  "reading_minutes": 4,
+  "stories": [
+    {
+      "id": "s1",
+      "category": "tech",
+      "headline": "Sky glow: Data centres could threaten Mackenzie's dark sky status",
+      "summary": "Twizel residents, astronomers and fishing guides are warning that large-scale data centres could put the Aoraki/Mackenzie International Dark Sky Reserve's gold-standard status at risk, under fast-track consenting and new resource laws.",
+      "body": [
+        {"kind": "lead", "text": "Twizel residents and astronomers are warning the Mackenzie district could become home to large-scale data centres that put the Aoraki/Mackenzie International Dark Sky Reserve's gold-standard status at risk. Concerns were raised at a public forum earlier this month, with locals pointing to fast-track consenting and the Government's new Natural Environment Act and Planning Bill, which replace the Resource Management Act. A NASA astronomer told councillors that a data centre's LED lighting, running round the clock, would create a huge sky glow and could destroy the reserve's status. Fishing guides separately warned the centres could use roughly 600,000 to a million litres of water a day and that warm, chemical-laden overflow into canals and lakes could kill fish. RMA Reform Minister Chris Bishop said the reforms speed up consenting, and acknowledged neither the Act nor the Bill contains specific dark-sky protections."},
+        {"kind": "banter", "text": "The pitch to put data centres in Mackenzie is telling a region whose entire economy is 'come and look at how empty and dark it is' that you want to make it slightly less of both. It may be the only business plan in history where the resource for sale is an absence: no light, no noise, no people holding a server up. Now a stargazing guide is battling a data furnace for the sky's attention, and a fishing guide is trying to explain to tech that fish, unlike web traffic, do not appreciate being cooled by warm water."},
+        {"kind": "fact", "text": "RNZ via Local Democracy Reporting (Claire Taylor, 17 Oct 2026): concerns raised at a Mackenzie District Council public forum this month; NASA astronomer Daniel Gaussen warned of sky glow eroding the gold-standard dark sky status; fishing guide Brad Snow said data centres use 600,000-1,000,000 litres of water a day and fish die once water exceeds 18C (he cited the Datagrid project near Invercargill as a non-notified consent precedent). RMA Reform Minister Chris Bishop confirmed the Natural Environment Act and Planning Bill introduce no specific dark-sky protections."}
+      ]
+    },
+    {
+      "id": "s2",
+      "category": "sport",
+      "headline": "Shorthanded All Blacks too strong for Wallabies in Bledisloe Cup sweep",
+      "summary": "The All Blacks beat Australia 43-21 in the second Bledisloe Cup test in Sydney, finishing with just 14 fit players and scoring seven tries to three, to complete back-to-back wins and retain the Cup.",
+      "body": [
+        {"kind": "lead", "text": "The All Blacks sealed the Bledisloe Cup with a 43-21 win over the Wallabies in the second test in Sydney, scoring seven tries to three while ending the match with just 14 fit players. It followed a 50-19 victory at Eden Park last week, meaning the Cup was already retained before this test and the win in the second test completed a clean sweep of the two-match series. Try scorers on the night included Wallace Sititi, who barged over from the back of a scrum after the Wallabies were reduced to 14 by a yellow card, and Damian McKenzie added several conversions including a sideline effort."},
+        {"kind": "banter", "text": "A side that finished the game one player short still managed seven tries against a home team desperate to win. Nothing says 'we are fine, honestly' like winning a test with fewer people on the field than the other side, the sporting equivalent of cooking the entire BBQ while loudly insisting you are not actually hosting. Being shorthanded is not a handicap at this point; it is just the All Blacks giving the rest of the field a head start so the whole thing feels fair."},
+        {"kind": "fact", "text": "RNZ (sport, 18 Oct 2026): All Blacks beat Wallabies 43-21 (seven tries to three) in the second Bledisloe Cup test in Sydney and finished with 14 fit players. The first test at Eden Park was won 50-19, so the Bledisloe Cup was already retained and the Sydney win completed a two-test sweep. Wallace Sititi and Damian McKenzie (conversions) were among the scorers; the Wallabies lost lock Jeremy Williams to a yellow card late in the first half."}
+      ]
+    },
+    {
+      "id": "s3",
+      "category": "politics",
+      "headline": "Prime Minister passed over easier election dates, advice reveals",
+      "summary": "Newly released advice shows PM Christopher Luxon picked a challenging election date of 7 November even though the Electoral Commission considered 17 October and 21 November more feasible, with advance voting starting on Labour Day. Labour calls it a turnout barrier; National calls that desperation.",
+      "body": [
+        {"kind": "lead", "text": "Newly released advice shows Prime Minister Christopher Luxon pushed for an election date of 7 November that the Electoral Commission itself described as challenging but manageable, even though two nearby options, 17 October and 21 November, were considered administratively more feasible. The chief electoral officer's letter, sent 7 August 2025, warned advance voting would begin on the Labour Day public holiday, when large numbers of people may be away from home and fewer booths open, potentially lowering turnout. Labour is accusing Luxon of knowingly limiting turnout; National calls the criticism desperation, noting the date was public knowledge for nine months."},
+        {"kind": "banter", "text": "You are handed three dates, two are waved through as the easy ones, and you pick the third and call it a logical time. That is either enormous confidence or the political equivalent of choosing the difficult hiking track on purpose so you can complain there was no easy path later. Now everyone is treating the date itself like the season's hottest prop: Labour says it is a turnout scandal, National says it proves Labour is worried. Which honestly just means the date is doing exactly what a date should do in an election year, getting a full grown argument going about the calendar instead of anything harder."},
+        {"kind": "fact", "text": "RNZ (Politics, Lillian Hanly, 18 Oct 2026) via NZ Herald (17 Oct 2026): election date set for 7 November 2026; the Electoral Commission judged 17 October and 21 November administratively more feasible, and a range of Aug-Sep dates also more feasible; advance voting would begin on the 26 October Labour Day public holiday. Labour MP Camilla Belich said just 2 of 22 voting places in Epsom would be open on Labour Day. The chief electoral officer's warning letter was dated 7 August 2025. National dismissed the concerns as desperation."}
+      ]
+    }
+  ],
+  "affiliate_cta": {
+    "enabled": true,
+    "headline": "Long weekend plans, or a quiet night in? Here is what we would be looking at.",
+    "body": "From a dark-sky stretch that tech wants to light up, to a Bledisloe that sorted itself out in the first week, to an election date nobody can stop talking about, this edition is a reminder that the best breaks are the ones you set aside on purpose. No pitch, no pressure: just a calm look before you commit.",
+    "disclosure": "We may earn a commission if you buy through these links. It will not cost you more, and it keeps yeah nah news free.",
+    "items": []
+  },
+  "meta": {
+    "sources": [
+      "rnz.co.nz via Local Democracy Reporting (Claire Taylor, 17 Oct 2026): Mackenzie dark-sky/data-centre concerns; Twizel forum; Gaussen, Snow quotes; Bishop on RMA reforms",
+      "rnz.co.nz (sport, 18 Oct 2026): All Blacks 43-21 Wallabies in Sydney, Bledisloe sweep, finished with 14 fit players",
+      "rnz.co.nz (Politics, Lillian Hanly, 18 Oct 2026) and nzherald.co.nz (17 Oct 2026): election date 7 Nov challenging; EC preferred 17 Oct/21 Nov; Labour Day voting start"
+    ],
+    "qa_verified": true
+  }
+}
