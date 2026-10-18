@@ -1,0 +1,84 @@
+{
+  "slug": "2026-10-19",
+  "date": "2026-10-19",
+  "edition": "Issue 025: an 81-point rugby statement, a job hunt that beat the bots, and power bills doing physics in reverse",
+  "tagline": "Your 4-minute Monday reset. Zero fluff, maximum banter.",
+  "reading_minutes": 4,
+  "stories": [
+    {
+      "id": "s1",
+      "category": "sport",
+      "headline": "Black Ferns rack up 81 points and a 1-0 series lead against France",
+      "summary": "The Black Ferns thumped France 81-12 in the opening WXV test, racing to a 43-0 halftime lead, to take a 1-0 lead in the three-match series that continues next week in Whangarei.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "The Black Ferns opened their WXV series against France with a statement result, beating the visitors 81-12. They struck inside the first two minutes and shut France out completely to lead 43-0 at halftime before running in another 38 points after the break. It gives New Zealand a 1-0 lead in the three-match series, which continues next week in Whangarei. Head coach Whitney Hansen has pointed to the impact of the fully professional Aupiki competition in lifting the team standard of play."
+        },
+        {
+          "kind": "banter",
+          "text": "Eighty-one points is not a rugby score, it is a spreadsheet somebody left on the park. France turned up expecting a series and instead got a maths lesson, New Zealand scoring 43 of them before the oranges had even made it to the bench. At some point it stops being a contest and starts being a donation, and the Black Ferns have been extremely generous with their points all afternoon, giving 12 away just so the scoreboard ran out of room. The good news for France is the series moves to Whangarei for round two. The bad news is that is exactly the kind of invitation you only accept if you are very, very brave."
+        },
+        {
+          "kind": "fact",
+          "text": "RNZ and NZ Herald (18-19 Oct 2026): the Black Ferns beat France 81-12 in the first WXV test, leading 43-0 at halftime and scoring 38 further points in the second half, with the first try coming after 67 seconds. The win gives New Zealand a 1-0 lead in the three-match series; test two is in Whangarei. Head coach Whitney Hansen has credited the fully professional Aupiki competition for the team improved consistency."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "category": "tech",
+      "headline": "Job hunting in the AI age: the Wellington teen who outran the application pile with a sign",
+      "summary": "19-year-old Valera Bonyushkin walked Wellington CBD holding a cardboard sign reading \"Enthusiastic Person Looking For A Job\" with his contact details - a tactic he says is partly a reaction to impersonal, AI-driven hiring - and had interviews within days, landing an administrator job.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "A 19-year-old in Wellington has taken job hunting analogue when everyone else went digital. Valera Bonyushkin walked around the city centre holding a cardboard sign that read \"Enthusiastic Person Looking For A Job\", adding his phone number and email so employers could reach out directly. He says the stunt was partly a reaction to how impersonal the hiring process has become with the increased use of AI, and that it is hard to come across as having a personality through online applications. Within a couple of days he had interviews and trial dates scheduled, and he recently accepted an administrator role with a local tradie company."
+        },
+        {
+          "kind": "banter",
+          "text": "The AI-era nightmare is that your carefully crafted CV, built to be keyword-perfect, gets read by a bot that has already decided quick learner is a red flag because seventeen other people also wrote it. So the winning counter-move this week was a piece of cardboard, a felt pen and a willingness to stand in the CBD until a human walked past. Who knew the killer application in the age of machine reading was just... existing, physically, in a place where a person could see you. It is a beautiful reversal: every company is busy auto-filtering you out, and meanwhile this guy wins by being older technology than the technology that was trying to replace him."
+        },
+        {
+          "kind": "fact",
+          "text": "RNZ (19 Oct 2026) and NZ Herald: 19-year-old Valera Maximovich Bonyushkin walked Wellington city centre holding a sign reading \"Enthusiastic Person Looking For A Job\" with his phone number and email. He said it was partly in reaction to the increased use of AI in what he called an impersonal hiring system. Within days he had interviews and trial dates, and accepted an administrator role with a local tradie company. It was not his first sign-based job hunt: he previously recorded himself jumping into rivers and oceans in the middle of winter holding the sign and landed a sales job within about a week."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "category": "finance",
+      "headline": "Power bills rose 6.8% while wholesale prices fell - it is the wires, not the wattage",
+      "summary": "Electricity Authority data shows household and small-business power bills rose an average 6.8% in the first half of 2026 (after 8% in 2025), driven mostly by higher lines charges - the network fees that make up 54% of the increase - even as wholesale contract prices have been falling.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "New Zealand power bills went up again in the first half of 2026, rising an average of 6.8% across households and small businesses, according to the Electricity Authority. That follows an 8% rise in 2025. The Authority data shows the biggest driver was not the price of the electricity itself but higher lines charges - the network fees households pay just to be connected - which accounted for 54% of the increase. Prices for electricity contracts for future years have actually been falling since January, but the Authority says that is taking time to flow through to retail bills. There were big regional differences: Buller households saw the lowest average rise at 5.7%, while Queenstown and Central Otago were among the highest."
+        },
+        {
+          "kind": "banter",
+          "text": "New Zealand has managed the rare achievement of making electricity more expensive at the exact moment the electricity itself got cheaper. That is the kind of physics only a power bill can perform, and it happens because the bill has two parts: the energy, which is getting cheaper, and the line charges for the privilege of being near a pole, which are doing the exact opposite. It is like your coffee shop dropping the price of the beans while raising the fee for sitting in the chair, and calling both changes good news for coffee drinkers. The power companies group says the money funds new generation and a lower bill is coming; the Electricity Authority and the wannabe opposition would both like you to keep watching this space, one with a chart and one with a promise."
+        },
+        {
+          "kind": "fact",
+          "text": "NZ Herald (Jamie Gray, 12 Aug 2026) reporting Electricity Authority data: power bills for households and small businesses rose on average 6.8% in the first half of 2026, after an 8% rise in 2025. Higher lines charges drove 54% of the 2026 increase (55.9% average for gentailers, 47.8% for independent retailers). About 22% of households saw no change between 1 Nov 2025 and 30 Jun 2026; for those who did, household bills rose an average 8.7%. The Commerce Commission approved higher revenue limits for Transpower and lines companies in 2024, spread over five years and expected to keep rising at a slower pace through to 2030. Wholesale contract prices have been falling since January 2026. Regional variation: Buller lowest rise at 5.7%; Queenstown and Central Otago among the highest."
+        }
+      ]
+    }
+  ],
+  "affiliate_cta": {
+    "enabled": true,
+    "headline": "Sizing up a move or a bill, or just want an easier Monday? Here is where we would look.",
+    "body": "From a Black Ferns blowout that makes a quiet night in look optional, to a power bill that went up while the power went down, this edition is a reminder that the small things you set up properly - the right plan, the right gear, the right 4-minute break - do the heavy lifting. No pitch, no pressure: just a calm look before you commit.",
+    "disclosure": "We may earn a commission if you buy through these links. It will not cost you more, and it keeps yeah nah news free.",
+    "items": []
+  },
+  "meta": {
+    "sources": [
+      "rnz.co.nz/news/sport (18-19 Oct 2026) + nzherald.co.nz: Black Ferns 81-12 France, WXV opener, 43-0 at HT, series 1-0, next test Whangarei; Hansen credits Aupiki",
+      "rnz.co.nz/news/regions (19 Oct 2026) + nzherald.co.nz: 19yo Valera Bonyushkin Wellington sign job hunt; AI-driven hiring reaction; admin role; winter river sales stunt",
+      "nzherald.co.nz business (Jamie Gray, 12 Aug 2026) reporting Electricity Authority data: power bills +6.8% H1 2026 (after 8% 2025); lines charges 54% of rise; wholesale contracts falling since Jan; Buller 5.7%, Queenstown highest"
+    ],
+    "qa_verified": true
+  }
+}
