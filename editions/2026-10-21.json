@@ -1,0 +1,57 @@
+{
+  "slug": "2026-10-21",
+  "date": "2026-10-21",
+  "edition": "Issue 027: the final Chris v Chris cage match, the dairy auction where bad weather is good news, and the White Ferns serving us the same trans-Tasman defeat we order every week",
+  "tagline": "Your 4-minute Wednesday reset. Zero fluff, maximum banter.",
+  "reading_minutes": 4,
+  "stories": [
+    {
+      "id": "s1",
+      "category": "politics",
+      "headline": "Luxon and Hipkins trade blows in the final leaders\u2019 debate, with the moderator mostly a referee with a sore neck",
+      "summary": "Christopher Luxon and Chris Hipkins clashed over health, homelessness and the cost of living in the final leaders\u2019 debate before the election, trading direct personal hits while the polling gap stays tight.",
+      "body": [
+        {"kind": "lead", "text": "The final leaders\u2019 debate of the campaign is done, and Christopher Luxon and Chris Hipkins went at it over health, homelessness and the cost of living. Both tried to sell their plans to improve New Zealanders\u2019 lives while taking whacks at the other\u2019s record: Luxon labelled Hipkins \u2018the most abysmal education minister\u2019, Hipkins called Luxon \u2018out of touch\u2019. It was the last chance for either leader to land a defining moment before the country votes, and the gap between the parties in the polls is tight."},
+        {"kind": "banter", "text": "Somewhere in the middle of all that, two men named Chris discovered there is nothing a country needs less than two blokes named Chris arguing about who is out of touch. The moderator showed real restraint, mostly stepping back and letting the manifestos shout at each other over the microphone, like a referee at a kids\u2019 soccer match who has given up on the whistle and just started jotting notes. Less than a month out from the election, a dead-heat of interruptions is not so much a debate as two dads auditioning for the same carpool."},
+        {"kind": "fact", "text": "RNZ (20 Oct 2026) reporting the final leaders\u2019 debate: Luxon and Hipkins clashed on health, homelessness and the cost of living. Luxon labelled Hipkins \u2018the most abysmal education minister\u2019, while Hipkins said Luxon was \u2018out of touch\u2019. RNZ analysis noted a meaty quickfire round where the leaders doubled down on interruptions, and that the election is now less than a month away."}
+      ]
+    },
+    {
+      "id": "s2",
+      "category": "finance",
+      "headline": "Dairy prices climb 2.5% at the global auction as a drier-than-normal spring turns drought into a shareholder perk",
+      "summary": "Global Dairy Trade prices rose 2.5 percent to about US$4021 a tonne overnight, a second straight auction climb, helped by a drier-than-normal North Island spring cutting supply and pushing whole milk powder up 4.4 percent.",
+      "body": [
+        {"kind": "lead", "text": "The average price at the Global Dairy Trade auction rose 2.5 percent overnight to US$4021 (about NZ$7075) a tonne, the second consecutive auction to climb after a 1.2 percent rise in mid-September. Whole milk powder was up 4.4 percent, skim milk powder rose 3.4 percent to a four-year high, and New Zealand posted a record for September milk collections. But much of the strength is a supply story: the North Island has had a drier-than-normal spring, with El Nino risk still being priced in for summer."},
+        {"kind": "banter", "text": "The dairy auction is a few hundred unseen buyers in a two-hour room gently bidding our whole export economy around based on a forecast. And the punchline is that prices are up partly because it is too dry, meaning the weather that is ruining your water supply is doing wonders for your milkshake fund. Meanwhile cheddar is down over 7 percent, because cheese is apparently the dairy equivalent of the middle child who never gets picked. Your au gratin just got cheaper, your latte slightly pricier: the great Kiwi trade-off rolls on."},
+        {"kind": "fact", "text": "RNZ (21 Oct 2026) reporting the GDT auction: the average price rose 2.5 percent to US$4021 (NZ$7075) a tonne, the second straight climb. Whole milk powder rose 4.4 percent to US$3760, skim milk powder 3.4 percent to US$3975 (a four-year high), butter fell 0.4 percent and cheddar dropped 7.3 percent. New Zealand hit a record for September milk collections with milk solids up 1.9 percent; NZX dairy analyst Rosalind Crickett cited a drier-than-normal North Island spring with El Nino risk priced in, plus festive-season restocking."}
+      ]
+    },
+    {
+      "id": "s3",
+      "category": "sport",
+      "headline": "White Ferns hand Australia the Rose Bowl as the trans-Tasman trophy collection keeps one name on it",
+      "summary": "Australia sealed the Rose Bowl with an unassailable 2-0 T20 series lead after beating the White Ferns by 40 runs on Tuesday night, New Zealand limping to 127 for 8 in a chase of 168 with the third match still to come.",
+      "body": [
+        {"kind": "lead", "text": "The White Ferns dropped the Rose Bowl on Tuesday night, losing the second T20 by 40 runs to hand Australia an unassailable 2-0 lead in the three-match series. New Zealand, chasing 168, never really got going and finished on 127 for 8. Georgia Plimmer fell early after holing out, captain Amelia Kerr tried to anchor the innings before picking out a fielder in the deep, and Maddy Green was unluckily run out after a deflection off the bowler. The third and final T20 remains, and New Zealand will now play for pride while Australia aims for a clean sweep."},
+        {"kind": "banter", "text": "Look, we have stopped pretending the trans-Tasman trophy cabinet is a competition and accepted it is more of a museum where Australia keeps everything and we supply the stories about how it almost went differently. The Rose Bowl, the Chappell-Hadlee, the Bledisloe: at this point it is less a set of trophies and more Australia\u2019s personality. But we rallied on all the right notes, the run-out off a deflection is a rule of physics rather than a lapse, and the chase was always going to need double drinks to get near 168 once the required rate started doing sums in our head. Third T20: bring a scroggin and some hope."},
+        {"kind": "fact", "text": "Stuff (20 Oct 2026) reporting the second T20 from North Sydney Oval: Australia won by 40 runs to take an unassailable 2-0 lead and seal the Rose Bowl. Chasing 168, the White Ferns finished on 127 for 8. Georgia Plimmer fell early holing out; captain Amelia Kerr anchored the innings before being caught; Maddy Green was run out after a deflection off the bowler; Polly Inglis provided a late cameo. The third and final T20 of the series is still to be played."}
+      ]
+    }
+  ],
+  "affiliate_cta": {
+    "enabled": true,
+    "headline": "Debating your weekend, your pantry, or just how much cheese should cost? Here is where we would look.",
+    "body": "From two Chrises arguing over the same microphone, to a dairy auction where dry weather is somehow the good news, to a cricket chase that ended like most Tuesdays: a nudge to sort the small stuff so the big stuff takes care of itself. No pitch, no pressure, just a calm look before you commit.",
+    "disclosure": "We may earn a commission if you buy through these links. It will not cost you more, and it keeps yeah nah news free.",
+    "items": []
+  },
+  "meta": {
+    "sources": [
+      "rnz.co.nz (20 Oct 2026): final leaders debate; Luxon and Hipkins clashed on health, homelessness and cost of living; Luxon called Hipkins the most abysmal education minister; Hipkins called Luxon out of touch; election less than a month away",
+      "rnz.co.nz (21 Oct 2026): Global Dairy Trade auction average price +2.5 percent to US$4021 a tonne; whole milk powder +4.4 percent; skim milk powder +3.4 percent (a four-year high); butter -0.4 percent; cheddar -7.3 percent; record September milk collections with milk solids +1.9 percent; NZX analyst Rosalind Crickett on dry North Island spring and El Nino risk",
+      "stuff.co.nz (20 Oct 2026): White Ferns lost the second T20 by 40 runs; Australia took an unassailable 2-0 lead and sealed the Rose Bowl; NZ finished 127 for 8 chasing 168; Plimmer, Kerr, Green and Inglis notes"
+    ],
+    "qa_verified": true
+  }
+}
