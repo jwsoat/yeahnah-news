@@ -1,0 +1,84 @@
+{
+  "slug": "2026-10-22",
+  "date": "2026-10-22",
+  "edition": "Issue 028: the eight-hour day now with a 15 percent surcharge, a record rugby rout with a storm warning attached, and 8000 people on strike because a pay rise quietly became a pay cut",
+  "tagline": "Your 4-minute Thursday reset. Zero fluff, maximum banter.",
+  "reading_minutes": 4,
+  "stories": [
+    {
+      "id": "s1",
+      "category": "life",
+      "headline": "Labour Day doubles as the start of voting, the last long weekend before Christmas, and a 15 percent coffee tax",
+      "summary": "Labour Day hits Monday 26 October as both the last long weekend before Christmas and the official start of early voting, with shops open, supermarkets on sale and many cafes charging the usual public-holiday surcharge to pay the staff working it.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "Labour Day lands on Monday 26 October, and this year it does triple duty: the last three-day weekend before the Christmas holidays, the official start of early voting for the election, and the day the holiday celebrating the eight-hour working day mostly happens behind a shop till. The shops don't have to close, supermarkets tend to be open (often with Labour weekend sales), and many restaurants and cafes add a public holiday surcharge. The Restaurant Association puts the typical surcharge at 15 percent; Consumer NZ says a business can charge any amount as long as it tells you first. IRD and Work and Income close, and anyone usually paid on Tuesday will be paid on Saturday instead. Only some polling places will actually be open for early voting on the day."
+        },
+        {
+          "kind": "banter",
+          "text": "We literally invented the eight-hour day - Wellington carpenter Samuel Parnell refused to work more than eight hours back in 1840 - so this country could have more time for the beach, and now we mark that glorious liberation by opening the shops, holding sales, and slapping an extra 15 percent on your flat white to cover the person pouring it. The holiday about working less has somehow become the holiday about paying extra to work, which feels like a serious breach of Parnell's original terms and conditions. Still, vote early, grab a sale item, and remember: the eight-hour day's long weekend is technically your birthright, surcharge or not."
+        },
+        {
+          "kind": "fact",
+          "text": "RNZ (22 Oct 2026): Labour Day is the fourth Monday in October, commemorating the eight-hour working day championed by Wellington carpenter Samuel Parnell in 1840 and made a public holiday by the Labour Day Act 1899. This year it is also the official start of early voting for the election, though only some polling places will be open. Shops do not have to close and workers must be compensated; the Restaurant Association says a typical public-holiday surcharge is 15 percent, while Consumer NZ says any amount is allowed provided customers are informed. IRD and Work and Income close, and those usually paid Tuesday 27 October will instead be paid Saturday 24 October."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "category": "sport",
+      "headline": "Black Ferns' 13-try, 81-12 rout of France comes with coach's own storm warning before the rematch",
+      "summary": "A week after the Black Ferns put 13 tries on France in an 81-12 demolition, coach Whitney Hansen is shuffling the squad for Saturday's second test but warns France was missing its best and there's a bit of a storm coming in Whangarei.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "A week on from a scoreline that looked like a typo, the Black Ferns are being careful not to get ahead of themselves. New Zealand ran in 13 tries in an 81-12 win over France in the Hamilton series opener, including four for 20-year-old wing Shyrah Tuliau-Tua'a on her first test start. Coach Whitney Hansen will shuffle the squad for Saturday's second test in Whangarei to hand more caps to fringe players, but she is not treating the rematch as a formality: France was missing some of its strongest players, and Hansen expects a side coming off an underperformance to lift. You need to be ready for that, she said. There's a bit of a storm coming. The team for Saturday is named today."
+        },
+        {
+          "kind": "banter",
+          "text": "There is a moment in every Kiwi sporting blowout where the scoreboard stops being a score and starts being a personality test for the team that supplied it. The trick now is that France has spent a whole week staring at an 81-12 and will be considerably less polite about it this time - nothing sharpens a side like being reminded of the same number every time they unlock their phone. Trust the process, keep the record try machine pointed the right way, and pack a scroggin for a game that is actually going to test us. We are about to find out if we win pretty as well as win."
+        },
+        {
+          "kind": "fact",
+          "text": "RNZ reporting ahead of the second test: the Black Ferns beat France 81-12 in the Hamilton series opener, running in 13 tries including four for 20-year-old wing Shyrah Tuliau-Tua'a on her first test start. Coach Whitney Hansen confirmed squad changes for Saturday's Whangarei test, saying they want to give international experience to a wide range of the group, and warned France (missing some of its strongest players) would be far more competitive, adding there's a bit of a storm coming. Hansen also flagged defensive concerns, noting the team conceded too many post-contact metres in Hamilton. The Black Ferns team is named on Thursday."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "category": "work",
+      "headline": "8000 university and polytech staff walk out in a first-ever joint strike, calling below-inflation pay rises a real pay cut",
+      "summary": "Tertiary staff struck together for the first time on Wednesday - about 8000 out from 1:15pm to 5pm - over pay offers the union says don't meet the cost of living, with more than half of university staff on fixed-term or casual contracts.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "University and polytechnic staff walked off the job on Wednesday afternoon in the first-ever joint strike between the two tertiary sectors, with the Tertiary Education Union estimating about 8000 members out from 1:15pm to 5pm. The dispute is about pay offers the union says don't come close to the cost of living. TEU national secretary Amy Ross also put job security front and centre: at universities just over half (54.8 percent) of the workforce are on fixed-term or casual employment agreements. She said negotiations with some polytechs had dragged on for 10 months. TEU president tiriti Ti Lamusse summed up the complaint: employers are offering a real pay cut at every institution. The University of Auckland said it would continue business as usual while bargaining in good faith."
+        },
+        {
+          "kind": "banter",
+          "text": "The modern tertiary-career arc: study for years to earn the job, get handed the kind of pay rise that inflation quietly eats before the tea goes cold, and discover half your colleagues are on contracts that expire before the course does. Lecturers, tutors and librarians - the very people expected to train the country's future nurses, builders and engineers - on strike just to be paid like they matter, while the institution that can't find the money for them finds a way to phrase we'll keep the gates open as reassuring. The ivory tower, it turns out, has a strong no-permits-needed building vibe."
+        },
+        {
+          "kind": "fact",
+          "text": "RNZ (21 Oct 2026): the Tertiary Education Union estimated about 8000 university and polytechnic members struck from 1:15pm to 5pm on Wednesday - the first time the two sectors have taken industrial action together. National secretary Amy Ross said no pay offers met the cost of living and that 54.8 percent of university staff were on fixed-term or casual employment agreements, calling it insecure work; she said negotiations with some polytechnics had run about 10 months. TEU president tiriti Ti Lamusse said employers are offering a real pay cut at every institution. The University of Auckland said it would continue business as usual while remaining committed to good-faith bargaining."
+        }
+      ]
+    }
+  ],
+  "affiliate_cta": {
+    "enabled": true,
+    "headline": "Surcharge season, a storm warning in Whangarei, and a strike on the lecture circuit - here's where we'd look before committing.",
+    "body": "From working a holiday about working less, to bracing for a French backlash, to unions arguing a pay rise is secretly a pay cut: a nudge to sort the small, practical stuff so the big stuff takes care of itself. No pitch, just a calm look before you decide.",
+    "disclosure": "We may earn a commission if you buy through these links. It will not cost you more, and it keeps yeah nah news free.",
+    "items": []
+  },
+  "meta": {
+    "sources": [
+      "rnz.co.nz (22 Oct 2026): Labour Day guide; eight-hour-day origins via Samuel Parnell 1840 and Labour Day Act 1899; this year the start of early voting for the election (only some polling places open); shops do not have to close; typical surcharge 15% (Restaurant Association); any amount allowed if customers informed (Consumer NZ); IRD and Work and Income close; those usually paid Tue 27 Oct paid Sat 24 Oct",
+      "rnz.co.nz (ahead of second test, 22 Oct 2026): Black Ferns beat France 81-12 in Hamilton with 13 tries, four for 20-year-old wing Shyrah Tuliau-Tua'a on first test start; coach Whitney Hansen confirms squad changes for Saturday's Whangarei test and expects a stronger France, warning there's a bit of a storm coming; defensive concerns over post-contact metres conceded; team named Thursday",
+      "rnz.co.nz (21 Oct 2026): about 8000 university and polytechnic TEU members struck 1:15pm-5pm Wednesday, first ever joint action between the two sectors; national secretary Amy Ross on pay offers not meeting cost of living and 54.8% of university staff on fixed-term/casual contracts; some polytechnic negotiations running about 10 months; president tiriti Ti Lamusse: employers are offering a real pay cut at every institution; University of Auckland to continue business as usual"
+    ],
+    "qa_verified": true
+  }
+}
