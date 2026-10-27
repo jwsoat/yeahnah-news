@@ -1,0 +1,57 @@
+{
+"slug": "2026-10-28",
+"date": "2026-10-28",
+"edition": "Issue 031: a government in the 30s one week and out of them the next, a bank that declined the whole country card at once, and India turning a five-match series into a two-match one",
+"tagline": "Your 4-minute Wednesday reset. Zero fluff, maximum banter.",
+"reading_minutes": 4,
+"stories": [
+  {
+    "id": "s1",
+    "category": "politics",
+    "headline": "National slumps back below 30 percent as Act hits its best result and Opportunity hovers over a trapdoor",
+    "summary": "The 1News-Verian poll has National dropping three points to 29 percent, Labour steady on 27, Act at its best of the term on 12 and NZ First up to 10, while Opportunity sits at 6 - precariously close to the 5 percent threshold to make Parliament.",
+    "body": [
+      {"kind": "lead", "text": "Fresh off a poll that put National up four points, the latest 1News-Verian poll has National giving most of it back: down three to 29 percent. Labour is steady on 27, the Greens are down one to 15, Act is up a point to 12 - its best of the term - and NZ First is up two to 10. The drama is at the bottom: Opportunity fell a point to 6 percent, hovering above the 5 percent threshold needed to make Parliament. Luxon repeated that the only poll that matters is election day, while Hipkins said a candidate exit is not showing up in the numbers and that people care about the cost of living."},
+      {"kind": "banter", "text": "Another week, another poll that exists only to be loudly ignored by the party it warns. Last week National was up four and the polls were truth; this week they are down three and suddenly only election day matters. Act is at its best showing of the term and NZ First is motoring, because nothing says stability like a government held up by whichever coalition partner caught a tailwind in the survey. And Opportunity at 6 percent - one bad Tuesday from the 5 percent trapdoor - is proof that in New Zealand politics a party can flip faster than a sausage roll in a busy bakery queue. The real takeaway: the only poll that matters is the one they will still not stop reacting to."},
+      {"kind": "fact", "text": "NZ Herald (27 Oct 2026) reporting the 1News-Verian poll: National fell three points to 29 percent, Labour steady on 27, the Greens down one to 15, Act up one to 12 (best result of the term), NZ First up two to 10, Opportunity down one to 6 and Te Pati Maori on 0.1 percent. Luxon rose four points to 24 percent in the preferred-Prime Minister measure, his best in two years, with Hipkins on 18 percent. Luxon said the only poll he was interested in was election day; Hipkins said Kerrin Leoni resignation was not showing in the polls and that people are focused on the cost of living."}
+      ]
+    },
+  {
+    "id": "s2",
+    "category": "finance",
+    "headline": "ASB card payments all decline at once and the checkout queues meet the system limit",
+    "summary": "A Tuesday-evening technical glitch declined ASB EFTPOS, Visa Debit and credit transactions across the country, forcing shoppers to abandon groceries and drive-thrus to back up, before the bank restored services and apologised.",
+    "body": [
+      {"kind": "lead", "text": "Around 8pm on Tuesday evening, ASB customers across New Zealand discovered en masse that they no longer had a working payment card. Card payments were declined at checkouts, ATMs were affected, and some customers got a system limit declined message while online transfers still worked. The fallout was quick and physical: one reader said about 20 people left their trolleys at Costco Westgate in Auckland, McDonalds drive-thrus backed up, one shopper scrounged the car for loose coins, and another borrowed money from a nine-year-old to pay for dinner. ASB confirmed EFTPOS, Visa Debit and credit cards were affected, then confirmed card payments and ATMs were restored after the technical issue and apologised for the concern and inconvenience."},
+      {"kind": "banter", "text": "There is a special kind of chaos reserved for the moment an entire country payment rail takes a collective evening off. Welcome to the cashless dystopia, where one glitch turned thousands of well-adjusted adults into people checking car cup-holders for coins and politely asking a nine-year-old for a bridging loan. The checkout staff must have felt like air traffic controllers watching every screen go red at once. System limit declined joins the hall of all-time useless error messages, right up there with the operation was not successful. The bank says everything is back up and apologises, which is bank-speak for we were briefly out of Money, the Function. A reminder that the great ledger of the economy runs on a server that sometimes just needs a lie down."},
+      {"kind": "fact", "text": "NZ Herald (Zeb Tupai, 27 Oct 2026, 7:28am): ASB card payments were declined across the country around 8pm, with EFTPOS, Visa Debit and credit cards affected and ATMs also impacted, while some customers still had working online transfers; one customer at Costco Westgate reported about 20 people leaving their groceries behind; Auckland McDonalds drive-thrus were understood to have backed up; some customers got a system limit declined message; ASB said card payments and ATMs were restored after the technical issue and apologised."}
+      ]
+    },
+  {
+    "id": "s3",
+    "category": "sport",
+    "headline": "India rip through the Black Caps total and seal the T20 series with two games to spare",
+    "summary": "India chased 199 in just 13.2 overs in Wellington to win by six wickets and take the five-match T20 series 3-0 with two games to spare, Abishek Sharma smashing 113 off 38 balls alongside a 15-year-old partner.",
+    "body": [
+      {"kind": "lead", "text": "New Zealand posted a very good score - 198 for 3, built on Daryl Mitchell unbeaten 89 from 52 balls - and it was not nearly enough. In Wellington, India chased it down in 13.2 overs to win by six wickets and claim the five-match T20 series with two games to spare. Abishek Sharma effectively won it alone, hitting 113 from just 38 balls with 11 sixes and nine boundaries. He and his 15-year-old opening partner Vaibhav Sooryavanshi (45 off 19) tore the New Zealand attack apart for 133 in just 44 balls, capping a 118 for 0 power play that was the highest by any nation. Captain Mitchell Santner was the only New Zealand bowler not to concede a boundary, and opener Finn Allen sat out the chase nursing an apparent groin injury."},
+      {"kind": "banter", "text": "The most deflating thing a cricket side can hear is the other team effectively replying sure, nice total, give me half a dozen overs. 198 is a winning score against most planets; against this Indian batting lineup it was a practice target with the speed settings turned up. And a 15-year-old opening - the age where most of us are still learning gym-class conversion rates - helped batter a stand at a strike rate most players only see in a video game set to easy. Take the tiny mercies: at least the chase was done before midnight, which leaves the rest of the country free to focus on the bigger mystery of why nobody bowled to those two openers until it had already cost the set. Two games left on the tour, and the Black Caps are suddenly specialists in taking the absurdity in stride while losing a five-match series in three."},
+      {"kind": "fact", "text": "NZ Herald (Alex Powell, 27 Oct 2026): India won the third T20 in Wellington by six wickets, chasing 199 in 13.2 overs to take the five-match series 3-0 with two to spare. Daryl Mitchell made an unbeaten 89 from 52 balls (his highest T20 score for club or country) as New Zealand reached 198-3. Abishek Sharma hit 113 from 38 balls (11 sixes, nine boundaries, strike rate just over 297), his fourth T20 century; Vaibhav Sooryavanshi, 15, made 45 off 19. The pair put on 133 in 44 balls; India 118 for 0 power play was the highest by any nation; Kyle Jamieson took 2-41 at an economy of 13.50, the best of any New Zealand bowler except Santner (1-17), who was the only bowler on either side not to concede a boundary; Finn Allen did not field due to an apparent groin injury."}
+      ]
+    }
+  ],
+  "affiliate_cta": {
+    "enabled": true,
+    "headline": "A poll that moves by the hour, a banking hiccup, and a cricket whacking - here is where we would look before committing.",
+    "body": "From a poll that flips like a fair-day sausage roll, to a banking outage that has you carrying coins just in case, to a power play dealt with before the ads finished: a nudge to sort the small, practical stuff so the big stuff takes care of itself. No pitch, no pressure, just a calm look before you commit.",
+    "disclosure": "We may earn a commission if you buy through these links. It will not cost you more, and it keeps yeah nah news free.",
+    "items": []
+  },
+  "meta": {
+    "sources": [
+      "nzherald.co.nz (27 Oct 2026): 1News-Verian poll - National down 3 to 29 percent, Labour steady 27, Greens 15, Act up 1 to 12 (best of term), NZ First up 2 to 10, Opportunity down 1 to 6, Te Pati Maori 0.1 percent; Luxon preferred PM up 4 to 24 percent (best in two years), Hipkins 18 percent; only election day matters; Kerrin Leoni exit not showing in polls",
+      "nzherald.co.nz (Zeb Tupai, 27 Oct 2026): ASB card payment outage Tuesday around 8pm - EFTPOS, Visa Debit and credit cards declined, ATMs affected, online transfers working; 20 people left groceries at Costco Westgate; McDonalds drive-thrus backed up; system limit declined message reported; restoration confirmed and apology",
+      "nzherald.co.nz (Alex Powell, 27 Oct 2026): Black Caps lost third T20 by six wickets, India chased 199 in 13.2 overs to win five-match T20 series 3-0 with two to spare; Mitchell 89* off 52; Abishek 113 off 38 (fourth T20 century); Sooryavanshi 45 off 19; 133-run stand in 44 balls; 118-0 power play highest by any nation; Jamieson 2-41; Santner no boundaries conceded; Allen groin injury"
+    ],
+    "qa_verified": true
+  }
+}
