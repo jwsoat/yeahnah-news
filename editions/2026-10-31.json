@@ -1,0 +1,84 @@
+{
+  "slug": "2026-10-31",
+  "date": "2026-10-31",
+  "edition": "Issue 032: the Black Caps find the record button, Norway turns an insult into the world’s most scenic loos, and the checkout total finally gets a court date",
+  "tagline": "Your 4-minute Halloween reset. Zero fluff, maximum banter.",
+  "reading_minutes": 4,
+  "stories": [
+    {
+      "id": "s1",
+      "category": "sport",
+      "headline": "Phillips and Bracewell smash 115 in 41 balls as Black Caps post their highest T20I total and flatten India by 87 runs",
+      "summary": "Glenn Phillips’ 107 off 49 and Michael Bracewell’s 65 off 25 lifted New Zealand to 259 for 7 — their highest T20I total ever — before Jacob Duffy’s 4 for 23 bowled India out for 172 in the fourth T20I at Eden Park.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "New Zealand went to Eden Park on Friday with the series already gone and, in a very New Zealand way, delivered their finest T20 performance right when the pressure had left the building. Sent in by India’s Shreyas Iyer — the fourth straight toss win for the visitors — the Black Caps wobbled to 112 for 4 in the 11th over. Then Glenn Phillips and Michael Bracewell took over: 115 runs in 41 balls, 16 sixes between them, and a final total of 259 for 7, New Zealand’s highest in the format, bumping their 254-5 against Scotland in 2022 into second place. Phillips smashed 107 off 49 balls — his third T20I century, making him just the second New Zealand man to reach that mark alongside Colin Munro — and Bracewell made a career-best 65 off 25. India’s reply never fired: Jacob Duffy took 4 for 23, Mitchell Santner claimed his 150th T20I wicket, and the tourists were bowled out for 172 to lose by 87 runs. India had already sealed the series in Wellington and lead 3-1, with the fifth and final T20I in Hamilton on Sunday night."
+        },
+        {
+          "kind": "banter",
+          "text": "There are two ways to respond after a team has spent the week smashing your attack to every corner of two stadiums: collapse inwards, or find the record books and start doodling your own name in the margins. Phillips and Bracewell chose doodling, with a very thick marker. A 115-run stand in 41 balls is not a partnership, it is a fly-by with fireworks attached; India’s bowlers fetched 16 of the sixes, presumably on the grounds that watching is free. And what beautiful timing — with the series already in India’s carry-on bag, the Black Caps picked the one dead rubber that mattered to nobody to rewrite the board. Ruthless efficiency only once the stakes have left the building: peak New Zealand. Now everyone heads to Hamilton on Sunday, and the rest of us get a rare free Saturday where the scoreboard, at least, had a happy ending."
+        },
+        {
+          "kind": "fact",
+          "text": "RNZ (31 Oct 2026) and Stuff (Andrew Voerman, 30 Oct 2026), fourth T20I at Eden Park: New Zealand 259 for 7, their highest T20I total (previous best 254-5 v Scotland, Edinburgh 2022). Glenn Phillips 107 off 49 — his third T20I century, joining Colin Munro as the only New Zealand men with three; six fours, 10 sixes. Michael Bracewell 65 off 25, his highest T20I score. A 115-run fifth-wicket stand in 41 balls rescued the innings from 112-4. India 172 for 9 (Tilak Varma 35 off 35; Jacob Duffy 4-23; Mitchell Santner took his 150th T20I wicket, and two in the game) lost by 87 runs. India lead the five-match series 3-1 and had already won it in Wellington; the fifth T20I is in Hamilton on Sunday night. The match at Eden Park was sold out in front of almost 40,000 fans."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "category": "world",
+      "headline": "Norway’s answer to being called a “shithouse country”: an award-winning toilets tourism campaign",
+      "summary": "After Donald Trump called Norway a “shithouse country” while angry about missing out on the Nobel Peace Prize, state agency Visit Norway launched a viral “Norway makes shithouses great again” campaign showcasing the country’s most spectacular public loos.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "Donald Trump is unhappy that the Nobel Peace Prize went to international jurist Navi Pillay this month, and he has taken it out on the country that hands the prize out. “Norway has become a shithouse country, actually,” he told a rally in Port Huron, Michigan, adding that he wanted no relationship with Norway and no Norwegian immigrants either. Norway’s state tourism agency, Visit Norway, hit back the way only a country with award-winning public toilets can: it launched a tongue-in-cheek campaign under the banner “Norway makes shithouses great again”, showcasing the toilet architecture of the Norwegian outdoors — the cliff-edge loos at the Stegastein viewpoint over the Aurlandsfjord (ranked No 1 in the world in 2015), the wave-shaped Ureddplassen restroom on the Helgeland coast, and the Golden Toilet on Senja Island, built in 2014. “When life gives you lemons or quotes like this, you just do the lemonade — and all the viral content,” Visit Norway’s social media lead, Evgenia Egorova, told the Associated Press."
+        },
+        {
+          "kind": "banter",
+          "text": "Observe the diplomatic options available to Norway after a US president calls you a shithouse country because you would not give him a prize: a stern statement (in one ear, out the fjord), a trade threat (undignified), or a tourism campaign that leans so far into the insult it comes out the other side as branding. Norway chose the third, and it is the most satisfying own-goal in recent statecraft. The man built a whole slogan on “great again”, and the country he insulted has just out-sloganed him with a golden toilet on a cliff with a view. Somewhere in the White House the phrase “shithouse country” is being quietly retired, because nothing kills an insult like a fjord-facing loo going viral. And since it is Halloween: the scariest thing in world news today is still a grown man sulking about the prize he definitely did not get, so the fangs this year are purely decorative."
+        },
+        {
+          "kind": "fact",
+          "text": "RNZ (31 Oct 2026, citing CNN) and AP (via Washington Post, 30 Oct 2026): Trump said “Norway has become a shithouse country, actually” at a rally in Port Huron, Michigan, on 25 October, after the 2026 Nobel Peace Prize was awarded to international jurist Navi Pillay. State-run Visit Norway responded with a “Norway makes shithouses great again” campaign promoting scenic public toilets, including the Stegastein viewpoint restroom (No 1 in DesignCurial’s 2015 list of the world’s 10 best public toilets), the wave-shaped Ureddplassen restroom on the Helgeland coast, and the 2014 “Gulldassen” Golden Toilet on Senja Island. Visit Norway social media lead Evgenia Egorova told the AP the material had previously been produced for World Toilet Day (19 November)."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "category": "money",
+      "headline": "Two Pak’nSave stores fined $580,500 after the checkout kept charging more than the shelf sticker",
+      "summary": "Pak’nSave Silverdale and Pak’nSave Mill Street Hamilton were fined a combined $580,500 after pleading guilty to repeated Fair Trading Act breaches where shelf ticket prices did not match the prices charged at the till.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "The great Kiwi supermarket mystery — shelf says $4, till says more — has been settled in court, and the answer is not “whoops”. Pak’nSave Silverdale in Auckland was fined $234,000 on 10 charges and Pak’nSave Mill Street in Hamilton $346,500 on eight, after both pleaded guilty to repeated breaches of the Fair Trading Act for shelf ticket prices that did not match prices charged at the checkout. Commerce Commission deputy chair Anne Callinan said the regulator had “long warned” major supermarkets about price accuracy, described the offending stores as “highly profitable”, and warned it “will not hesitate to prosecute other supermarkets”. Her bottom line: “Consumers are entitled to rely on accurate pricing.”"
+        },
+        {
+          "kind": "banter",
+          "text": "Every Kiwi has lived the script: sticker says $4, till says $4.80, and the machine has already won because there are two people ahead of you also discovering new prices. For years we assumed that was simply the price of shopping. Apparently it is technically a crime, and a proud tradition of quietly fuming in the checkout queue has just been formally recognised by the Auckland District Court. The fines total $580,500, which for a business of this size is the loose change down the back of the warehouse sofa — but the Commerce Commission has finally said the quiet part out loud: these are “highly profitable” stores, and the pricing is a choice, not a glitch. Next time your total scans mysteriously higher, you can console yourself that somewhere, a judge gets it."
+        },
+        {
+          "kind": "fact",
+          "text": "Stuff (30 Oct 2026): Pak’nSave Silverdale (Auckland) and Pak’nSave Mill Street (Hamilton) were sentenced in the Auckland District Court after pleading guilty to breaching the Fair Trading Act over shelf ticket prices not matching checkout prices. Combined fines of $580,500: Silverdale $234,000 on 10 charges; Mill Street $346,500 on eight. Commerce Commission deputy chair Anne Callinan said the regulator had “long warned” major supermarkets about pricing, said the stores were “highly profitable”, and said the commission “will not hesitate to prosecute other supermarkets”."
+        }
+      ]
+    }
+  ],
+  "affiliate_cta": {
+    "enabled": true,
+    "headline": "Record totals, toilet tourism and till-price surprises — here is where we would look before committing.",
+    "body": "This week’s theme: the number on the board does not always match the number on the sticker. A world-record cricket score came with zero warning, a checkout billed its own price, and a country turned a presidential insult into a tourism brand. If you are about to commit money to anything bigger than a Friday takeaway, read the small print first. No pitch, no pressure — just a calm look before you sign.",
+    "disclosure": "We may earn a commission if you buy through these links. It will not cost you more, and it keeps yeah nah news free.",
+    "items": []
+  },
+  "meta": {
+    "sources": [
+      "rnz.co.nz (31 Oct 2026) “Black Caps annihilate India with record total” + stuff.co.nz (Andrew Voerman, 30 Oct 2026): 259/7 record NZ T20I total; Phillips 107 off 49 (3rd T20I ton, 2nd NZ man with three; six fours, 10 sixes); Bracewell 65 off 25 career best; 115-run stand in 41 balls; India 172/9 (Tilak Varma 35; Duffy 4-23; Santner 150th T20I wicket); 87-run win; India lead 3-1, series already won; 5th T20I Hamilton Sunday night; sold out, almost 40,000",
+      "rnz.co.nz (31 Oct 2026, citing CNN) + AP (30 Oct 2026): Trump “shithouse country, actually” at Port Huron rally 25 Oct; Nobel Peace Prize to Navi Pillay; Visit Norway “Norway makes shithouses great again” campaign; Stegastein viewpoint loo (DesignCurial No 1, 2015), Ureddplassen restroom, 2014 Golden Toilet Senja Island; Egorova AP quote; World Toilet Day repurpose",
+      "stuff.co.nz (30 Oct 2026) “Two Pak’nSave stores fined $580,500 over repeated pricing errors”: Silverdale $234,000 (10 charges) + Mill St Hamilton $346,500 (8 charges); Fair Trading Act pleas; Auckland District Court; ComCom deputy chair Anne Callinan quotes incl. “highly profitable” and “will not hesitate to prosecute other supermarkets”"
+    ],
+    "qa_verified": true
+  }
+}
