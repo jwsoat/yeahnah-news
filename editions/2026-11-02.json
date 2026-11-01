@@ -1,0 +1,84 @@
+{
+  "slug": "2026-11-02",
+  "date": "2026-11-02",
+  "edition": "Issue 033: Tonga breaks England's heart from a stadium England wasn't in, the doomsday float politely locks Kiwis outside, and The Body Shop rises from the mall grave",
+  "tagline": "Your 3-minute Monday reset: one thriller, one locked door, one comeback. Zero fluff, maximum banter.",
+  "reading_minutes": 3,
+  "stories": [
+    {
+      "id": "s1",
+      "category": "sport",
+      "headline": "Tonga edge Samoa 20-18 in a thriller to book a World Cup semi against the Kiwis — and send England home by accident",
+      "summary": "Addin Fonua-Blake's 72nd-minute try gave Tonga a 20-18 win over Samoa at a sold-out Parramatta Stadium, setting up a Rugby League World Cup semi-final against New Zealand in Newcastle on Saturday — and eliminating England, who needed Tonga to win by 47.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "The Rugby League World Cup delivered its statement weekend in Parramatta: Tonga edged Samoa 20-18 in a gripping, end-to-end derby on Sunday to seal a place in the semi-finals. The match swung on millimetres and the video bunker — Rob Toia scored Tonga's opener in the 26th minute, tries to wingers Dallin Watene-Zelezniak and Jojo Fifita were chalked off on review, and then with the game in the balance Cronulla prop Addin Fonua-Blake crossed in the 72nd minute. Samoa threw one last aerial hail mary, but the final pass went forward and dribbled out of play with the scoreboard at 20-18. The result sets up a New Zealand v Tonga semi-final at McDonald Jones Stadium, Newcastle, on Saturday night — and it also sent England home, their earliest World Cup exit, because they needed Tonga to win by at least 47 points on points differential to survive."
+        },
+        {
+          "kind": "banter",
+          "text": "Spare a thought for the tournament's least likely casualty: England, eliminated by a game it wasn't even playing in. All the Motherland needed was for Tonga to win by 47 points — a margin the universe apparently found so absurd it delivered the exact opposite: a two-point, decided-by-millimetres classic with a forward pass dying on the wing. So England is packing while a sold-out Parramatta, and half of Auckland's rugby league families on the couch, get the greatest advert for the sport since somebody first decided rival island nations playing the same game was a great idea. And now the winners get the Kiwis, the only team in world sport whose biggest fixture comes with a family reunion attached. Saturday in Newcastle: check whose flag your neighbour flew last week, and brace for the loudest fortnight of the year."
+        },
+        {
+          "kind": "fact",
+          "text": "NZ Herald (AFP match report, 1 Nov 2026): Tonga beat Samoa 20-18 at CommBank Stadium, Parramatta, in Sunday's final round-robin match of the 2026 Rugby League World Cup, played at a sold-out stadium. Addin Fonua-Blake scored the match-winning try in the 72nd minute; Rob Toia opened the scoring in the 26th; Tonga wingers Dallin Watene-Zelezniak and Jojo Fifita had tries disallowed on review; Samoa's last-gasp attacking pass went forward. The result confirms England's earliest men's World Cup exit — per NRL.com's coverage of the group permutations, England needed Tonga to win by 47 points or more to advance on points differential. The win books semi-final 1: New Zealand v Tonga, Saturday 7 November, 8.05pm AEDT, McDonald Jones Stadium, Newcastle."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "category": "tech",
+      "headline": "Anthropic's US$2 trillion float: Aussies get a seat at the table, Kiwis get locked out by a filing buried on page 329",
+      "summary": "New Zealand retail investors are excluded from AI giant Anthropic's upcoming IPO under the FMC Act while Australians get a dedicated prospectus — even as the company's 335-page filing devotes 93 pages to risks including AI posing 'catastrophic or existential risks to humanity'.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "The biggest float of the year is nearly here, and New Zealand has been told it can watch from the car park. Anthropic — the AI company behind the Claude models — filed its initial public offering paperwork with the US Securities and Exchange Commission last week, with around US$2 trillion bandied about as a valuation and Goldman Sachs, Morgan Stanley, JPMorgan and Citigroup on the ticket. But buried on page 329 of the filing, under the heading 'New Zealand', is the note that the document has not been registered under the Financial Markets Conduct Act — which restricts access to investment businesses, government agencies and eligible large investors, and locks everyday Kiwis out of the IPO itself. Across the Tasman, Anthropic is issuing a separate Australian prospectus to hand retail investors a dedicated route in. Kiwis should still be able to buy the shares on Nasdaq once trading starts, provided their broker offers them — though the company has not yet set a price or a start date."
+        },
+        {
+          "kind": "banter",
+          "text": "There is a particular flavour of Monday where the day's big money story is a company asking the public to invest while its own paperwork quietly admits the product might, on a bad day, end us. The risk section alone runs to 93 pages — essentially the world's longest pre-nup, written in the spirit of page one: 'AI could be used to build deadly weapons,' and page ninety-three: 'or the AI just goes rogue, good luck.' And somehow, the FMC Act — usually the least fun sentence in any room — has performed its one verified miracle: the door is locked just tightly enough that everyday Kiwis can't get in, while the Australians get a dedicated lane to the doomsday buffet. The only comfort: when the robots do take over, they'll pull up the paperwork and confirm we were warned, in writing, on page 46."
+        },
+        {
+          "kind": "fact",
+          "text": "RNZ analysis of Anthropic's SEC filing (Jeffrey Halley, 28 Oct 2026) + AP via stuff.co.nz (Barbara Ortutay, 27 Oct 2026): Anthropic has filed for an IPO with the US Securities and Exchange Commission. A note on p.329 of the filing says it has not been registered under New Zealand's FMC Act 2013, so NZ retail investors cannot participate directly; Australia gets a separate prospectus giving retail investors a route in; NZ investors may buy on Nasdaq after listing (price and start date not yet set). The 335-page filing devotes 93 pages to risk factors (SpaceX's comparable filing: 38 of 250+ pages), including bad actors using AI to build deadly weapons and the technology 'going rogue'; p.46 warns advanced AI systems 'could... pose catastrophic or existential risks to humanity'. FT analysis of the filing: revenue for the nine months to end-September rose from US$4.6b to US$33b year on year, with about a quarter of it coming from just five customers. A valuation around US$2 trillion has been reported; advisers include Goldman Sachs, Morgan Stanley, JPMorgan and Citigroup."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "category": "money",
+      "headline": "The Body Shop rises again: Christchurch comeback after the $12m collapse, with 'every penny' from new owners and the main centres 'in the crosshairs'",
+      "summary": "Less than two years after its New Zealand business collapsed owing $12 million, closed 16 stores and cost about 70 jobs, The Body Shop reopens at Westfield Riccarton this Thursday — the second store for new owners who have invested 'every penny' and are eyeing Auckland next.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "The Body Shop is coming back to Christchurch this Thursday, less than two years after its New Zealand business collapsed owing $12 million — a failure that closed 16 stores and cost about 70 jobs. The brand's new owners, a couple who relaunched it online last October and opened their first physical store at Richmond Mall, near Nelson, in November, say they have invested 'every penny' into reviving it. The new store at Westfield Riccarton is expected to employ between 10 and 14 people, including casuals, ahead of the Christmas trading season, and the owners are already looking further: Wyman told the Herald the Richmond store had been trading well and that the company had 'obviously got all the main centres in the crosshairs', with Auckland a likely next destination."
+        },
+        {
+          "kind": "banter",
+          "text": "There are two ways to respond to a brand that flopped hard enough to close 16 stores and cost 70 Kiwi jobs. Option A: leave it in the bin of mall history with the other relics. Option B: a couple quietly funding the resurrection with their own money, starting online, then a Nelson shopping centre, and now — in the founders' own words — 'all the main centres in the crosshairs'. The Body Shop has chosen Option B, which means the single most reliable line on every Gen X and millennial Kiwi CV — 'I worked at The Body Shop in high school' — is once again available to a new generation of teenagers who will genuinely care about the difference between the mango and the satsuma ranges. Welcome back to the mall. It wasn't the same without you, and neither were the hand creams."
+        },
+        {
+          "kind": "fact",
+          "text": "NZ Herald (Ben Tomsett, 1 Nov 2026): The Body Shop reopens at Westfield Riccarton, Christchurch, on Thursday 5 November 2026 — less than two years after its New Zealand business collapsed owing $12m; the previous operator's failure closed 16 stores and cost about 70 jobs. New owners relaunched the brand online in October 2025 and opened a first physical store at Richmond Mall, near Nelson, in November 2025. The Riccarton store is expected to employ 10-14 people, including casuals. Owner Wyman told the Herald the Richmond store had been trading well and that the company had 'obviously got all the main centres in the crosshairs', with Auckland a likely next destination."
+        }
+      ]
+    }
+  ],
+  "affiliate_cta": {
+    "enabled": true,
+    "headline": "Comebacks, locked doors and big commitments — here's where we'd look before you commit.",
+    "body": "This week's theme: second acts. A beloved brand clawing its way back into the malls, a US$2 trillion AI company slamming its IPO door in Kiwi faces, and Tonga slamming it on England from 5,000km away. If you're about to commit money to anything bigger than a Friday pie — a new skincare routine, a phone, a ticket to Newcastle — have a calm look around before you sign. No pitch, no pressure, just the small print.",
+    "disclosure": "We may earn a commission if you buy through these links. It will not cost you more, and it keeps yeah nah news free.",
+    "items": []
+  },
+  "meta": {
+    "sources": [
+      "nzherald.co.nz (AFP match report, 1 Nov 2026) 'Tonga beat Samoa to set up Rugby League World Cup semi-final against Kiwis': Tonga 20-18 Samoa at sold-out CommBank Stadium, Parramatta; England's earliest men's World Cup exit; semi-final vs NZ confirmed. Group permutation detail (England needed Tonga to win by 47+) per NRL.com via rlwc2026guide.com. Semi-final time/venue (Sat 7 Nov, 8.05pm AEDT, McDonald Jones Stadium Newcastle) per NRL.com 'semi-finals confirmed'.",
+      "rnz.co.nz (Jeffrey Halley analysis, 28 Oct 2026) 'Kiwis shut out of Anthropic IPO, while Aussies get a seat at the table' + stuff.co.nz / AP (Barbara Ortutay, 27 Oct 2026) 'Risks spelled out for Anthropic investors include blowback from runaway AI': FMC Act exclusion (p.329), Australian prospectus, 335-page filing / 93 pages risk factors vs SpaceX 38/250+, p.46 'catastrophic or existential risks to humanity' warning, FT revenue figures (US$4.6b -> US$33b, quarter from five customers), ~US$2 trillion valuation, Goldman/Morgan Stanley/JPM/Citi advisers, no price/date set.",
+      "nzherald.co.nz (Ben Tomsett, 1 Nov 2026) 'The Body Shop returns to Christchurch after $12m collapse as new owners plan nationwide expansion': Riccarton reopening Thursday 5 Nov; $12m collapse, 16 stores closed, ~70 jobs; online relaunch Oct 2025, Richmond Mall Nelson store Nov 2025; 10-14 staff; 'all the main centres in the crosshairs' quote; Auckland next."
+    ],
+    "qa_verified": true
+  }
+}
