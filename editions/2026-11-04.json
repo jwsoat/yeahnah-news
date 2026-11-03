@@ -1,0 +1,84 @@
+{
+  "slug": "2026-11-04",
+  "date": "2026-11-04",
+  "edition": "Issue 035: Ten rich blokes buy most of the election, Aussie houses go to zero, and AI promises dystopia first",
+  "tagline": "Your 3-minute Wednesday reset, three days out from polling day: the handful of Kiwis bankrolling the democracy, the Australian property freefall that could stem the great Kiwi escape, and a tech party telling everyone to brace for dystopia.",
+  "reading_minutes": 3,
+  "stories": [
+    {
+      "id": "s1",
+      "category": "politics",
+      "headline": "Just ten people have stumped up around half of all big money in the election - and three-quarters of it went to the coalition",
+      "summary": "More than $8.25 million has been given in large political donations (over $20,000) this election year, with almost 40 per cent coming from just ten donors - including Graeme Hart's Rank Group ($700,000) and Nick Mowbray ($475,000) - and roughly three-quarters of the total flowing to the current coalition parties.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "Three days out from polling day, the people who actually bankroll New Zealand's democracy are a remarkably small club. RNZ reports more than $8.25 million has been donated in large political donations (those over $20,000) this election year, and almost 40 per cent of it came from just ten people. At the top of the leaderboard: Rank Group, owned by billionaire Graeme Hart, gave $700,000, and Nick Mowbray (of Zuru toy fame) gave $475,000, according to Electoral Commission disclosures. Roughly three-quarters of all large donations - more than $6 million - went to the parties currently in the coalition government, while non-coalition parties split the remaining $2.2 million. On top of all that, a further $629,322 arrived as anonymous donations 'protected from disclosure'."
+        },
+        {
+          "kind": "banter",
+          "text": "Hold on, let's get the maths straight: our entire election is being bankrolled at a rate of ten rich blokes per forty per cent of the budget. Democracy's fine, everyone - it's just got shareholders now. And the transparency line is doing real heavy lifting: $629,000 arrived 'protected from disclosure', which is democracy's version of an anonymous donor leaving cash in a library book and everyone politely agreeing not to ask who. The coalition got a coffee, the opposition got the smell of one, and somewhere Graeme Hart is single-handedly funding both sides' ad buys like he's buying democracy in bulk. Honestly, at this point the campaigns should just livestream a thank-you card and save everyone the pretending."
+        },
+        {
+          "kind": "fact",
+          "text": "RNZ (Farah Hancock, Electoral Commission disclosures, 'The handful of rich Kiwis who dominate big political donations'): $8,254,331 in large donations (over $20,000) declared this election year; almost 40% came from just 10 donors. Largest: Rank Group (Graeme Hart) $700,000 and Nick Mowbray $475,000. Coalition parties received over $6m - roughly three-quarters of the large-donation total; non-coalition parties received $2.2m. Anonymous donations classed as 'protected from disclosure' add $629,322. Brian Cartmell is the only big donor reported to have given to parties both in and outside the coalition (to ACT, NZ First and Opportunity); Opportunity's biggest donor was board member Alan Wilderland (about $221,000). NZ law requires disclosure of donations above $20,000 to the Electoral Commission."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "category": "property",
+      "headline": "Aussie house prices are in freefall and one economist says the great Kiwi escape across the Tasman could drop 'to zero'",
+      "summary": "Independent economist Cameron Bagrie argues falling Australian house prices - combined with interest rates and inflation - could bring the usual flow of New Zealanders heading to Australia down to zero, as the gap that has long pulled Kiwis across the ditch narrows.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "For years the winning financial move for a young Kiwi was the same one: buy a passport, learn to say 'brekkie', and move to Australia. But the property tide may be turning. Independent economist Cameron Bagrie argues Australian house prices are now in such a freefall - 'it's going to go to zero,' he says of the flow - that, combined with interest rates and inflation, it could stop the usual stream of New Zealanders heading across the Tasman altogether. The economics that have long pulled Kiwis over - cheaper and easier housing, better wages - are narrowing as Australian sellers cut prices, making the escape plan look less like a full-price dream and more like a clearance sale."
+        },
+        {
+          "kind": "banter",
+          "text": "This is the plot twist nobody saw coming: the great Kiwi housing escape to Australia, cancelled because Australian houses got too cheap. We spent thirty years fleeing a housing market we couldn't afford, only for the landlord of the dream home across the ditch to start discounting. Nothing says you have an expensive housing problem quite like emigration being stamped 'going to zero'. And let's be honest - a whole trans-Tasman immigration policy was basically 'a flat white and a suburb you could theoretically buy into', and now even that's in a fire sale. Watch this space: next year's plan will be moving back to Palmerston North, because at this rate the only affordable option left is wherever your mum still lives."
+        },
+        {
+          "kind": "fact",
+          "text": "Stuff (3 Nov 2026, 'It's going to go to zero': Aussie house price freefall to help halt flow of Kiwis across the Tasman): independent economist Cameron Bagrie says the fall in Australian house prices - combined with interest rates and inflation - could bring the usual flow of New Zealanders heading to Australia down to 'zero', according to the Stuff report. The story frames Australian property as in freefall. Exact Australian price-fall percentages sat behind the Stuff paywall in the free excerpt; the headline claim (freefall + possible zero flow) is Bagrie's stated view, attributed directly to the Stuff report."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "category": "tech",
+      "headline": "AI will mean a lot of job losses and 'dystopia first', says TOP - with a UBI the party admits may never become policy",
+      "summary": "As part of Stuff's election tech series, TOP candidate Holly Knill says the country will 'go through dystopia first' on AI, warning of short-term pain and a lot of job losses, with TOP pitching a universal basic income - which the party concedes is unlikely to become policy - plus R&D tax credits lifted to 25 per cent.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "Artificial intelligence, so the story goes, will either hand us a post-work paradise or end humanity. Politicians are hedging: 'We're going to go through dystopia first,' TOP candidate Holly Knill tells Stuff, warning that AI will bring short-term pain and a lot of job losses. TOP's answer to the coming automation squeeze is its flagship economic policy - a universal basic income - which the party itself concedes is unlikely to become policy. Its other pitches include lifting R&D tax credits to 25 per cent and extending them to small-and-medium enterprises, to spur homegrown software adoption and domestic enterprise. The interview is one of Stuff's Election 2026 series quizzing each party's technology spokesperson on the most transformative technology of our time."
+        },
+        {
+          "kind": "banter",
+          "text": "Finally, an honest political pitch: 'Vote for us, the road ahead is dystopia, and also the plan to fix it probably won't become law.' That's not a policy platform, that's a trigger warning on the manifesto. We've gone from 'AI will make everything better' to a party telling us to brace for the bad bit - a form of campaign candour so unusual it feels like a trap. And the exit ramp is a universal basic income the party itself admits won't happen: the political equivalent of giving directions to a town you've never visited. The one truly AI-immune career, it seems, is being the AI policy spokesperson, because nobody delivers 'we'll get through dystopia, probably' with a straight face quite like that. Boring incremental R&D tax credits though? Sure - the could-actually-happen bit hiding under the scary headline."
+        },
+        {
+          "kind": "fact",
+          "text": "Stuff (Finn Hogan, 3 Nov 2026, 'AI to bring short-term pain and a lot of job losses, says TOP'): TOP candidate Holly Knill told Stuff 'We're going to go through dystopia first' on AI. TOP says its answer to looming AI job losses is a universal basic income, which the party describes as unlikely to become policy. TOP also advocates lifting R&D tax credits to 25 per cent and expanding them to small-and-medium enterprises to spur homegrown software adoption and domestic enterprise creation. The piece is part of Stuff's Election 2026 series interviewing each party's technology spokesperson on AI."
+        }
+      ]
+    }
+  ],
+  "affiliate_cta": {
+    "enabled": true,
+    "headline": "Donations, houses and robots - before you commit money or a career to any of it, here's the small print.",
+    "body": "Today's theme is bets: on an election mostly bought by ten people, a property market doing its best impression of a discount bin, and a tech future nobody's entirely sure about. If any of that has you about to spend - a donation, a house deposit, a career pivot - have a calm look around before you sign. No pitch, no pressure, just the fine print.",
+    "disclosure": "We may earn a commission if you buy through these links. It will not cost you more, and it keeps yeah nah news free.",
+    "items": []
+  },
+  "meta": {
+    "sources": [
+      "rnz.co.nz (Farah Hancock, Electoral Commission disclosures, 'The handful of rich Kiwis who dominate big political donations'): $8,254,331 total large donations; ~40% from 10 donors; Rank Group/Hart $700k, Mowbray $475k; coalition >$6m; non-coalition $2.2m; $629,322 anonymous 'protected from disclosure'; Cartmell; Wilderland ~$221k; $20k disclosure threshold.",
+      "stuff.co.nz (3 Nov 2026, 'It's going to go to zero': Aussie house price freefall to help halt flow of Kiwis across the Tasman): Cameron Bagrie view that Aussie price freefall + rates + inflation could cut Kiwi flow to Australia to 'zero'.",
+      "stuff.co.nz (Finn Hogan, 3 Nov 2026, 'AI to bring short-term pain and a lot of job losses, says TOP'): Holly Knill 'dystopia first' quote; TOP UBI answer (unlikely to become policy); R&D tax credits to 25% expanded to SMEs; Stuff Election 2026 tech series."
+    ],
+    "qa_verified": true
+  }
+}
