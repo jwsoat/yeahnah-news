@@ -1,0 +1,86 @@
+{
+  "slug": "2026-11-05",
+  "date": "2026-11-05",
+  "edition": "Issue 036: A billionaire plans MMP's funeral from the old Dotcom mansion, Mars turns out to be 'just resting', and BNZ's profit dips to a mere $1.157 billion",
+  "tagline": "Your 3-minute Thursday reset, two days out from a very strange Saturday: the high-wealth summit plotting to bury MMP, a Mars that's quietly still pumping, and a bank that shed a third of a billion and called it a dip.",
+  "reading_minutes": 3,
+  "stories": [
+    {
+      "id": "s1",
+      "category": "politics",
+      "headline": "Billionaire Mowbray patriarch plans Coatesville mansion 'election party' to sell his plan to scrap MMP",
+      "summary": "At the mansion once owned by Kim Dotcom, Zuru patriarch Harry Mowbray is inviting high-worth individuals to a Saturday election party where he'll pitch replacing MMP with a 'positive MMP' system he admits isn't proportional - after an ad drive, run in breach of the Electoral Act, aimed at engineering a centre-right overhang.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "Two days out from polling day, the argument over the voting system itself is moving to a very exclusive venue. RNZ reports (via Newsroom's Jonathan Milne) that Harry Mowbray - the patriarch of the billionaire Zuru family turned conservative activist - is inviting high-worth individuals to an election party this Saturday at the Coatesville mansion once owned by Kim Dotcom, where he'll explain the next stage of his push: replacing MMP. Mowbray has been behind an advertising drive urging conservative voters to split their party and electorate votes to engineer an overhang for the centre-right, and he concedes he was in breach of the Electoral Act - he is now getting written sign-off for his online ads from ACT and NZ First, and will add his promoter details to the website. His preferred replacement is a 'positive MMP' of 100 electorate MPs plus 20 list MPs, which he accepts is not proportional and which resembles the supplementary member system voters gave just five percent support in the 1992 indicative referendum (MMP won 65 percent). He calls MMP 'a dog' and argues 'at least 870,000 National votes are going to go to waste.' Hobson's Pledge leader Don Brash confirms he plans to attend."
+        },
+        {
+          "kind": "banter",
+          "text": "Let's pause on the venue, because democracy's newest think-tank is opening in the house where armed police once dropped in on Kim Dotcom. That's a venue upgrade with helicopter landing rights, and the plan being workshopped there is a voting system the public has already been offered and rejected by a 13-to-1 margin, which this time is totally going to work. 'MMP is a dog,' Mowbray says, 'and it's not only the tail wagging the dog, it's the flea biting the tail that's wagging the dog.' Fair enough - but sir, you're hosting at a mansion that used to belong to an internet fugitive; the fleas have representation too. The genuinely remarkable bit is the man whose own ads broke the electoral law, legally obliged to sticker up his website, now telling everyone their votes are being wasted. Democracy, coming to you from a mansion with an invite list you're not on. Vote splits, overhangs, 20 extra list MPs - it's like a maths exam with a billionaire running the tutoring scheme."
+        },
+        {
+          "kind": "fact",
+          "text": "RNZ (Jonathan Milne for Newsroom, 5 Nov 2026, 'Harry Mowbray calls Coatesville mansion summit to get rid of MMP'): Mowbray is hosting a Saturday election party at the Coatesville mansion previously owned by Kim Dotcom to pitch replacing MMP; he concedes he was in breach of the Electoral Act and is obtaining written sign-off for online ads from ACT and NZ First plus adding promoter details to his website. He proposes 100 electorate MPs plus 20 list MPs ('positive MMP'), which he accepts is not proportional; Newsroom notes this resembles the supplementary member system that received 5% in the 1992 indicative referendum (MMP won 65%). He claims 'at least 870,000 National votes' will 'go to waste'; Newsroom modelling has National winning roughly 42 of 71 electorates with a potential 6-8 seat overhang if its party vote stays below about 30%. He also wants four-year parliamentary terms. Hobson's Pledge leader Don Brash confirmed he plans to attend and said he is not committed to change 'unless there's something better.'"
+        }
+      ]
+    }
+    ,
+    {
+      "id": "s2",
+      "category": "science",
+      "headline": "Mars isn't dead: orbiter sniffs volcanic gas above the planet's biggest lava field, and the search for life perks up",
+      "summary": "The ExoMars Trace Gas Orbiter has detected hydrogen chloride - a marker of volcanic emissions - above fissures on Mars' Alba Mons, suggesting the planet is still geologically active with subsurface heat, and raising hopes for warm, wet pockets that could support microbial life.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "For anyone disappointed by the current lack of aliens, some encouraging news: Mars may be alive after all. Researchers report in the journal Science Advances that the ExoMars Trace Gas Orbiter - a joint European Space Agency and Roscosmos mission - has detected hydrogen chloride gas in the low atmosphere above Alba Mons, the largest Martian volcano by surface area, in a pattern they say most likely points to volcanic seepage from fissures, possibly connected to a subsurface magma chamber. The finding suggests Mars is not geologically dead but in a stage of 'relative dormancy,' retaining enough interior heat for magmatic processes. That matters for the search for life: rising magma can melt and heat underground water - Mars is already known to have water trapped below the surface - potentially creating hydrothermal systems like the ones where life on Earth is thought to have first emerged. For the record, the club of confirmed volcanically active bodies in the solar system is Earth, Venus and Jupiter's moon Io. Mars is knocking."
+        },
+        {
+          "kind": "banter",
+          "text": "Mars choosing election week to finally show signs of life is the only reasonable response to the campaign trail. We've spent decades pointing expensive telescopes at it, and it turns out the neighbours were just quietly boiling in the basement the whole time. The researchers did flag that the gas is pungent and corrosive, and they'd discourage anyone from sniffing it - which is good, because our next crewed mission was clearly going to be two blokes leaning over a crater going 'smells a bit eggy, ay'. Also worth noting: Olympus Mons, the tallest volcano in the solar system, has been telling everyone it's 'fine' for millions of years while Alba Mons does all the interesting work. Peak volcano energy. And if microbes do turn up down there, our election has roughly two more days of being the most important thing on the planet before the headline 'LIFE EXISTS' drops and absolutely nobody on Earth is dwelling on overhangs."
+        },
+        {
+          "kind": "fact",
+          "text": "RNZ (Will Dunham for Reuters, 5 Nov 2026, 'Evidence of volcanic activity detected on Mars, raising hopes for finding life'): research published in Science Advances reports the ExoMars Trace Gas Orbiter (ESA/Roscosmos) detected hydrogen chloride in the low atmosphere above Alba Mons, the largest Martian volcano by surface area, located in the planet's northern hemisphere. Co-lead authors Daniel Mege (Space Research Centre, Polish Academy of Sciences / University of Bern) and Alexander Trokhimovskiy (Space Research Institute, Russian Academy of Sciences) say the most likely origin is volcanic outgassing from fissures, consistent with a subsurface magma chamber, indicating Mars is in a stage of 'relative dormancy' rather than geologically dead. Confirmed volcanically active bodies are Earth, Venus and Jupiter's moon Io. Mars is already known to have subsurface water; hydrothermal systems are where life on Earth is thought to have first emerged, and the researchers say active volcanism makes warm subsurface environments 'one of the most promising targets in the search for life on Mars.'"
+        }
+      ]
+    }
+    ,
+    {
+      "id": "s3",
+      "category": "business",
+      "headline": "BNZ's full-year profit 'dips' to $1.157 billion - a 22.8 percent slide - as the bank grows lending anyway",
+      "summary": "BNZ posted a $1.157 billion statutory net profit for the year to September, down 22.8 percent (almost 6 percent to $1.41 billion excluding one-offs), while business lending grew 5.5 percent and home lending 7.7 percent - and the CEO acknowledged households are still feeling the cost-of-living squeeze.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "Somewhere in a bank headquarters, they work out how to announce a third of a billion dollars in lost profit and still make it sound polite. BNZ has posted a statutory net profit of $1.157 billion for the year to the end of September, down 22.8 percent on the previous year - a drop driven in large part by a one-off reduction in capitalised software assets announced in April. Even excluding those one-off charges, underlying net profit fell almost 6 percent to $1.41 billion. Revenue rose 1.5 percent to $3.536 billion while operating expenses grew 4.2 percent, and the net interest margin - what the bank charges borrowers relative to what it pays depositors - tightened 10 basis points to 2.30 percent in what it calls a highly competitive market. None of the softness stopped the lending machine: business lending grew 5.5 percent to $49.5 billion and home lending 7.7 percent to $68.8 billion, a fourth straight year of gaining home-lending market share. Chief executive Dan Huggins said conditions remain challenging for some households 'due to the cost of living,' but expected growth to strengthen through 2027 'barring any external shocks.'"
+        },
+        {
+          "kind": "banter",
+          "text": "Quick show of hands: when did your pay packet last 'dip' by a billion dollars and change? Never, because that isn't a dip, that's a whole national budget. BNZ cleared $1.157 billion after a year it's calling tough, and the headline reads like the bank lost a close one at the harness racing rather than, you know, making a billion dollars. That's not a profit warning, that's a flex with a sad face emoji. But the real editorial gem is the CEO delivering both of these lines in the same statement: households are doing it tough on the cost of living, and also - fourth straight year of grabbing more of the home-lending market. One person's 'challenging conditions' is someone else's record quarter, and the spreadsheet tells you which side of the counter that is. So your mortgage rate is baked in, your savings account is doing its best impression of a sleeping dog, and the bank's 'worst year' still ends with a billion in the bank. A dip is when you forget your wallet on the way out; this is very much remembering it."
+        },
+        {
+          "kind": "fact",
+          "text": "RNZ (5 Nov 2026, 'Full year profit dips to $1.1 billion at BNZ'): BNZ's statutory net profit was $1.157 billion for the year to the end of September 2026, down 22.8% on the previous year; a one-off reduction in capitalised software assets announced in April accounted for a large chunk of the decline, and excluding one-off charges net profit was down almost 6% to $1.41 billion. Net interest margin was 2.30%, down 10 basis points. Revenue rose 1.5% to $3.536 billion; operating expenses (excluding the one-off adjustment) rose 4.2% to $1.437 billion on technology investment, more frontline staff and inflationary pressures. Business lending grew 5.5% to $49.5 billion; home lending grew 7.7% to $68.8 billion - a fourth consecutive year of gaining home-lending market share. CEO Dan Huggins said conditions remain challenging for some households 'due to the cost of living,' and expected economic growth to strengthen through 2027 'barring any external shocks.'"
+        }
+      ]
+    }
+  ],
+  "affiliate_cta": {
+    "enabled": true,
+    "headline": "Banks 'dipping', mansions hosting summits, and a volcano waking up - before any of it costs you money, the fine print.",
+    "body": "Today's theme is money wearing a serious face: a bank's 'dip' that's still a billion-plus, an election being workshopped in a mansion you're not invited to, and the most interesting real estate in the solar system being underground on Mars. If any of that has you about to spend - a lending decision, a donation, a savings-account shuffle - have a calm look around before you sign. No pitch, no pressure, just the specs.",
+    "disclosure": "We may earn a commission if you buy through these links. It will not cost you more, and it keeps yeah nah news free.",
+    "items": []
+  },
+  "meta": {
+    "sources": [
+      "rnz.co.nz (Jonathan Milne for Newsroom, 5 Nov 2026, 'Harry Mowbray calls Coatesville mansion summit to get rid of MMP'): Zuru patriarch Harry Mowbray hosting Saturday election party at Coatesville mansion (ex-Kim Dotcom) to pitch replacing MMP; admits Electoral Act breach, getting ACT/NZ First sign-off on ads; 'positive MMP' = 100 electorate + 20 list MPs (non-proportional; similar to supplementary member system, 5% in 1992 referendum vs MMP 65%); '870,000 National votes going to waste'; wants four-year terms; Newsroom modelling ~42 of 71 electorates for National, 6-8 seat overhang possible; Don Brash attending, not committed to change.",
+      "rnz.co.nz (Will Dunham for Reuters, 5 Nov 2026, 'Evidence of volcanic activity detected on Mars, raising hopes for finding life'): Science Advances study; ExoMars Trace Gas Orbiter (ESA/Roscosmos) detected hydrogen chloride above Alba Mons (largest Martian volcano by surface area, northern hemisphere); co-leads Mege and Trokhimovskiy attribute it to volcanic outgassing from fissures, consistent with subsurface magma chamber; Mars in relative dormancy; volcanically active club = Earth, Venus, Jupiter's moon Io; Mars has subsurface water; hydrothermal systems where Earth life is thought to have emerged; warm subsurface environments among 'most promising targets in the search for life on Mars.'",
+      "rnz.co.nz (5 Nov 2026, 'Full year profit dips to $1.1 billion at BNZ'): statutory net profit $1.157b for year to Sept 2026, down 22.8%; one-off capitalised software asset reduction (announced April); underlying down ~6% to $1.41b; NIM 2.30% (-10bps); revenue $3.536b (+1.5%); opex ex-one-offs $1.437b (+4.2%); business lending +5.5% to $49.5b; home lending +7.7% to $68.8b (4th straight year of share gains); CEO Dan Huggins on cost-of-living pressure and growth through 2027."
+    ],
+    "qa_verified": true
+  }
+}
