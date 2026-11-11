@@ -1,0 +1,85 @@
+{
+  "slug": "2026-11-12",
+  "date": "2026-11-12",
+  "edition": "Issue 041: An exam platform picks the worst morning to glitch, the All Blacks slide into MOHI's DMs, and one soldier outranks the man who signs the cheques",
+  "tagline": "Your 3-minute Thursday reset: the NCEA startup the country didn't ask for, the walkout song a stardrop from the nation's honour guard, and a rank that can't be outranked at the Tomb of the Unknown Soldier.",
+  "reading_minutes": 3,
+  "stories": [
+    {
+      "id": "s1",
+      "category": "tech",
+      "headline": "NCEA's digital exam platform glitches on the one morning it absolutely cannot afford to",
+      "summary": "NZQA's online exam platform misfired during Thursday morning's NCEA Level 2 English and Scholarship Chemistry exams, slowing logins before NZQA nudged schools to paper and promised derived grades for students who could not finish digitally; the problem was traced to an overnight transfer of responses to the marking platform and resolved about 10.35am.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "For the teenagers sitting NCEA Level 2 English and Scholarship Chemistry on Thursday morning, the platform promised progress. It delivered a stall. NZQA's online exam system slowed down mid-morning, posting a message on the Qualifications Authority site saying staff were working to fix a problem with the digital exam platform. The advice to schools, relayed by NZQA: if students can continue digitally, keep going; if not, shift them to paper where possible. And for anyone who simply could not finish? 'Derived grades at scale will be available.' A teacher caught mid-outage called it 'a nightmare'. NZQA later said the issue traced to the overnight transfer of student responses from the exam platform to its marking platform, and said it was resolved by 10.35am, with derived grades available to any student whose performance was affected."
+        },
+        {
+          "kind": "banter",
+          "text": "It's every Kiwi classroom dream: a year of study, a hall of focused teenagers, and one 'please wait' spinner standing between them and the grades they sweated for. The exam platform chose to have its moment on the actual morning - the digital equivalent of a keynote speaker arriving, collecting the fee, and forgetting the laptop. No one is punching the students, obviously; they did all the work. What deserves a tactical look is the transfer protocol that was apparently skinny-dipping somewhere between 'submit' and 'mark' at 9am on exam day. On the plus side, today's lucky cohort now knows exactly how their bosses' video calls have been feeling all year. Derived grades, we meet at last - the backup dancer every exam season secretly hopes will finally get a solo."
+        },
+        {
+          "kind": "fact",
+          "text": "RNZ (12 Nov 2026, 'Technical problem disrupts NZQA English exam', education): the online NCEA Level 2 English exam was disrupted Thursday morning; NZQA's site initially said it was working to fix a problem with the digital exam platform, later noting improvement; schools told to keep students digital where possible, move to paper where not, with 'Derived grades at scale will be available for students who are unable to complete their exam'; a teacher called it 'a nightmare'; NZQA attributed the issue to the overnight transfer of responses to the marking platform, resolved at 10.35am. NZ Herald (11 Nov, 'Major NZQA digital exam platform outage hits students sitting NCEA exams'): outage affected students nationwide sitting NCEA Level 2 English and Scholarship Chemistry; a teacher said schools were left in 'panic' after it struck about 10am."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "category": "entertainment",
+      "headline": "The All Blacks slid into MOHI's DMs - and the award-winning singer thought it was spam",
+      "summary": "West Auckland neo-soul star MOHI (Mohi Allen) says he dismissed a DM from the All Blacks this year as spam before realising it was real; the next day he and producer Noema wrote 'Taniwha' with them as a koha, a waiata he has since sung with rangatahi on a tour of kura. He won best Te Reo Maori Album and Best Male Artist at the 2024 Maori Music Awards and just released 'Maori Kid Meets World' after recording in London.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "Every inbox has its hazards, but few come wearing silver ferns. West Auckland neo-soul artist MOHI - born Mohi Allen - told RNZ's Music 101 that when a message arrived from the All Blacks earlier this year, close to Matariki, he assumed it was spam. It wasn't. 'And then it wasn't, and I was like, oh cool.' The rugby side wanted to collaborate on a game-day song, and the next day MOHI and producer Noema wrote 'Taniwha' as a tribute, or koha, to the team and its kaupapa - a track that 'grew into something way bigger'. The 2024 Maori Music Awards winner for best Te Reo Maori Album and best Male Artist has since taken the waiata around kura across the country, where rangatahi knew every word, and has just returned from London, where he released his new album 'Maori Kid Meets World' and recorded at Abbey Road as part of the te reo project 4 The Masses."
+        },
+        {
+          "kind": "banter",
+          "text": "Bless MOHI, because this is the most New Zealand moment of the season: the most decorated sporting institution in the country has to slide into a musician's DMs, and the musician's first instinct is that it's a scam. The All Blacks have won World Cups, and yet here they are, one dashed 'hey' away from the bin. You've never seen the silver fern look so much like a Nigerian prince. It's actually the perfect division of labour - the country's greatest sportspeople asking for a walkout waiata, and a west Auckland winner deciding whether the 'All Blacks' handle is trustworthy. Compromise attained: 'Taniwha' exists, kura kids are singing it, and somewhere a locksmith is still wondering why the team captain has an unopened message from 'rugby_official69'. Nobody is the butt of this joke but spam folders everywhere, which - honestly - have been asking for it."
+        },
+        {
+          "kind": "fact",
+          "text": "RNZ Music 101 (12 Nov 2026, 'The All Blacks dropped MOHI a message - the singer thought it was spam'): MOHI told RNZ the All Blacks DM'd him close to Matariki this year and he initially thought it was spam; the team wanted to collaborate on a game-day song; the next day he and producer Noema wrote 'Taniwha' as a tribute or koha to the team and its kaupapa, which 'grew into something way bigger'; touring kura after writing the song, 'all the kids knew the song'; written with tamariki and rangatahi Maori in mind as a walkout song celebrating rugby culture and te reo; MOHI won best Te Reo Maori Album and Best Male Artist at the Maori Music Awards 2024; just returned from London, released 'Maori Kid Meets World' and, with Jordyn with a Y and Hope, recorded te reo versions of artists including Olivia Dean at Abbey Road as part of 4 The Masses."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "category": "world",
+      "headline": "A US Army sentinel yells decorum at the Defence Secretary - the one rank nobody can outrank",
+      "summary": "A US Army sentinel guarding the Tomb of the Unknown Soldier loudly reprimanded Defense Secretary Pete Hegseth and his advisers for laughing and chatting while taking photos after a Veterans Day ceremony at Arlington National Cemetery; the Pentagon called it a soldier 'correctly and respectfully' reminding everyone to maintain decorum, as Hegseth faces ongoing impeachment scrutiny.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "There is a rank above Defence Secretary, and on Wednesday it was a soldier walking a patrol in Arlington. As Pete Hegseth and a group of senior advisers posed for photos in front of the Tomb of the Unknown Soldier after the Veterans Day ceremony, some in the group laughed and talked. The sentinel guarding the memorial - a patrol that has run around the clock since 1948 - stopped and called out: 'All visitors will maintain an atmosphere of silence and respect at all times.' Those in the group included Hegseth's wife Jennifer, chief of staff Ricky Buria, deputy chief of staff Patrick Weaver and senior adviser and deputy assistant Tami Radabaugh. Chief Pentagon spokesman Sean Parnell said the soldier 'correctly and respectfully reminded everyone to maintain decorum', insisting the Secretary and Department 'have always honored, and will always honor, the sacrifices our military men and women have made'. The moment lands while Hegseth is under fresh scrutiny: the GOP blocked an impeachment push on Tuesday night, after articles filed by outgoing Representative Thomas Massie accused him of unlawful orders including waging war in Iran without congressional approval."
+        },
+        {
+          "kind": "banter",
+          "text": "Nuclear football be damned - the most powerful man the Pentagon has produced this century just got told to quiet down by a guy walking around with a rifle, and it was magnificent. Forget chains of command; at the Tomb of the Unknown Soldier, the sentinel outranks everyone, and he did not appreciate the open-plan-office vibes at his place of work. Somewhere between 'wars are being waged' and 'please hold your giggles', the US has found its most reliable referee, and he takes no time off and accepts no excuses. A Defence Secretary currently fielding impeachment articles should probably not be the one the memorial guards have to shush - it's the kind of footage that writes its own press release. But hats off to the old guard: in a government where every authority appears disputable, the one man who can tell the Pentagon to pipe down is the one with the most impenetrable job security in America."
+        },
+        {
+          "kind": "fact",
+          "text": "RNZ (12 Nov 2026, 'Video shows soldier reprimanding Hegseth and advisers at Tomb of the Unknown Soldier', world): a US Army sentinel guarding the Tomb of the Unknown Soldier reprimanded Defense Secretary Pete Hegseth and senior advisers after some in the group laughed and talked near the memorial following a Veterans Day ceremony at Arlington National Cemetery; the sentinel called out 'All visitors will maintain an atmosphere of silence and respect at all times'; the group included Hegseth's wife Jennifer, chief of staff Ricky Buria, deputy chief of staff Patrick Weaver and senior adviser/deputy assistant Tami Radabaugh; Chief Pentagon spokesman Sean Parnell said the soldier 'correctly and respectfully reminded everyone to maintain decorum'; Trump and Vice President JD Vance also attended the ceremony. RNZ world (12 Nov): Hegseth faces renewed scrutiny after articles of impeachment filed by outgoing GOP Rep. Thomas Massie (waging war in Iran without congressional approval, ignoring laws on civilian casualties, directing extrajudicial killings) were blocked in a procedural vote Tuesday night; Trump supported Hegseth."
+        }
+      ]
+    }
+  ],
+  "affiliate_cta": {
+    "enabled": false,
+    "headline": "",
+    "body": "",
+    "disclosure": "",
+    "items": []
+  },
+  "meta": {
+    "sources": [
+      "rnz.co.nz (12 Nov 2026, 'Technical problem disrupts NZQA English exam', education): online NCEA Level 2 English exam disrupted Thursday morning; NZQA advice re digital vs paper and 'derived grades at scale'; issue traced to overnight response transfer; resolved 10.35am.",
+      "nzherald.co.nz (11 Nov 2026, 'Major NZQA digital exam platform outage hits students sitting NCEA exams'): outage hit NCEA Level 2 English and Scholarship Chemistry; a teacher said schools were in 'panic' after it struck about 10am.",
+      "rnz.co.nz (12 Nov 2026, Music 101: 'The All Blacks dropped MOHI a message - the singer thought it was spam'): MOHI story with all quotes; 'Taniwha' written as koha; album and awards details.",
+      "rnz.co.nz (12 Nov 2026, 'Video shows soldier reprimanding Hegseth and advisers at Tomb of the Unknown Soldier', world): sentinel reprimand details, Parnell statement, impeachment context."
+    ],
+    "qa_verified": true
+  }
+}
