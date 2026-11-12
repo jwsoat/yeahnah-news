@@ -1,0 +1,85 @@
+{
+  "slug": "2026-11-13",
+  "date": "2026-11-13",
+  "edition": "Issue 042: Outlook stages a global walkout, the world stages a virtual migration for GTA 6, and Liam Lawson keeps his seat with fine print attached",
+  "tagline": "Your 3-minute Friday reset: an inbox mutiny with corporate captioning, a time zone that is suddenly the world's favourite address, and an F1 contract that came with a 'don't relax' sticker.",
+  "reading_minutes": 3,
+  "stories": [
+    {
+      "id": "s1",
+      "category": "tech",
+      "headline": "Outlook stages a global walkout, locking 100,000-plus people out of their inboxes on a Friday",
+      "summary": "More than 100,000 users worldwide struggled to access email as Microsoft battled an Outlook outage on Friday (NZT), with 130,000-plus reports on Downdetector; the company blamed 'elevated load across multiple regions' and said Teams, SharePoint, Copilot 365 and Defender XDR could also be affected.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "More than 100,000 users worldwide were struggling to reach their inboxes on Friday morning (NZT) as Microsoft fought an outage in Outlook. The company confirmed it was having problems with Exchange Online mailboxes and was working on a fix, warning the issue 'may affect Microsoft 365 service connectivity for users in any region'. Outage tracker Downdetector logged more than 130,000 reports early on Friday (NZT). Teams, Exchange Online, SharePoint Online, Copilot 365 and Defender XDR may also be affected, Microsoft said, adding that the impacted infrastructure was experiencing 'elevated load across multiple regions' and that it was 'restarting and repairing impacted portions' to restore capacity, while evaluating options to redirect traffic. A separate Teams disruption affecting North America was earlier declared fully resolved. (Reuters with additional reporting by RNZ.)"
+        },
+        {
+          "kind": "banter",
+          "text": "Let's translate Microsoft's official line: 'elevated load across multiple regions' is how a multi-trillion-dollar company says 'we restarted it and it got worse'. And of course it chose Friday - the one day your unread count matters, because Monday-you has already moved on to a new disaster. One hundred and thirty THOUSAND humans, all doing the 'refresh, wait, refresh' dance, together, worldwide. The upside: nobody in the office can reply to your timesheet or chase that urgent request, so for a few glorious hours you are effectively untraceable. Enjoy the silence while it lasts. Microsoft's engineers certainly aren't."
+        },
+        {
+          "kind": "fact",
+          "text": "RNZ business (13 Nov 2026, 'Global outage hits Microsoft's Outlook'; Reuters with additional reporting by RNZ): more than 100,000 users worldwide struggled to access email; Microsoft confirmed problems with Exchange Online mailboxes on Friday morning (NZT) and said the issue 'may affect Microsoft 365 service connectivity for users in any region'; Downdetector logged more than 130,000 reports early Friday NZT; Teams, Exchange Online, SharePoint Online, Copilot 365 and Defender XDR may also be impacted; Microsoft attributed the issue to 'elevated load across multiple regions', said it was 'restarting and repairing impacted portions' of infrastructure to restore capacity, and was evaluating options to redirect traffic; a Teams disruption affecting North America had earlier been declared fully resolved."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "category": "entertainment",
+      "headline": "GTA 6 drops in six days, and the whole world is suddenly claiming to live in New Zealand",
+      "summary": "With Grand Theft Auto VI launching 19 November, overseas gamers are embracing the 'New Zealand trick' - switching their Xbox region to Aotearoa to play up to 20 hours early; RNZ reports Reddit is full of fans weighing a possible permanent ban against a head start, while Xbox's own social team has joked about our 'virtual population spike'.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "Grand Theft Auto VI launches on 19 November, and Aotearoa's time zone has just become the most popular address in gaming. RNZ reports that overseas fans are embracing the 'New Zealand trick' - or 'Kiwi hack' - switching their Xbox console region to New Zealand so they can join the midnight release and play hours early. Kiwis get the game about two hours before Australia and around 20 hours before some players on the other side of the world. Reddit is buzzing with the 'what ifs' and the 'what could possibly go wrongs', and for some fans even the prospect of a permanent Xbox ban is not enough to kill the dream. Officially, Microsoft's account terms prohibit attempting to 'circumvent regional content restrictions'. Unofficially, Xbox's trans-Tasman social team has been in on the joke before, poking fun at New Zealand's sudden 'virtual population spike' during the 2021 launch of Forza Horizon 5."
+        },
+        {
+          "kind": "banter",
+          "text": "Forget the haka - this is our greatest export moment: a global army of gamers pretending to be Kiwi for one night, and the only identification they need is a regional setting. Suddenly people who cannot find New Zealand on a map know our time zone better than their own. Honestly, we should charge for this. Tourism numbers, all digital, zero weather complaints. As for the small print: nothing says 'we respect our players' like threatening a permanent ban for setting your clock forward to somewhere lovely. It is the one crime in gaming where all the evidence lives in the settings menu. Welcome aboard, honorary Kiwis - the world's favourite cheat code is a small island at the bottom of it."
+        },
+        {
+          "kind": "fact",
+          "text": "RNZ Life / Screens (13 Nov 2026, Liam Swiggs, 'The Grand Theft Auto 'Kiwi hack' the world is talking about'): GTA VI launches 19 November; New Zealand players get the game a couple of hours before Australia and around 20 hours before some players elsewhere; the 'New Zealand trick' / 'Kiwi hack' is changing an Xbox console's region to New Zealand to access the midnight release; Reddit users were debating the trade-offs, with some accepting the risk of a permanent Xbox ban; the region setting can be changed directly on the console while leaving the account's billing region unchanged; purchasing from another region's store generally requires a local billing address and matching payment method; Xbox account terms prohibit attempting to 'circumvent regional content restrictions'; Xbox's trans-Tasman social team joked about New Zealand's sudden 'virtual population spike' during the 2021 launch of Forza Horizon 5."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "category": "sport",
+      "headline": "Liam Lawson keeps his F1 seat for 2027 - and somehow still can't afford to relax",
+      "summary": "Racing Bulls confirmed Liam Lawson and Arvid Lindblad will race on in 2027, ending months of speculation over the Kiwi's future; Nikola Tsolov - the 19-year-old junior linked to Lawson's seat - will instead become reserve driver; RNZ analysis says Lawson, ninth in the standings with three rounds left, is safe for now but cannot afford to slip next season.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "The speculation that has followed Liam Lawson all season ended on Thursday (NZ time), when Racing Bulls confirmed the Kiwi and Britain's Arvid Lindblad will both race for the Red Bull-owned team in 2027. Lawson's seat had been under threat from 19-year-old Bulgarian junior Nikola Tsolov - who will now become the Red Bull and Racing Bulls reserve driver next season instead. Team principal Alan Permane: 'I have no doubt that this is the best driver line-up for us, bringing a strong combination of experience and ambition.' Lawson, ninth in the drivers' championship with 89 points, has scored points in 15 of the 20 rounds, qualified third for the Brazil Grand Prix last weekend and run as high as second early in that race. 'It feels great to be part of a historic season for the team,' Lawson said. RNZ's analysis notes he now has to at least match that next season, with Tsolov waiting in the wings - and three rounds remain in 2026: Las Vegas, Qatar and Abu Dhabi."
+        },
+        {
+          "kind": "banter",
+          "text": "Liam Lawson has achieved the rare F1 feat of having his future confirmed and being told 'don't relax' in the same news cycle. It is the only job market on earth where signing the contract IS the interview. Still, what a redemption arc: dumped by Red Bull after two races in 2025, 'best of the rest' in 2026, and now the team keeps him while the hotshot junior gets the reserve seat - the F1 equivalent of being invited to the wedding but asked to hold the rings. Tsolov will now watch every weekend the way Red Bull juniors watch: patiently, like a seagull outside a chip shop. Enjoy the mini-break, Liam. You have earned it, right up until the lights go on in Vegas."
+        },
+        {
+          "kind": "fact",
+          "text": "RNZ Sport (13 Nov 2026, analysis: 'Liam Lawson confirmed, but he can't afford to relax') and RNZ Sport (Reuters, 12 Nov 2026: 'Racing Bulls confirm Lawson and Lindblad for 2027'): Racing Bulls confirmed Lawson and Arvid Lindblad will continue for 2027, announced Thursday NZ time; Nikola Tsolov becomes Red Bull and Racing Bulls reserve driver for next season; Lawson is ninth in the drivers' championship with 89 points, scoring points in 15 of 20 rounds, qualifying third at the Brazil Grand Prix and running second early; he has scored more than double his teammate's points with Racing Bulls fifth in the constructors' championship; team principal Alan Permane said 'I have no doubt that this is the best driver line-up for us'; Lawson said 'It feels great to be part of a historic season for the team'; three rounds remain in the 2026 season (Las Vegas, Qatar, Abu Dhabi); RNZ analysis says 2027 is likely Lawson's final year with Racing Bulls, with a number of seats expected to open up for 2028."
+        }
+      ]
+    }
+  ],
+  "affiliate_cta": {
+    "enabled": false,
+    "headline": "",
+    "body": "",
+    "disclosure": "",
+    "items": []
+  },
+  "meta": {
+    "sources": [
+      "rnz.co.nz (13 Nov 2026, 'Global outage hits Microsoft's Outlook', news/business; Reuters with additional reporting by RNZ)",
+      "rnz.co.nz Life/Screens (13 Nov 2026, Liam Swiggs, 'The Grand Theft Auto 'Kiwi hack' the world is talking about')",
+      "rnz.co.nz Sport (13 Nov 2026, analysis 'Liam Lawson confirmed, but he can't afford to relax'; 12 Nov 2026 Reuters 'Racing Bulls confirm Lawson and Lindblad for 2027')",
+      "nzherald.co.nz (12 Nov front page, 'Microsoft software outage hits Outlook users worldwide') - corroborates NZ impact of the Outlook outage; not the basis for standalone claims"
+    ],
+    "qa_verified": true
+  }
+}
