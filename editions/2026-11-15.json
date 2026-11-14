@@ -1,0 +1,86 @@
+{
+  "slug": "2026-11-15",
+  "date": "2026-11-15",
+  "edition": "Issue 044: Wales end 73 years of All Blacks hurt in a 35-28 Cardiff classic, Rocket Lab turns 100 in gold, and RNZ’s $11.8m whopper catches up with its boss",
+  "tagline": "Your 3-minute Sunday reset: a 73-year hoodoo ends in Cardiff, a gold-painted rocket hits a century faster than any other, and a public broadcaster discovers the worst story of the week is its own spreadsheet.",
+  "reading_minutes": 3,
+  "stories": [
+    {
+      "id": "s1",
+      "category": "sport",
+      "headline": "Wales end 73 years of hurt with a stunning 35-28 win over the All Blacks in Cardiff",
+      "summary": "Wales beat the All Blacks 35-28 at Principality Stadium — their first win over New Zealand since 1953, ending a 34-match losing streak — in a nine-try Nations Championship thriller; the All Blacks scored four tries but were held up over the line three times in the final quarter, and coach Dave Rennie’s eight changes to the starting XV face heavy scrutiny.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "Wales have beaten the All Blacks for the first time in 73 years, winning 35-28 in a nine-try Nations Championship classic at Cardiff’s Principality Stadium. Wales — without a win over New Zealand since 1953, a streak of 34 successive defeats — led 14-0 inside the first 10 minutes and again after the break. The All Blacks clawed their way back to level 21-21 at halftime through tries to Cortez Ratima, Wallace Sititi and Fehi Fineanganofo, then Peter Lakai in the second half, but Wales refused to let them over late, holding the visitors up over the line three times in a final-quarter defensive stand. All Blacks coach Dave Rennie made eight changes to his starting XV, 10 in total, after the win over Scotland, and described the defeat as extremely painful; captain Beauden Barrett was more generous: Wales played very well so full credit to them."
+        },
+        {
+          "kind": "banter",
+          "text": "Seventy-three years. That is roughly how long it takes for a Welsh fan to go grey, teach their grandchildren the words to the anthem, and quietly accept that the All Blacks fixture is a maths problem with only one answer. Then, on Saturday night, the maths changed. Wales — the team the All Blacks treat as a suitcase they pack and unpack — spent the final quarter tackling like the tryline owed them money, holding the visitors up three times while a stadium held its breath. The funniest part is that the only person with a worse night than the beaten All Blacks is whoever has to review those eight changes; Rennie gambled on rotation and the Welsh tackling said no. But genuinely, full credit: 73 years is a long time to keep saying next time, and next time finally arrived with a performance for the ages. The All Blacks will be fine. Wales will be telling this story forever."
+        },
+        {
+          "kind": "fact",
+          "text": "RNZ Sport (15 Nov 2026, All Blacks stunned as Wales break 73 years of heartbreak in Cardiff): Wales won 35-28, their first victory over the All Blacks since 1953 and first in 73 years, before a crowd of about 56,000 at the Principality Stadium; Wales led 14-0 inside the first 10 minutes, the sides were level 21-21 at halftime; the All Blacks conceded two converted tries within 10 minutes of the start of both halves; New Zealand were held up over the Welsh line three times in the final quarter; New Zealand tries came from Cortez Ratima, Wallace Sititi, Fehi Fineanganofo and Peter Lakai, all converted by Richie Mo’unga; Rennie made eight changes to the starting line-up (10 in total) after the win over Scotland, a decision RNZ said altered the balance of the team; skipper Beauden Barrett said Wales played very well so full credit to them. Stuff (14 Nov 2026, Robert van Royen, All Blacks rue decision making after extremely painful loss to Wales in Cardiff): Rennie described the loss as extremely painful and a spotlight will fall on the team’s decision making. RNZ Sport (Nations Championship picture to become clearer after weekend tests): New Zealand had beaten Wales in their last 34 clashes stretching back 73 years."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "category": "tech",
+      "headline": "Rocket Lab knocks out its 100th Electron launch, faster to the milestone than any other commercial rocket",
+      "summary": "Rocket Lab launched its 100th Electron mission, The Mountain God Rises, from Mahia on Saturday night, deploying a Japanese Earth-imaging radar satellite for iQPS to a 575km orbit; the gold-painted rocket reached 100 launches faster than any other commercially developed rocket, 11 years after Electron first flew from New Zealand in 2017.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "Rocket Lab has hit 100 launches of its Electron rocket, getting there faster than any other commercially developed rocket in history. The milestone mission, The Mountain God Rises, lifted off at 6:30pm on Saturday from Launch Complex 1 on the Mahia Peninsula, carrying YAMATSUMI-II, an Earth-imaging radar satellite for Japanese company iQPS, into a 575km orbit. Parts of the 18-metre rocket were painted gold for the occasion — a custom job founder and chief executive Sir Peter Beck joked the team initially thought he was not serious about. Electron first launched from Mahia in 2017 and has since become one of the world’s busiest small rockets; Rocket Lab says more than 100 further Electron launches are already booked, and the firm employs more than 1000 people in New Zealand."
+        },
+        {
+          "kind": "banter",
+          "text": "One hundred launches, and the boss still refuses to ride in one. Sir Peter Beck will happily helicopter over his own launch pad, but has announced he has no plans to ever board a rocket himself, which is either admirable caution or the least convincing safety endorsement in the industry. The Mountain God Rises is the kind of mission name that sounds like a festival headliner, and it launched from a paddock on the Mahia Peninsula that has quietly become one of the most reliable front doors to space on the planet. Gold paint, a century milestone, more launches booked than a tour schedule — and somewhere in Auckland, the founder is already working out how to stay on the ground for the next 100. Honestly, at this rate the family motto might as well be: we got there first, and we are absolutely not getting on."
+        },
+        {
+          "kind": "fact",
+          "text": "NZ Herald (14 Nov 2026, Gary Hamilton-Irvine and Chris Keall, Fastest to 100 launches — Rocket Lab celebrates Golden milestone): the 100th mission, The Mountain God Rises, lifted off at 6:30pm on Saturday 14 November from Launch Complex 1 on the Mahia Peninsula, deploying the YAMATSUMI-II Earth-imaging satellite for Japanese firm iQPS; parts of the 18m Electron were painted gold, a custom job founder Sir Peter Beck joked the team initially thought he was not serious about; Rocket Lab reached 100 launches faster than any other commercially developed rocket, with only SpaceX coming close; Electron was first launched from Mahia in 2017; Rocket Lab employs more than 1000 people in New Zealand. Rocket Lab (14 Nov 2026, official announcement): The Mountain God Rises deployed the QPS-SAR-19 (YAMATSUMI-II) synthetic aperture radar satellite to a 575km orbit; it was Rocket Lab’s 11th Electron launch for iQPS with 100 per cent mission success since 2023, and iQPS has seven more launches booked through 2030; Beck said few rockets reach 100 launches in their total operational lifetime, that Electron reached the milestone faster than any other commercially developed rocket, and that the next 100 Electrons are already booked."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "category": "business",
+      "headline": "RNZ boss Paul Thompson out six weeks early after the public broadcaster’s $11.8m financial blowout",
+      "summary": "RNZ chief executive Paul Thompson will leave on Monday, six weeks early, after RNZ revealed an $11.8m loss — more than 25 times the $470,000 deficit it had budgeted — and plans to cut 58 jobs, about one in six staff; a minister says RNZ has fallen well short of what taxpayers have a right to expect.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "RNZ chief executive Paul Thompson will leave the public broadcaster on Monday, six weeks earlier than his planned December 31 exit, after RNZ revealed it is facing an $11.8 million loss — more than 25 times the $470,000 deficit it had budgeted for the year to June. The broadcaster plans to cut 58 jobs, around one in six staff, and has commissioned an independent review into how its finances went so badly off track. Media and Communications Minister Paul Goldsmith called the early exit the right thing to do, while Associate Finance Minister David Seymour, a shareholding minister, said RNZ has fallen well short of what taxpayers have a right to expect, noting the people who suffer most are the staff and the public who fund it. Head of News Mark Stevens will take over as acting chief executive from Tuesday."
+        },
+        {
+          "kind": "banter",
+          "text": "The most awkward thing about being a news organisation is when you become the news. RNZ — which spends its days holding everyone else’s numbers to account — spent this week holding its own, and the numbers were not flattering: an $11.8 million hole that is 25 times the budgeted $470,000, a chief financial officer who resigned in October, and a chief executive leaving six weeks early. There are jokes to be made here, but the punchline should land on the 58 staff who keep the service running while the spreadsheet gets sorted — which is exactly what the minister said, in much blunter terms. So we will keep it respectful and just note the universal lesson: professions that hold power to account are not exempt from the occasional emergency audit of their own. And if your business is checking the facts, someone will eventually check yours."
+        },
+        {
+          "kind": "fact",
+          "text": "RNZ (14 Nov 2026, RNZ chief executive Paul Thompson announces early departure from organisation): Thompson will leave on Monday, six weeks before his scheduled December 31 exit; RNZ is facing a shock $12 million loss and will axe 58 jobs, about one in six staff; the $11.8m loss is more than 25 times the $470,000 RNZ had expected to lose over the year to June; chief financial officer Hilary Parker resigned unexpectedly in October; RNZ has commissioned an independent review; Chairman Brent Impey said Thompson responded to a difficult situation with courage and integrity; Media and Communications Minister Paul Goldsmith said the early exit was the right thing to do; Associate Finance Minister David Seymour said RNZ has fallen well short of what taxpayers have a right to expect and that the people who suffer most are the hard-working staff and the public who fund it; Head of News Mark Stevens will be acting CEO from Tuesday. RNZ (9 Nov 2026, earlier report): RNZ has described the deficit as stemming from a litany of financial blunders."
+        }
+      ]
+    }
+  ],
+  "affiliate_cta": {
+    "enabled": false,
+    "headline": "",
+    "body": "",
+    "disclosure": "",
+    "items": []
+  },
+  "meta": {
+    "sources": [
+      "rnz.co.nz Sport (15 Nov 2026, All Blacks stunned as Wales break 73 years of heartbreak in Cardiff)",
+      "stuff.co.nz Sport (14 Nov 2026, Robert van Royen, All Blacks rue decision making after extremely painful loss to Wales in Cardiff)",
+      "nzherald.co.nz Business (14 Nov 2026, Gary Hamilton-Irvine and Chris Keall, Fastest to 100 launches — Rocket Lab celebrates Golden milestone)",
+      "rocketlabcorp.com (14 Nov 2026, Rocket Lab Hits 100 Electron Launches, Fastest Commercial Rocket to Reach the Milestone)",
+      "rnz.co.nz Business (14 Nov 2026, RNZ chief executive Paul Thompson announces early departure from organisation)"
+    ],
+    "qa_verified": true
+  }
+}
