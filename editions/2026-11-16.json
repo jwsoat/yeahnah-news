@@ -1,0 +1,88 @@
+{
+  "slug": "2026-11-16",
+  "date": "2026-11-16",
+  "edition": "Issue 045: Luxon waits on votes, the Kangaroos keep the throne, and NZ lamb heads to Washington to plead its case",
+  "tagline": "Your 3-minute Monday reset: a government that has to wait for the spreadsheet, a league dynasty that never blinks, and our best export kicking up a fuss at the White House doorstep.",
+  "reading_minutes": 3,
+  "stories": [
+    {
+      "id": "s1",
+      "category": "politics",
+      "headline": "Luxon says final election count could have dragged on five weeks without his enrolment changes",
+      "summary": "National leader Christopher Luxon says the wait for the final election result - due Friday 27 November, three weeks after polling day - could have stretched to four or five weeks without his government's enrolment rule changes; he has spoken to coalition and third-party leaders but is holding formal negotiations until the count ends, with nearly 400,000 special votes still unaccounted for.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "A week-plus after election day, New Zealand is still inching towards a final result: the Electoral Commission will publish it on Friday 27 November, three weeks after polling - the same length of time the count took in 2023, despite changes to early-enrolment rules. Christopher Luxon defended the wait on Morning Report, arguing that without his government's changes - which ended same-day enrolment and moved the deadline before advance voting - the count could have taken four or five weeks. He said he has spoken to David Seymour, Winston Peters and Opportunity leader Qiulae Wong, but formal negotiations are paused until the final tally because, with nearly 400,000 special votes unaccounted for, he said New Zealand needs to respect every vote cast. Constitutional law expert Graeme Edgeler told RNZ last week there is nothing preventing negotiations from starting before the final count."
+        },
+        {
+          "kind": "banter",
+          "text": "The one thing every politician agrees on is that forming a government is urgent - right up until they are the ones who have to put the numbers together, and then suddenly democracy needs time to breathe. Luxon's logic is genuinely special: we changed the rules to speed things up, and somehow we are still three weeks in with nobody sure who is running anything. He will happily point out the United States counts tens of millions of votes in a night - a comparison he probably should not lead with, given how that country is currently going about the whole election thing. And the masterstroke: all four party leaders have, by all accounts, already been on the phone, because nothing says we respect every vote quite like having the spreadsheet open on one screen and the WhatsApp group on the other."
+        },
+        {
+          "kind": "fact",
+          "text": "RNZ (16 Nov 2026, Russell Palmer, Luxon says wait for votes could have taken 5 weeks without enrolment changes): the Electoral Commission publishes final results on Friday 27 November, three weeks after election day - the same length as the 2023 count, despite rule changes removing same-day enrolment and pushing enrolments before advance voting; Luxon said the wait could have taken four or five weeks had the changes not been made; he said he had spoken to David Seymour, Winston Peters and Qiulae Wong but would not open formal negotiations until after the final count, with nearly 400,000 special votes still unaccounted for; constitutional law expert Graeme Edgeler told RNZ last week there was no need to wait for the final count before negotiations began; Luxon dismissed claims the National Party had swung right as rubbish."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "category": "sport",
+      "headline": "Kiwis crushed 32-12 by the Kangaroos as Australia seals a fourth straight Rugby League World Cup",
+      "summary": "The Kangaroos beat the Kiwis 32-12 in the Rugby League World Cup final at Brisbane's Suncorp Stadium - six tries to two for a fourth straight title and a 10th in the past 11 World Cups; Kiwis coach Stacey Jones called it the team's worst performance after an error-riddled night that began with the opening kick-off sailing dead.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "The Australian empire rolls on. The Kangaroos crushed the Kiwis 32-12 in Sunday night's Rugby League World Cup final at Brisbane's Suncorp Stadium, a six-tries-to-two result that delivered a fourth consecutive title and a 10th in the past 11 World Cups. The warning signs arrived before a minute was up: Jamayne Isaako's opening kick-off sailed over the dead-ball line for a penalty, and Australia's Liam Martin capitalised within two minutes for the fastest try in a World Cup final. Casey McLean tied it up for the Kiwis, but the Kangaroos ran in five more unanswered tries either side of half-time to lead 24-6 at the break before closing it out. Coach Stacey Jones called it our worst performance, lamenting errors and discipline that let the home side dominate possession."
+        },
+        {
+          "kind": "banter",
+          "text": "There are fewer things more New Zealand than losing a World Cup final in a year when every other result went our way - but fair play, the Kangaroos' reign is less a dynasty and more a royal family that has simply stopped acknowledging anyone else exists. The whole night was decided before your coffee was made: kick-off over the dead-ball line, penalty, try inside two minutes, and suddenly it was 2017 all over again. The Kiwis will dust themselves off, because they always do - but right now, the mountain has a dynasty's name on it."
+        },
+        {
+          "kind": "fact",
+          "text": "RNZ (15 Nov 2026, Kiwis crushed by Kangaroos in Rugby League World Cup final): Australia beat the Kiwis 32-12 in the men's final at Suncorp Stadium in Brisbane on Sunday 15 November, six tries to two, for a fourth straight title and a 10th in the past 11 World Cups; the opening kick-off from Jamayne Isaako sailed dead for a penalty and Liam Martin scored within the opening minutes, the fastest try in a World Cup final; the Kangaroos led 24-6 at half-time after tries to Martin (two) and Bostock and Best; Casey McLean scored for the Kiwis. RNZ (16 Nov 2026, Barry Guy, Coach Stacey Jones on worst performance by Kiwis): Jones called it our worst performance and pointed to errors, discipline and an early Australian groove; the win was Australia's fourth straight title and 10th in the past 11 World Cups. NRL.com (15 Nov 2026, match report): the final was played at Suncorp Stadium before a crowd of 52,461; the Kiwis led 6-6 in the 12th minute after McLean's try before Australia pulled away; Australia's win was their 13th World Cup title overall."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "category": "business",
+      "headline": "Lamb's day in court: US tariff probe splits 3-3 and advances to remedies - NZ sends officials to Washington",
+      "summary": "The US International Trade Commission split 3-3 in an investigation into whether lamb imports harm American producers, moving the case to a remedy stage; Trade Minister Todd McClay has instructed officials to travel to Washington for the 1 December remedy hearing, arguing NZ lamb does not harm US producers and its share of the market has been stable for 20 years.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "New Zealand's lamb industry is braced for another possible US tariff blow after the US International Trade Commission failed to agree on whether imports are hurting American farmers. The USITC ended Friday's investigation with a split 3-3 vote - not enough to clear the industry, not enough to clear the exporters - which for now sends the case to a remedy phase. That means a public hearing on possible safeguards on 1 December in Washington, where Trade Minister Todd McClay has instructed NZ officials to appear, followed by a report to the US President due 11 January. McClay said New Zealand is deeply disappointed, that NZ lamb does not harm US producers, and that its share of US lamb consumption has stayed stable for about 20 years. Beef and Lamb New Zealand chair Kate Acland told the earlier hearing that NZ lamb complements American production, and that New Zealand sends the US roughly nine million lamb racks a year against only around two million American lambs available for processing annually."
+        },
+        {
+          "kind": "banter",
+          "text": "There is no diplomatic phrase for this one, so we will keep it simple: America, the lamb you were worried about being harmed by was likely wearing a very expensive rack for your Thanksgiving table. The trade squeeze has reached the stage where a committee meets, cannot agree on whether the sheep are a problem, and decides the correct response is a longer meeting plus possible tariffs anyway - which is how a lot of governance ends up looking when nobody wants to be the first to say the imports are fine. Officials are being packed off to Washington to plead that New Zealand's share of the US lamb plate has been the same size for two decades. The absurd part is that both sides seem to agree NZ lamb is a different product serving a different customer - and the commission still split 3-3. Rest assured the emergency is fully funded, the flights are booked, and somewhere a very patient sheep farmer is wondering why the world's largest economy needs a tribunal to decide a family dinner menu."
+        },
+        {
+          "kind": "fact",
+          "text": "USITC (13 Nov 2026, news release 26-162): commissioners were equally divided 3-3 on whether lamb meat is imported in such increased quantities as to be a substantial cause of serious injury to the domestic US industry; the investigation is a global safeguard investigation initiated 13 July 2026 following a request by the US Trade Representative; as a result of the split the USITC will proceed to the remedy phase, hold a public hearing on remedy on 1 December 2026, and submit its report and remedy recommendations to the President by 11 January 2027. New Zealand Government (14 Nov 2026, statement from Todd McClay via RNZ/Business Scoop): New Zealand is deeply disappointed the investigation will move to the next stage; McClay said NZ lamb exports do not harm US producers, complement US production, and NZ's share of US lamb consumption has stayed stable for the past 20 years; he has instructed officials to travel to Washington for the 1 December remedy hearing; after the Commission's recommendations, the US Administration decides whether and what form safeguards take. Beef and Lamb NZ (19 Oct 2026, B+LNZ representing farmers at US Lamb Safeguard hearing): NZ sends roughly nine million lamb racks' worth to the US annually against about two million US lambs available for processing; NZ lamb complements American production across smaller, consistent cuts."
+        }
+      ]
+    }
+  ],
+  "affiliate_cta": {
+    "enabled": false,
+    "headline": "",
+    "body": "",
+    "disclosure": "",
+    "items": []
+  },
+  "meta": {
+    "sources": [
+      "rnz.co.nz Politics (16 Nov 2026, Russell Palmer, Luxon says wait for votes could have taken 5 weeks without enrolment changes)",
+      "rnz.co.nz Sport (15 Nov 2026, Kiwis crushed by Kangaroos in Rugby League World Cup final)",
+      "rnz.co.nz Sport (16 Nov 2026, Barry Guy, Coach Stacey Jones on worst performance by Kiwis)",
+      "nrl.com (15 Nov 2026, Kangaroos stand tall to make it a World Cup four-peat)",
+      "usitc.gov (13 Nov 2026, USITC Reaches Equally Divided Determination in Lamb Meat Global Safeguard Investigation)",
+      "New Zealand Government / RNZ (14 Nov 2026, statement from Todd McClay on US lamb safeguard investigation)",
+      "beeflambnz.com (19 Oct 2026, B+LNZ representing farmers at US Lamb Safeguard hearing)"
+    ],
+    "qa_verified": true
+  }
+}
