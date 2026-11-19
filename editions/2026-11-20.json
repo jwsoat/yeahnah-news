@@ -1,0 +1,91 @@
+{
+  "slug": "2026-11-20",
+  "date": "2026-11-20",
+  "edition": "Issue 048: Anthropic is now worth two trillion dollars and still slightly scared of itself, Beauden Barrett reaches a milestone no back on Earth has hit, and an ambassador, a mayor and the Age of Enlightenment walk into a news cycle",
+  "tagline": "Your 3-minute Friday reset: the biggest IPO in history leaves Kiwis watching from the street, a 3:10am appointment with Beauden Barrett's big number, and the diplomatic smackdown we didn't know we needed.",
+  "reading_minutes": 3,
+  "stories": [
+    {
+      "id": "s1",
+      "category": "tech",
+      "headline": "Anthropic lists in the biggest IPO on record — and the chatbot company now has a two-trillion-dollar address",
+      "summary": "Anthropic, maker of the Claude chatbot, jumped 34 percent on its Nasdaq debut and is now valued at about US$2 trillion after raising a record US$81.3 billion — the largest initial public offering ever — while New Zealand retail investors were shut out of the offer itself.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "Anthropic, the company behind the Claude chatbot, has made the strongest stock market debut in history: its shares jumped 34 percent at the open on the Nasdaq, and the firm is now valued at roughly US$2 trillion. The company sold about 980 million shares, raising US$81.3 billion — the largest initial public offering on record, ahead of the SpaceX listing. Founded in 2021 and backed by Amazon and Google, Anthropic is the main rival to OpenAI in the generative-AI market. Shares opened at US$111.50 against a US$83 IPO price, and Reuters reported nearly 3,000 current and former employees are set to become paper millionaires. One country was notably not at the party: Anthropic's SEC filing explicitly excludes offers registered in New Zealand — page 329, right there — so Kiwi retail investors were shut out of the IPO itself, while Australian brokerages were offered a dedicated retail prospectus."
+        },
+        {
+          "kind": "banter",
+          "text": "Let's just sit with the headline number for a second. A company whose own IPO paperwork warns that advanced AI could 'pose catastrophic or existential risks to humanity' is now worth about two trillion dollars. That is the largest payday in stock-market history attached to a document that literally explains how the product might end us — peak 'this is fine', and the emoji is a rocket. And once again, New Zealand watched the wedding from the street: Australians got a dedicated retail prospectus and a seat at the buffet; we got one line on page 329 of a 335-page filing telling us to jog on. The advisers call IPO pricing a science; the rest of us call it chaos with a PDF. Still, save a little sympathy for the fresh paper millionaires: they now have to watch their own stock price every single day for work, which sounds considerably worse than employment."
+        },
+        {
+          "kind": "fact",
+          "text": "RNZ (20 Nov 2026, 6:14am, Anthropic valued at about US$2 trillion after shares jump on Wall Street debut): shares rose 34 percent on debut, opening at US$111.50 (NZ$202.88) versus a US$83 IPO price; fully diluted market value about US$2 trillion at the open, against roughly US$1.5 trillion at the IPO price; about 980 million shares sold, raising US$81.3 billion — the largest initial public offering on record; Anthropic founded 2021, backed by Amazon and Google, main rival to OpenAI; Reuters: nearly 3,000 current and former employees set to become paper millionaires. RNZ (28 Oct 2026, 6:14am, Kiwis shut out of Anthropic IPO, while Aussies get a seat at the table): Anthropic's SEC filing restricts the offer in NZ — 'This document has not been registered, filed with or approved by any New Zealand regulatory authority under the Financial Markets Conduct Act 2013' (page 329) — excluding most NZ retail investors; Australia was offered a dedicated retail prospectus; NZ investors could buy shares on the Nasdaq once trading began. The Post (19 Nov 2026): the debut surpassed the SpaceX IPO to become the record listing."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "category": "sport",
+      "headline": "Beauden Barrett plays his 150th test this weekend — a milestone no back in the world has ever reached",
+      "summary": "Beauden Barrett starts at fullback for the All Blacks' clash with England at Twickenham on Sunday morning (NZT) in his 150th test — just the fourth player ever, and the first back in world rugby, to reach the mark — while Anton Lienert-Brown celebrates his 100th test and coach Dave Rennie rings eight changes after last weekend's loss to Wales.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "Beauden Barrett is set to play his 150th test for the All Blacks, named at fullback for Sunday morning's clash with England at Allianz Stadium, Twickenham — kickoff 3:10am New Zealand time. In doing so he becomes just the fourth player in history, and the first back in the world, to reach 150 tests; among All Blacks, only Sam Whitelock (153) has played more. It is a double milestone weekend: Anton Lienert-Brown starts at centre in his 100th test. Coach Dave Rennie has rung eight changes to the match-day 23 that lost to Wales in Cardiff last weekend, bringing Damian McKenzie, Jordie Barrett and Will Jordan back into the run-on side, with Richie Mo'unga among those dropping to the reserves. A win would likely secure the All Blacks' place in next weekend's Nations Championship Grand Final — also at Twickenham — and they lead the Southern Hemisphere standings by one point from South Africa. The match will be the 48th test between the two nations, who first met at Crystal Palace in 1905."
+        },
+        {
+          "kind": "banter",
+          "text": "The All Blacks aren't a team this weekend, they're a Barrett family reunion: Beauden is on 150, Jordie is back in the run-on side, and Scott is in the engine room — a decent chunk of the national side now shares the same group chat and the same lawn. Rennie says it's 'a day to remember for the Barrett whānau', which is diplomatic for 'we built a rugby team around one New Plymouth family and would you look at that, it's working'. The 3:10am kickoff means the only people still conscious will be us, the cows, and whichever poor soul drew the Sunday paper shift — a time slot that should come with a complimentary breakfast, a blanket, and a note to your manager. As for the milestone: 150 tests as a back is rugby's official way of saying no one ever managed to catch you, even with a 15-year head start. Enjoy it, Beauden — you've earned the only record the forwards can't tackle."
+        },
+        {
+          "kind": "fact",
+          "text": "RNZ (20 Nov 2026, 6:36am, Joe Porter, Beauden Barrett reaches milestone as All Blacks ring changes for England test): Barrett named to start at fullback in his 150th test vs England at Twickenham, Sunday morning NZT; just the fourth player ever and the first back in the world to reach 150 tests; second All Black after Sam Whitelock (153); Anton Lienert-Brown starts at centre in his 100th test; eight changes to the 23 that lost to Wales in Cardiff last weekend, with Damian McKenzie, Jordie Barrett and Will Jordan returning and Richie Mo'unga, George Bower, Asafo Aumua, Anton Segner and Cortez Ratima to the reserves; Scott Barrett (93) also in the match-day 23; Rennie: 'a great occasion for Beauden and his family'; kickoff 3:10am NZT; 48th test between the All Blacks and England, first meeting at Crystal Palace in 1905; a win would likely secure a Nations Championship Grand Final spot next weekend, also at Twickenham; All Blacks lead the Southern Hemisphere standings by one point from South Africa."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "category": "politics",
+      "headline": "An ambassador, a mayor and the Age of Enlightenment walk into a news cycle",
+      "summary": "Labour's Willie Jackson has called US Ambassador Jared Novelly a 'clown' who should be kicked out of New Zealand, in the latest twist of the row that began when Auckland Mayor Wayne Brown told Stuff 'democracy's had its day', praised China, and suggested selling New Zealand's Five Eyes seat to Japan — drawing an 'Ok, Boomer!' social post and a demand that Brown apologise to the Age of Enlightenment.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "New Zealand's newest diplomatic incident involves a US ambassador, an Auckland mayor and the Age of Enlightenment, and it is the most entertaining thing on the news wire. Labour MP Willie Jackson has labelled US Ambassador Jared Novelly a 'clown' and called for him to be kicked out of the country — the latest twist in the row that began when Novelly criticised Auckland Mayor Wayne Brown over comments Brown made during a tour of China. Brown told Stuff that 'democracy's had its day' and it was 'time for something else', praised China's economic model, questioned recent Western elections, and suggested New Zealand sell its Five Eyes intelligence-alliance seat to Japan; he later repeated the claims in a Chinese state television interview, saying Wellington was his 'biggest obstacle' and that Auckland is 'definitely more pro-China'. Novelly responded with an extraordinary public call-out — posting 'Ok, Boomer!' — and has since written that Brown should apologise 'to the Age of Enlightenment as well', mused that the mayor might be 'looking to establish a regime in Auckland for himself', and told Stuff Brown 'might have been on crack' when he made the remarks, which were 'hypocritical from somebody who was democratically elected'. Brown has since withdrawn the comments."
+        },
+        {
+          "kind": "banter",
+          "text": "This is what happens when diplomatic protocol gets quietly replaced with a social-media burner account. The official position of the United States on a sitting New Zealand mayor is now, apparently, 'Ok, Boomer!' and a call for a formal apology to a 17th-century philosophical movement — somehow the least absurd escalation on the table. The mayor's own material deserves a share of the blame: announcing that democracy has 'had its day' from the country whose general-election count is literally still being finalised (27 November, in case the democracy needed to actually finish the race) was always going to provoke. Never mind the delicious detail that the man questioning whether elections should exist at all was, at that exact moment, the man elections had put in charge of Auckland. Diplomats, mayors, philosophical movements — everyone gets served, nobody is the victim, and somewhere in France the Age of Enlightenment is drafting its dignified response: probably 'We were fine without the apology, but thank you for thinking of us.'"
+        },
+        {
+          "kind": "fact",
+          "text": "NZ Herald (19 Nov 2026, Lochlan Lineham, Willie Jackson calls US ambassador Jared Novelly a 'clown' and wants him kicked out): Jackson labelled Novelly a clown and said he should be kicked out of NZ, following the ambassador's criticism of Mayor Wayne Brown, including 'From my perspective, actually democracy is an important thing... to say that democracy has had its day, I think is quite an appalling thing to say'. RNZ (Wayne Brown says Wellington aligned with US in full-length interview on Chinese TV): in a 24-minute CGTN interview Brown said 'Wellington's my biggest obstacle', 'Auckland, the biggest city, is definitely more pro-China', questioned the value of Five Eyes ('I can't see anything in it for us') and said he had suggested selling NZ's Five Eyes seat to Japan; he told Stuff 'Democracy's had its day. It's time for something else, really.' RNZ (US Ambassador Jared Novelly labels Auckland mayor Wayne Brown a 'boomer'): Novelly's social post opened 'Ok, Boomer!', suggested NZ government intelligence briefings require a minimum level of intelligence, likened democracy to Auckland traffic ('no one would recommend getting rid of the traffic lights'), said Brown should 'apologise to the Age of Enlightenment as well', and speculated the mayor was 'looking to establish a regime in Auckland for himself'. Stuff (20 Nov 2026, US ambassador says Wayne Brown might have been on 'crack' when he made his democracy comments): Novelly doubled down, called Brown's remarks 'hypocritical from somebody who was democratically elected', and said Brown 'owes all the Five Eyes partners an apology'. The Post / Stuff network (20 Nov 2026): Brown has since withdrawn the comments. RNZ (20 Nov 2026, The electorates bucking the two-tick trend): the final general-election vote count is not returned until 27 November."
+        }
+      ]
+    }
+  ],
+  "affiliate_cta": {
+    "enabled": false,
+    "headline": "",
+    "body": "",
+    "disclosure": "",
+    "items": []
+  },
+  "meta": {
+    "sources": [
+      "RNZ (20 Nov 2026, Anthropic valued at about US$2 trillion after shares jump on Wall Street debut)",
+      "RNZ (28 Oct 2026, Kiwis shut out of Anthropic IPO, while Aussies get a seat at the table)",
+      "RNZ (20 Nov 2026, Joe Porter, Beauden Barrett reaches milestone as All Blacks ring changes for England test)",
+      "NZ Herald (19 Nov 2026, Lochlan Lineham, Willie Jackson calls US ambassador Jared Novelly a 'clown' and wants him kicked out)",
+      "RNZ (Wayne Brown says Wellington aligned with US in full-length interview on Chinese TV)",
+      "RNZ (US Ambassador Jared Novelly labels Auckland mayor Wayne Brown a 'boomer')",
+      "Stuff (20 Nov 2026, US ambassador says Wayne Brown might have been on 'crack' when he made his democracy comments)",
+      "The Post / Stuff network (20 Nov 2026, Mayor U-turns comments / councillors mock Brown's China praise)",
+      "RNZ (20 Nov 2026, The electorates bucking the two-tick trend — final count 27 November)",
+      "The Post (19 Nov 2026, Anthropic raises record US$81 billion in stock market debut, surpasses SpaceX IPO)"
+    ],
+    "qa_verified": true
+  }
+}
