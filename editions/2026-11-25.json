@@ -1,0 +1,88 @@
+{
+  "slug": "2026-11-25",
+  "date": "2026-11-25",
+  "edition": "Issue 051: a third RNZ exec quits while staff prep a second march, Trump makes up to $15m off a board decision he says he made, and the Black Ferns take first-ever tests to Nelson and Timaru",
+  "tagline": "Your 3-minute Wednesday reset: the public broadcaster's leadership out the door while the people who make the news head up the street, a president profiting from his own deal-making, and a world-beating side playing a town whose last big rugby moment was 1936.",
+  "reading_minutes": 3,
+  "stories": [
+    {
+      "id": "s1",
+      "category": "media",
+      "headline": "Third RNZ executive resigns as staff prepare to march again - the 'tough few weeks' keep getting tougher",
+      "summary": "Chief people officer Sarah Neilson has resigned, the third senior RNZ executive to leave in under two months, alongside a $11.8m deficit, a $5m overdraft that broke the law, and plans to cut one in six jobs while workers protest again on Wednesday.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "The public broadcaster's leadership exodus has claimed a third senior scalp. RNZ confirmed on Tuesday that chief people officer Sarah Neilson had resigned, following chief financial officer Hilary Parker - who departed unexpectedly in early October - and chief executive Paul Thompson, who stepped down on 16 November, leaving six weeks early. The departures come as RNZ pushes ahead with plans to cut the equivalent of 58 full-time jobs, about one in six of its workforce, after a shock $11.8 million annual deficit. That sits alongside a $12 million budget blowout and a $5 million overdraft with Westpac that breached the Crown Entities Act because it was never approved by ministers; RNZ board chair Brent Impey has accepted the organisation broke the law. Meanwhile RNZ staff are preparing to take to the streets for a second time in just over a week on Wednesday over the cuts and conditions."
+        },
+        {
+          "kind": "banter",
+          "text": "There is a list of people quitting RNZ faster than the board can schedule a meeting about the money. Chief financial officer, gone in October. Chief executive, out the door in November - six weeks early, because when your exit is filed as six weeks early, the emergency stairs might as well have a plaque. Now the chief people officer, which is quietly the most damning title on the org chart to lose when the entire problem is how the people are being treated. And dead in the middle of it all, the board signed off a five-million-dollar overdraft that turned out to be literally against the law - just in case a land sale ran late. Just in case! Meanwhile the staff who actually make the news are getting their march boots on for the second time in eight days, because apparently the only grown-ups in this building sit below the exec floor. One in six jobs going, and the leadership is a revolving door that keeps collecting pay on the way out. Tough few weeks is the phrase doing all the heavy lifting - and it is exactly the wrong phrase for a crisis the people at the top mostly caused and the people at the bottom will mostly feel. Somewhere three soon-to-be-former executives are updating their LinkedIn in the same waiting room and pretending not to notice each other."
+        },
+        {
+          "kind": "fact",
+          "text": "Stuff (24 Nov 2026, Third RNZ executive resigns as workers prepare to protest again): chief people officer Sarah Neilson's resignation was confirmed on Tuesday (24 Nov), following chief financial officer Hilary Parker (left unexpectedly in early October) and chief executive Paul Thompson (stepped down 16 November, six weeks early). RNZ is proceeding with plans to cut the equivalent of 58 full-time roles - about one in six of its workforce - after a shock $11.8m annual deficit, and staff will march on Wednesday (25 Nov) for the second time in just over a week. RNZ / NZ Herald (11 Nov 2026, RNZ's unlawful overdraft was signed off by the board): the $5m overdraft set up with Westpac breached sections 160 and 162 of the Crown Entities Act 2004 for lacking ministerial approval; RNZ board chair Brent Impey accepted the organisation had broken the law; the board approved the facility on 9 June 2026 at the initiative of then-CFO Hilary Parker, and it was never drawn. RNZ separately revealed a $12m budget blowout, the scale of which only became clear in October, with CEO Paul Thompson taking responsibility."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "category": "tech",
+      "headline": "Trump made up to $15m as Nvidia soared on Jensen Huang's comeback - after he says he made the deal",
+      "summary": "President Trump openly took credit for Nvidia's board reinstating Jensen Huang as CEO two weeks after he resigned over scandal; the stock jumped about 31.5% adding about $950bn in a day, and a Financial Times analysis says Trump's holdings could have gained $1.3m-$15m.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "The week's strangest corporate saga now has a very public maths problem. On Monday, Nvidia's board reinstated Jensen Huang as chief executive - two weeks after he resigned over allegations of multiple affairs, including with someone US authorities suspected of spying for China. President Donald Trump openly took credit, telling CNBC he had spoken to the company and convinced them that he made the deal. Nvidia's stock soared about 31.5 percent in a single day, adding close to a trillion dollars of market value - about $950 billion - the largest one-day gain ever recorded for a US-listed company. A Financial Times analysis of Trump's financial disclosures estimated he held between 32,000 and 370,000 Nvidia shares, meaning Monday's rally could have added between $1.3 million and $15 million to his position. A separate CNBC analysis found his investment accounts have bought or sold Nvidia stock at least 103 times since he returned to the White House, in transactions worth a combined $27 million to $97.5 million. The White House says independent advisors manage Trump's investments without his input, and Trump denies being briefed about Huang before a share sale in May."
+        },
+        {
+          "kind": "banter",
+          "text": "You have to admire the sheer, untroubled efficiency of it: a president phones a company and tells it to rehire its disgraced founder, the shares climb thirty percent, and - in a completely separate coincidence that his independent, never-his-input advisors just happened to have arranged - he turns out to own some of those shares. Somewhere between thirty-two thousand and three hundred and seventy thousand of them, which is exactly the precision that lets a man claim both I made the deal and I had no idea. Nvidia staff chanting the returning CEO's name like a returning rugby hero would be heartwarming if the man had not quit eleven days earlier over a spy-adjacent workplace scandal. Instead it is the tech industry's favourite religion - founder worship - with the collection plate being passed around the boardroom. And the biggest winner is a politician who has turned I do not know anything about my own money into a full-time job title. The only people not celebrating are the ones doing the actual work of running a trillion-dollar company while their leader's reinstatement was negotiated on a phone call from a man whose main qualification was owning stock. But do not worry - the disclosure forms will explain it all, eventually, in ranges that are technically true and practically useless."
+        },
+        {
+          "kind": "fact",
+          "text": "CNBC analysis (16 Nov 2026): Trump's investment accounts have bought or sold Nvidia stock at least 103 times since he returned to the White House, in transactions worth a combined $27m-$97.5m; his disclosures (updated through August) show Nvidia became one of his three largest individual holdings, valued at $12.5m-$58m at the end of 2025 versus $615k-$1.3m a year earlier; among the trades was a sale of up to $1m on 18 May, five days after Secretary of State Marco Rubio reportedly briefed Trump about Huang's relationship with a suspected Chinese spy - Trump denies being briefed. Financial Times / The Guardian (24 Nov 2026): Huang, who co-founded Nvidia in 1993 and was ousted on 12 November over allegations of affairs with two employees and an alleged relationship with a suspected Chinese spy, was reinstated by the board on 23 November after Trump's public intervention; Trump told CNBC he had spoken to the company and convinced them that he made the deal; Nvidia shares rose about 31.5 percent on Monday, adding about $950bn to market value - the largest one-day gain ever for a US-listed company; at 32,000-370,000 shares held, the rally could have added $1.3m-$15m to Trump's position (Financial Times estimate). Note: Trump's trade and holding values are ranges because his disclosures are ranges; this story trended via Stuff's top-stories feed on 25 Nov 2026."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "category": "sport",
+      "headline": "Black Ferns make history by taking tests to Nelson and Timaru for the first time in 2027",
+      "summary": "New Zealand Rugby confirmed the Black Ferns' 2027 home schedule: first-ever tests in Nelson (v Canada, 10 April) and Timaru (v USA, 17 April), plus Palmerston North's first Black Ferns test since 1999 (v Australia, 21 August), built around the first British and Irish Lions Women's Series.",
+      "body": [
+        {
+          "kind": "lead",
+          "text": "The Black Ferns are taking their 2027 Pacific Four Series on the road. New Zealand Rugby confirmed on Wednesday that Nelson and Timaru will host test matches for the first time in the team's history. The Ferns open the series against world-number-three Canada at Trafalgar Park, Nelson, on 10 April, then face the USA at Fraser Park, Timaru, on 17 April. The O'Reilly Cup test against Australia at Palmerston North's Palmy Arena on 21 August ends a 28-year wait for the Manawatu city, which last hosted Black Ferns tests in October 1999. Head coach Whitney Hansen said the fixtures were about taking the Black Ferns to places they do not often get to, connecting with those communities and giving fans the chance to see the team up close in their own backyard. The 2027 season also includes the first-ever British and Irish Lions Women's Series, with the Black Ferns XV opening against the Lions in Whangarei on 4 September. South Canterbury Rugby chief executive Tim Hyde-Smith called the Timaru match a landmark moment - the closest the region had come to hosting a rugby test before was the All Blacks' 16-13 win over South Canterbury at Fraser Park in 1936."
+        },
+        {
+          "kind": "banter",
+          "text": "Somewhere in a 1936 fixture list, the All Blacks beating South Canterbury at Fraser Park is still the biggest rugby day of Timaru's life. Ninety-one years later the Black Ferns roll in and make it a bigger deal than that ever was - and honestly, that one stat is the entire sport. The world's third-ranked team opens its season in a town whose only previous brush with international rugby involved a men's touring side and a scoreline from before the second world war. Do not read this as the Ferns being sent out on a pilgrimage; read it as Nelson, Timaru and a Palmerston North still nursing a 28-year grudge against the O'Reilly Cup finally getting the women's game in their own backyards - which is exactly how the game grows everywhere else on the planet. And it hands lazy comedians a joke they do not even need to sharpen: a side that has lost one test in a whole season under a new coach and gives the world's best a proper hiding, still has to haul itself around smaller towns to get noticed, while men's rugby fills big stadiums on brand names alone. So cheer the road trip for what it is - history, on a smaller ground, in front of people who will actually get to see it - and quietly ask the schedule-maker why the team at the top of its game is the one doing all the travelling to be seen. Nelson, Timaru, Palmerston North: you have got a date with a dynasty, and this time the haka is happening somewhere you can hear it."
+        },
+        {
+          "kind": "fact",
+          "text": "RNZ (25 Nov 2026, Black Ferns to venture into the regions) and New Zealand Rugby (announcement, 24 Nov 2026): the Black Ferns' confirmed 2027 home schedule includes their first-ever test in Nelson (v Canada, 10 April 2027, Trafalgar Park) and their first test in Timaru (v USA, 17 April 2027, Fraser Park), plus the O'Reilly Cup test against Australia at Palmerston North's Palmy Arena on 21 August 2027 - the first Black Ferns test there since October 1999 (Canada 73-0 and USA 65-5, when Tammi Wilson scored six tries against the USA). Coach Whitney Hansen called the regional fixtures a chance to connect with those communities; the 2027 season includes the inaugural British and Irish Lions Women's Series, with the Black Ferns XV facing the Lions in Whangarei on 4 September. The Press (24 Nov 2026, Doug Sail): South Canterbury Rugby CEO Tim Hyde-Smith called the Timaru match a landmark moment; the closest the region had come to hosting a rugby union test was the All Blacks' 16-13 win over South Canterbury at Fraser Park, Timaru, on 9 September 1936. Canada are ranked third in the world and the USA sixth (per New Zealand Rugby / RNZ)."
+        }
+      ]
+    }
+  ],
+  "affiliate_cta": {
+    "enabled": false,
+    "headline": "",
+    "body": "",
+    "disclosure": "",
+    "items": []
+  },
+  "meta": {
+    "sources": [
+      "Stuff (24 Nov 2026, Third RNZ executive resigns as workers prepare to protest again)",
+      "RNZ / NZ Herald (11 Nov 2026, RNZ's unlawful overdraft was signed off by the board)",
+      "CNBC analysis (16 Nov 2026, Trump-Nvidia holdings)",
+      "Financial Times / The Guardian (24 Nov 2026, Jensen Huang reinstatement + Trump holdings) - trended via Stuff top stories 25 Nov 2026",
+      "RNZ (25 Nov 2026, Black Ferns to venture into the regions)",
+      "New Zealand Rugby announcement (24 Nov 2026, 2027 Black Ferns home schedule)",
+      "The Press / Timaru Herald (24 Nov 2026, Doug Sail, Test rugby first for Timaru)"
+    ],
+    "qa_verified": true
+  }
+}
